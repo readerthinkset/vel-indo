@@ -209,7 +209,42 @@
       "transliteration": "De-ngar le-bih ba-nyak, bi-cha-ra se-di-kit.",
       "category": "Self Improvement",
       "generated_at": "2026-06-16T20:12:10.111935"
+    },
+    {
+      "english": "Help, please. I'm lost.",
+      "indonesian": "Tolong, saya tersesat.",
+      "transliteration": "Toh-long, sah-yah ter-seh-sat.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T22:07:34.922987"
+    },
+    {
+      "english": "Where is the hospital?",
+      "indonesian": "Di mana rumah sakit?",
+      "transliteration": "Dee mah-nah roo-mah sah-keet?",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T22:07:34.922996"
+    },
+    {
+      "english": "I need a doctor, quickly.",
+      "indonesian": "Saya perlu dokter, cepat.",
+      "transliteration": "Sah-yah per-loo dok-ter, che-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T22:07:34.922997"
+    },
+    {
+      "english": "There's been an accident.",
+      "indonesian": "Terjadi kecelakaan.",
+      "transliteration": "Ter-jah-dee ke-che-la-ka-an.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T22:07:34.922999"
+    },
+    {
+      "english": "Call the police, now.",
+      "indonesian": "Panggil polisi, sekarang.",
+      "transliteration": "Pang-geel poh-lee-see, seh-ka-rang.",
+      "category": "Emergency",
+      "generated_at": "2026-06-16T22:07:34.923000"
     }
   ],
-  "last_updated": "2026-06-16T20:12:10.111937"
+  "last_updated": "2026-06-16T22:07:34.923002"
 }
