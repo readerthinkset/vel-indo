@@ -139,7 +139,42 @@
       "transliteration": "Bertanya, cari jawaban.",
       "category": "Success",
       "generated_at": "2026-06-16T16:41:38.401208"
+    },
+    {
+      "english": "Speak up, be heard.",
+      "indonesian": "Bicara, didengar.",
+      "transliteration": "Bi-cha-ra, di-de-ngar.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:28:36.812293"
+    },
+    {
+      "english": "You can do it, try.",
+      "indonesian": "Kamu bisa, coba.",
+      "transliteration": "Ka-mu bi-sa, cho-ba.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:28:36.812303"
+    },
+    {
+      "english": "Learn more, grow stronger.",
+      "indonesian": "Belajar lagi, jadi kuat.",
+      "transliteration": "Be-la-jar la-gi, ja-di kuat.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:28:36.812304"
+    },
+    {
+      "english": "Your voice, matters.",
+      "indonesian": "Suaramu, penting.",
+      "transliteration": "Su-a-ra-mu, pen-ting.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:28:36.812306"
+    },
+    {
+      "english": "Embrace mistakes, learn fast.",
+      "indonesian": "Terima salah, belajar cepat.",
+      "transliteration": "Ter-i-ma sa-lah, be-la-jar ce-pat.",
+      "category": "Confidence",
+      "generated_at": "2026-06-16T18:28:36.812307"
     }
   ],
-  "last_updated": "2026-06-16T16:41:38.401210"
+  "last_updated": "2026-06-16T18:28:36.812309"
 }
