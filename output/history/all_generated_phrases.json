@@ -349,7 +349,42 @@
       "transliteration": "so-re i-ni, san-tai",
       "category": "Time",
       "generated_at": "2026-06-17T16:56:50.488640"
+    },
+    {
+      "english": "Steady, now. Breathe deep.",
+      "indonesian": "Tenang, sekarang. Tarik napas dalam.",
+      "transliteration": "Te-nang, se-ka-rang. Ta-rik na-pas da-lam.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T19:23:05.832930"
+    },
+    {
+      "english": "Find your center, gently.",
+      "indonesian": "Cari pusatmu, perlahan saja.",
+      "transliteration": "Ca-ri pu-sat-mu, per-la-han sa-ja.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T19:23:05.832937"
+    },
+    {
+      "english": "One foot, then the other.",
+      "indonesian": "Satu kaki, lalu yang lain.",
+      "transliteration": "Sa-tu ka-ki, la-lu yang lain.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T19:23:05.832938"
+    },
+    {
+      "english": "Hold it steady, be still.",
+      "indonesian": "Tahan stabil, diam saja.",
+      "transliteration": "Ta-han sta-bil, di-am sa-ja.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T19:23:05.832939"
+    },
+    {
+      "english": "Feel the ground, solid.",
+      "indonesian": "Rasakan tanahnya, kokoh.",
+      "transliteration": "Ra-sa-kan ta-nah-nya, ko-koh.",
+      "category": "Balance",
+      "generated_at": "2026-06-17T19:23:05.832941"
     }
   ],
-  "last_updated": "2026-06-17T16:56:50.488642"
+  "last_updated": "2026-06-17T19:23:05.832942"
 }
