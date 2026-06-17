@@ -314,7 +314,42 @@
       "transliteration": "Peh-dahs, tah-pee tee-dahk teh-rlah-loo.",
       "category": "Restaurant",
       "generated_at": "2026-06-17T15:15:51.666102"
+    },
+    {
+      "english": "Now, let's go.",
+      "indonesian": "Sekarang, ayo pergi.",
+      "transliteration": "se-ka-rang, a-yo per-gi",
+      "category": "Time",
+      "generated_at": "2026-06-17T16:56:50.488627"
+    },
+    {
+      "english": "Later, maybe.",
+      "indonesian": "Nanti, mungkin saja.",
+      "transliteration": "nan-ti, mung-kin sa-ja",
+      "category": "Time",
+      "generated_at": "2026-06-17T16:56:50.488636"
+    },
+    {
+      "english": "Once upon a time.",
+      "indonesian": "Dahulu kala.",
+      "transliteration": "da-hu-lu ka-la",
+      "category": "Time",
+      "generated_at": "2026-06-17T16:56:50.488638"
+    },
+    {
+      "english": "In the morning, awake.",
+      "indonesian": "Pagi hari, bangun.",
+      "transliteration": "pa-gi ha-ri, ba-ngun",
+      "category": "Time",
+      "generated_at": "2026-06-17T16:56:50.488639"
+    },
+    {
+      "english": "Afternoon break, relax.",
+      "indonesian": "Sore ini, santai.",
+      "transliteration": "so-re i-ni, san-tai",
+      "category": "Time",
+      "generated_at": "2026-06-17T16:56:50.488640"
     }
   ],
-  "last_updated": "2026-06-17T15:15:51.666104"
+  "last_updated": "2026-06-17T16:56:50.488642"
 }
