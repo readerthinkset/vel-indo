@@ -384,7 +384,42 @@
       "transliteration": "Ra-sa-kan ta-nah-nya, ko-koh.",
       "category": "Balance",
       "generated_at": "2026-06-17T19:23:05.832941"
+    },
+    {
+      "english": "Good things, come to those who wait.",
+      "indonesian": "Hal baik, datang pada yang sabar.",
+      "transliteration": "Hal baiik, daatang pada yang sabar.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T21:56:11.935551"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "indonesian": "Perlahan tapi pasti, menang.",
+      "transliteration": "Perlahan tapi pasti, menaang.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T21:56:11.935560"
+    },
+    {
+      "english": "Don't rush, enjoy the journey.",
+      "indonesian": "Jangan terburu-buru, nikmati prosesnya.",
+      "transliteration": "Jangan terburu-buru, nikmati prosesnya.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T21:56:11.935562"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "indonesian": "Terus mencoba, jangan menyerah.",
+      "transliteration": "Terus mencoba, jangan menyerah.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T21:56:11.935563"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "indonesian": "Sabar, itu kebajikan.",
+      "transliteration": "Sabar, itu kebajikan.",
+      "category": "Patience",
+      "generated_at": "2026-06-17T21:56:11.935564"
     }
   ],
-  "last_updated": "2026-06-17T19:23:05.832942"
+  "last_updated": "2026-06-17T21:56:11.935565"
 }
