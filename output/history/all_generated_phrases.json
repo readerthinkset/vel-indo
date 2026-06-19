@@ -629,7 +629,42 @@
       "transliteration": "Rangkul tantangan, capai tujuanmu.",
       "category": "Purpose",
       "generated_at": "2026-06-19T04:23:17.417800"
+    },
+    {
+      "english": "Grow daily, learn always.",
+      "indonesian": "Tumbuh setiap hari, belajar selalu.",
+      "transliteration": "Tumbuh setiap hari, belajar selalu.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T14:54:05.552555"
+    },
+    {
+      "english": "Be kind, go far.",
+      "indonesian": "Baik hati, melangkah jauh.",
+      "transliteration": "Baik hati, melangkah jauh.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T14:54:05.552564"
+    },
+    {
+      "english": "Try new things, find joy.",
+      "indonesian": "Coba hal baru, temukan kebahagiaan.",
+      "transliteration": "Coba hal baru, temukan kebahagiaan.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T14:54:05.552566"
+    },
+    {
+      "english": "Stay curious, stay open.",
+      "indonesian": "Tetap ingin tahu, tetap terbuka.",
+      "transliteration": "Tetap ingin tahu, tetap terbuka.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T14:54:05.552567"
+    },
+    {
+      "english": "Work smart, live well.",
+      "indonesian": "Kerja cerdas, hidup bahagia.",
+      "transliteration": "Kerja cerdas, hidup bahagia.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T14:54:05.552568"
     }
   ],
-  "last_updated": "2026-06-19T04:23:17.417802"
+  "last_updated": "2026-06-19T14:54:05.552570"
 }
