@@ -559,7 +559,42 @@
       "transliteration": "Ah-koo kah-nghen oh-broh-lahn kee-tah, bah-nghet.",
       "category": "Friendship",
       "generated_at": "2026-06-18T19:26:17.903335"
+    },
+    {
+      "english": "How much is this, please?",
+      "indonesian": "Berapa harganya, ya?",
+      "transliteration": "Ber-ah-pah har-gah-nyah, yah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T00:08:33.176364"
+    },
+    {
+      "english": "I want to buy this one.",
+      "indonesian": "Saya mau beli yang ini.",
+      "transliteration": "Sah-yah mau beh-lee yang ee-nee.",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T00:08:33.176373"
+    },
+    {
+      "english": "Do you have other colors?",
+      "indonesian": "Ada warna lain, tidak?",
+      "transliteration": "Ah-dah war-nah lah-een, tee-dak?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T00:08:33.176374"
+    },
+    {
+      "english": "Can I try this on?",
+      "indonesian": "Boleh coba ini, Pak/Bu?",
+      "transliteration": "Boh-leh choh-bah ee-nee, Pak/Bu?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T00:08:33.176376"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "indonesian": "Ruang coba di mana?",
+      "transliteration": "Roo-ahng choh-bah dee mah-nah?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T00:08:33.176377"
     }
   ],
-  "last_updated": "2026-06-18T19:26:17.903340"
+  "last_updated": "2026-06-19T00:08:33.176379"
 }
