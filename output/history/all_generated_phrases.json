@@ -874,7 +874,42 @@
       "transliteration": "Tahs sah-yah dee-choo-ree.",
       "category": "Emergency",
       "generated_at": "2026-06-20T15:47:00.984560"
+    },
+    {
+      "english": "So happy, truly.",
+      "indonesian": "Sangat bahagia, sungguh.",
+      "transliteration": "Sah-ngat bah-hah-gee-ah, soong-gooh.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:07:45.337974"
+    },
+    {
+      "english": "This is wonderful, yes!",
+      "indonesian": "Ini indah, ya!",
+      "transliteration": "Ee-nee een-dah, yah!",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:07:45.337984"
+    },
+    {
+      "english": "Feeling great, so good.",
+      "indonesian": "Merasa hebat, baik sekali.",
+      "transliteration": "Meh-rah-sah heh-bah, bah-eek seh-kah-lee.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:07:45.337986"
+    },
+    {
+      "english": "What a lovely day.",
+      "indonesian": "Hari yang indah.",
+      "transliteration": "Hah-ree yahng een-dah.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:07:45.337987"
+    },
+    {
+      "english": "Pure joy, really.",
+      "indonesian": "Sukacita murni, benar.",
+      "transliteration": "Soo-kah-chee-tah moorn-ee, beh-nar.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:07:45.337989"
     }
   ],
-  "last_updated": "2026-06-20T15:47:00.984562"
+  "last_updated": "2026-06-20T18:07:45.337990"
 }
