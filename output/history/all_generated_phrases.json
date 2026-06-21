@@ -1084,7 +1084,42 @@
       "transliteration": "Nee-kma-tee pro-ses-nyah, boo-kan hah-nyah ah-heer.",
       "category": "Wisdom",
       "generated_at": "2026-06-21T18:17:00.375611"
+    },
+    {
+      "english": "Tonight, eat well.",
+      "indonesian": "Malam ini, makan enak.",
+      "transliteration": "ma-lam i-ni, ma-kan e-nak",
+      "category": "Time",
+      "generated_at": "2026-06-21T21:08:28.073474"
+    },
+    {
+      "english": "Tomorrow, new day.",
+      "indonesian": "Besok, hari baru.",
+      "transliteration": "be-sok, ha-ri ba-ru",
+      "category": "Time",
+      "generated_at": "2026-06-21T21:08:28.073486"
+    },
+    {
+      "english": "Last week, busy.",
+      "indonesian": "Minggu lalu, sibuk.",
+      "transliteration": "ming-gu la-lu, si-buk",
+      "category": "Time",
+      "generated_at": "2026-06-21T21:08:28.073488"
+    },
+    {
+      "english": "Next month, plan.",
+      "indonesian": "Bulan depan, direncanakan.",
+      "transliteration": "bu-lan de-pan, di-ren-ca-na-kan",
+      "category": "Time",
+      "generated_at": "2026-06-21T21:08:28.073489"
+    },
+    {
+      "english": "Always, be happy.",
+      "indonesian": "Selalu, berbahagia.",
+      "transliteration": "se-la-lu, ber-ba-ha-gi-a",
+      "category": "Time",
+      "generated_at": "2026-06-21T21:08:28.073490"
     }
   ],
-  "last_updated": "2026-06-21T18:17:00.375613"
+  "last_updated": "2026-06-21T21:08:28.073492"
 }
