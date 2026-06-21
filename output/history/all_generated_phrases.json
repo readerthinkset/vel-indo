@@ -979,7 +979,42 @@
       "transliteration": "Bagaimana kabarmu?",
       "category": "Greetings",
       "generated_at": "2026-06-21T04:18:38.213784"
+    },
+    {
+      "english": "A gentle word, can heal.",
+      "indonesian": "Kata lembut, bisa menyembuhkan.",
+      "transliteration": "Kah-tah lem-but, bee-sah meh-nyem-boo-kan.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T13:58:13.001026"
+    },
+    {
+      "english": "Share a smile, it's free.",
+      "indonesian": "Bagikan senyum, itu gratis.",
+      "transliteration": "Bah-gee-kan sen-yoom, ee-too grah-tees.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T13:58:13.001037"
+    },
+    {
+      "english": "Help someone, today.",
+      "indonesian": "Bantu seseorang, hari ini.",
+      "transliteration": "Bahn-too seh-sor-ang, hah-ree ee-nee.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T13:58:13.001039"
+    },
+    {
+      "english": "Listen well, understand more.",
+      "indonesian": "Dengar baik, mengerti lebih.",
+      "transliteration": "Deng-ar bah-eek, meng-er-tee leh-beeh.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T13:58:13.001040"
+    },
+    {
+      "english": "Give support, when needed.",
+      "indonesian": "Beri dukungan, saat perlu.",
+      "transliteration": "Beh-ree doo-koong-an, saat per-loo.",
+      "category": "Kindness",
+      "generated_at": "2026-06-21T13:58:13.001042"
     }
   ],
-  "last_updated": "2026-06-21T04:18:38.213786"
+  "last_updated": "2026-06-21T13:58:13.001043"
 }
