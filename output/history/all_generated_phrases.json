@@ -944,7 +944,42 @@
       "transliteration": "Ha-nya ha-dir, ber-na-pas.",
       "category": "Balance",
       "generated_at": "2026-06-20T21:09:32.846237"
+    },
+    {
+      "english": "Hello there, my friend.",
+      "indonesian": "Halo teman, apa kabar?",
+      "transliteration": "Halo teman, apa kabar?",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T04:18:38.213769"
+    },
+    {
+      "english": "Good morning, sir.",
+      "indonesian": "Selamat pagi, Bapak.",
+      "transliteration": "Selamat pagi, Bapak.",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T04:18:38.213780"
+    },
+    {
+      "english": "Good afternoon, madam.",
+      "indonesian": "Selamat siang, Ibu.",
+      "transliteration": "Selamat siang, Ibu.",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T04:18:38.213782"
+    },
+    {
+      "english": "Good evening, everyone.",
+      "indonesian": "Selamat sore, semuanya.",
+      "transliteration": "Selamat sore, semuanya.",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T04:18:38.213783"
+    },
+    {
+      "english": "How are you doing?",
+      "indonesian": "Bagaimana kabarmu?",
+      "transliteration": "Bagaimana kabarmu?",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T04:18:38.213784"
     }
   ],
-  "last_updated": "2026-06-20T21:09:32.846239"
+  "last_updated": "2026-06-21T04:18:38.213786"
 }
