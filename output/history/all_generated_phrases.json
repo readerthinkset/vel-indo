@@ -1224,7 +1224,42 @@
       "transliteration": "Toiletnya di mana?",
       "category": "Common Expressions",
       "generated_at": "2026-06-22T18:36:17.077842"
+    },
+    {
+      "english": "One apple, please.",
+      "indonesian": "Satu apel, tolong.",
+      "transliteration": "Sa-too ah-pel, to-long.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:08:04.347602"
+    },
+    {
+      "english": "Two cats, sleeping.",
+      "indonesian": "Dua kucing, tidur.",
+      "transliteration": "Doo-ah koo-ching, tee-door.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:08:04.347608"
+    },
+    {
+      "english": "Three books, read them.",
+      "indonesian": "Tiga buku, baca saja.",
+      "transliteration": "Tee-gah boo-koo, ba-cha sa-jah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:08:04.347610"
+    },
+    {
+      "english": "Four chairs, are empty.",
+      "indonesian": "Empat kursi, kosong.",
+      "transliteration": "Em-pat koor-see, ko-song.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:08:04.347612"
+    },
+    {
+      "english": "Five friends, came over.",
+      "indonesian": "Lima teman, datang.",
+      "transliteration": "Lee-mah te-man, da-tang.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:08:04.347613"
     }
   ],
-  "last_updated": "2026-06-22T18:36:17.077844"
+  "last_updated": "2026-06-22T20:08:04.347630"
 }
