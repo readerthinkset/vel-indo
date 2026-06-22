@@ -1259,7 +1259,42 @@
       "transliteration": "Lee-mah te-man, da-tang.",
       "category": "Numbers",
       "generated_at": "2026-06-22T20:08:04.347613"
+    },
+    {
+      "english": "Be brave, face it.",
+      "indonesian": "Berani, hadapi.",
+      "transliteration": "Be-ra-ni, ha-da-pi.",
+      "category": "Courage",
+      "generated_at": "2026-06-22T21:58:19.372222"
+    },
+    {
+      "english": "Step forward, don't fear.",
+      "indonesian": "Maju, jangan takut.",
+      "transliteration": "Ma-ju, ja-ngan ta-kut.",
+      "category": "Courage",
+      "generated_at": "2026-06-22T21:58:19.372232"
+    },
+    {
+      "english": "Try harder, you can.",
+      "indonesian": "Usaha lagi, bisa.",
+      "transliteration": "U-sa-ha la-gi, bi-sa.",
+      "category": "Courage",
+      "generated_at": "2026-06-22T21:58:19.372233"
+    },
+    {
+      "english": "Take a breath, believe.",
+      "indonesian": "Tarik napas, percaya.",
+      "transliteration": "Ta-rik na-pas, per-ca-ya.",
+      "category": "Courage",
+      "generated_at": "2026-06-22T21:58:19.372235"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "indonesian": "Jangan menyerah, terus.",
+      "transliteration": "Ja-ngan men-ye-rah, te-rus.",
+      "category": "Courage",
+      "generated_at": "2026-06-22T21:58:19.372236"
     }
   ],
-  "last_updated": "2026-06-22T20:08:04.347630"
+  "last_updated": "2026-06-22T21:58:19.372238"
 }
