@@ -1189,7 +1189,42 @@
       "transliteration": "Jangan poo-toos ah-sah.",
       "category": "Perseverance",
       "generated_at": "2026-06-22T16:46:28.436390"
+    },
+    {
+      "english": "Hello, how are you?",
+      "indonesian": "Halo, apa kabar?",
+      "transliteration": "Halo, apa kabar?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T18:36:17.077828"
+    },
+    {
+      "english": "Thank you, very much.",
+      "indonesian": "Terima kasih, banyak.",
+      "transliteration": "Terima kasih, banyak.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T18:36:17.077838"
+    },
+    {
+      "english": "Excuse me, please.",
+      "indonesian": "Permisi, ya.",
+      "transliteration": "Permisi, ya.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T18:36:17.077839"
+    },
+    {
+      "english": "No problem, anytime.",
+      "indonesian": "Tidak apa-apa, kapan saja.",
+      "transliteration": "Tidak apa-apa, kapan saja.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T18:36:17.077841"
+    },
+    {
+      "english": "Where is the toilet?",
+      "indonesian": "Toiletnya di mana?",
+      "transliteration": "Toiletnya di mana?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T18:36:17.077842"
     }
   ],
-  "last_updated": "2026-06-22T16:46:28.436391"
+  "last_updated": "2026-06-22T18:36:17.077844"
 }
