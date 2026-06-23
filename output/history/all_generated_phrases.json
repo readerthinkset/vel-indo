@@ -1364,7 +1364,42 @@
       "transliteration": "Sampai jumpa, nanti.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-23T14:37:58.238923"
+    },
+    {
+      "english": "Where is the nearest, bathroom?",
+      "indonesian": "Di mana, toilet terdekat?",
+      "transliteration": "Dee mah-nah, toh-ee-let ter-deh-kaht?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T16:28:23.759278"
+    },
+    {
+      "english": "I need, a taxi, please.",
+      "indonesian": "Saya perlu, taksi, ya.",
+      "transliteration": "Sah-yah per-loo, tahk-see, yah.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T16:28:23.759288"
+    },
+    {
+      "english": "How much, is this, item?",
+      "indonesian": "Berapa harganya, barang ini?",
+      "transliteration": "Beh-rah-pah har-gah-nyah, bah-rahng ee-nee?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T16:28:23.759290"
+    },
+    {
+      "english": "Can you help, me, please?",
+      "indonesian": "Bisa bantu, saya, tidak?",
+      "transliteration": "Bee-sah bahn-too, sah-yah, tee-dahk?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T16:28:23.759291"
+    },
+    {
+      "english": "I want to go, to the beach.",
+      "indonesian": "Saya mau ke, pantai.",
+      "transliteration": "Sah-yah mah-oo keh, pahn-tai.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T16:28:23.759292"
     }
   ],
-  "last_updated": "2026-06-23T14:37:58.238925"
+  "last_updated": "2026-06-23T16:28:23.759294"
 }
