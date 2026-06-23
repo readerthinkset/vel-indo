@@ -1329,7 +1329,42 @@
       "transliteration": "Terus belajar, terus bersinar.",
       "category": "Growth",
       "generated_at": "2026-06-23T03:39:18.685023"
+    },
+    {
+      "english": "Yes, I understand.",
+      "indonesian": "Ya, saya mengerti.",
+      "transliteration": "Ya, saya mengerti.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:37:58.238909"
+    },
+    {
+      "english": "No, I don't know.",
+      "indonesian": "Tidak, saya tidak tahu.",
+      "transliteration": "Tidak, saya tidak tahu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:37:58.238918"
+    },
+    {
+      "english": "How much is this?",
+      "indonesian": "Berapa harganya ini?",
+      "transliteration": "Berapa harganya ini?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:37:58.238920"
+    },
+    {
+      "english": "I want coffee, please.",
+      "indonesian": "Saya mau kopi, tolong.",
+      "transliteration": "Saya mau kopi, tolong.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:37:58.238921"
+    },
+    {
+      "english": "See you, later.",
+      "indonesian": "Sampai jumpa, nanti.",
+      "transliteration": "Sampai jumpa, nanti.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-23T14:37:58.238923"
     }
   ],
-  "last_updated": "2026-06-23T03:39:18.685025"
+  "last_updated": "2026-06-23T14:37:58.238925"
 }
