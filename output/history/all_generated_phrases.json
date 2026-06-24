@@ -1539,7 +1539,42 @@
       "transliteration": "Bee-sah doo-dook dee loo-ar?",
       "category": "Restaurant",
       "generated_at": "2026-06-24T16:23:56.872559"
+    },
+    {
+      "english": "Nice to meet you.",
+      "indonesian": "Senang bertemu denganmu.",
+      "transliteration": "Senang bertemu denganmu.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:48:37.603991"
+    },
+    {
+      "english": "Welcome to Indonesia.",
+      "indonesian": "Selamat datang di Indonesia.",
+      "transliteration": "Selamat datang di Indonesia.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:48:37.604001"
+    },
+    {
+      "english": "See you later, okay?",
+      "indonesian": "Sampai jumpa lagi, ya?",
+      "transliteration": "Sampai jumpa lagi, ya?",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:48:37.604003"
+    },
+    {
+      "english": "Have a good day.",
+      "indonesian": "Semoga harimu menyenangkan.",
+      "transliteration": "Semoga harimu menyenangkan.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:48:37.604004"
+    },
+    {
+      "english": "Hello, my teacher.",
+      "indonesian": "Halo, guru saya.",
+      "transliteration": "Halo, guru saya.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:48:37.604005"
     }
   ],
-  "last_updated": "2026-06-24T16:23:56.872560"
+  "last_updated": "2026-06-24T18:48:37.604007"
 }
