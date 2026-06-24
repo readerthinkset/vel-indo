@@ -1504,7 +1504,42 @@
       "transliteration": "Terima kasih banyak, sungguh.",
       "category": "Gratitude",
       "generated_at": "2026-06-24T16:11:06.149744"
+    },
+    {
+      "english": "Is this vegetarian?",
+      "indonesian": "Ini sayuran saja?",
+      "transliteration": "Ee-nee sah-yoo-rahn sah-jah?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T16:23:56.872549"
+    },
+    {
+      "english": "The bill, please.",
+      "indonesian": "Minta bon-nya, dong.",
+      "transliteration": "Min-tah bohnn-nyah, dohng.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T16:23:56.872555"
+    },
+    {
+      "english": "Water, no ice.",
+      "indonesian": "Air putih, tanpa es.",
+      "transliteration": "Ah-eer poo-teeh, tahn-pah ehs.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T16:23:56.872556"
+    },
+    {
+      "english": "Delicious, thank you.",
+      "indonesian": "Enak sekali, terima kasih.",
+      "transliteration": "Eh-nahk seh-kah-lee, teh-ree-mah kah-seeh.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T16:23:56.872558"
+    },
+    {
+      "english": "Can we sit outside?",
+      "indonesian": "Bisa duduk di luar?",
+      "transliteration": "Bee-sah doo-dook dee loo-ar?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T16:23:56.872559"
     }
   ],
-  "last_updated": "2026-06-24T16:11:06.149746"
+  "last_updated": "2026-06-24T16:23:56.872560"
 }
