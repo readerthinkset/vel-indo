@@ -1574,7 +1574,42 @@
       "transliteration": "Halo, guru saya.",
       "category": "Greetings",
       "generated_at": "2026-06-24T18:48:37.604005"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "indonesian": "Tarik napas, buang napas.",
+      "transliteration": "TAH-rik NAH-pas, BOO-ahng NAH-pas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-24T21:18:58.930244"
+    },
+    {
+      "english": "Listen, to your heart.",
+      "indonesian": "Dengarkan, hatimu.",
+      "transliteration": "DENG-ar-kan, HA-tee-moo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-24T21:18:58.930257"
+    },
+    {
+      "english": "Feel the moment, now.",
+      "indonesian": "Rasakan saat ini, sekarang.",
+      "transliteration": "RAH-sah-kan SAH-at EE-nee, se-KA-rahng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-24T21:18:58.930259"
+    },
+    {
+      "english": "Be present, here.",
+      "indonesian": "Hadir di sini, sekarang.",
+      "transliteration": "HA-dir dee SEE-nee, se-KA-rahng.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-24T21:18:58.930260"
+    },
+    {
+      "english": "Notice, your thoughts.",
+      "indonesian": "Perhatikan, pikiranmu.",
+      "transliteration": "Per-HA-tee-kan, PIK-ee-rahn-moo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-24T21:18:58.930261"
     }
   ],
-  "last_updated": "2026-06-24T18:48:37.604007"
+  "last_updated": "2026-06-24T21:18:58.930263"
 }
