@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Salam",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "id-ID-ArdiNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Indonesian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Indonesian.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Indonesian text should be CLEAN - use standard Indonesian script
 7. Do NOT include multiple versions or slashes - just ONE clean Indonesian translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Indonesian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Indonesian teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Indonesian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "indonesian": "[ID] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "indonesian": "[ID] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "indonesian": "[ID] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "indonesian": "[ID] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "indonesian": "[ID] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "indonesian": "[ID] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "indonesian": "[ID] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "indonesian": "[ID] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "indonesian": "[ID] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "indonesian": "[ID] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "indonesian": "Halo, senang bertemu dengan Anda.", "transliteration": "Halo, senang bertemu dengan Anda."},
+        {"english": "Thank you very much.", "indonesian": "Terima kasih banyak.", "transliteration": "Terima kasih banyak."},
+        {"english": "Good morning, have a great day.", "indonesian": "Selamat pagi, semoga harimu menyenangkan.", "transliteration": "Selamat pagi, semoga harimu menyenangkan."},
+        {"english": "I love learning new languages.", "indonesian": "Saya suka belajar bahasa baru.", "transliteration": "Saya suka belajar bahasa baru."},
+        {"english": "Never give up on your dreams.", "indonesian": "Jangan pernah menyerah pada impianmu.", "transliteration": "Jangan pernah menyerah pada impianmu."},
+        {"english": "Every day is a fresh start.", "indonesian": "Setiap hari adalah awal yang baru.", "transliteration": "Setiap hari adalah awal yang baru."},
+        {"english": "Believe in yourself always.", "indonesian": "Percayalah pada dirimu sendiri selalu.", "transliteration": "Percayalah pada dirimu sendiri selalu."},
+        {"english": "Small steps lead to big changes.", "indonesian": "Langkah kecil membawa perubahan besar.", "transliteration": "Langkah kecil membawa perubahan besar."},
+        {"english": "You are stronger than you think.", "indonesian": "Kamu lebih kuat dari yang kamu kira.", "transliteration": "Kamu lebih kuat dari yang kamu kira."},
+        {"english": "Happiness is a choice, choose it.", "indonesian": "Kebahagiaan adalah pilihan, pilihlah.", "transliteration": "Kebahagiaan adalah pilihan, pilihlah."},
+        {"english": "What time is it please.", "indonesian": "Jam berapa sekarang, tolong.", "transliteration": "Jam berapa sekarang, tolong."},
+        {"english": "Where is the train station.", "indonesian": "Di mana stasiun kereta api.", "transliteration": "Di mana stasiun kereta api."},
+        {"english": "How much does this cost.", "indonesian": "Berapa harga ini.", "transliteration": "Berapa harga ini."},
+        {"english": "Can you help me please.", "indonesian": "Bisakah Anda membantu saya, tolong.", "transliteration": "Bisakah Anda membantu saya, tolong."},
+        {"english": "I would like a coffee please.", "indonesian": "Saya ingin kopi, tolong.", "transliteration": "Saya ingin kopi, tolong."},
+        {"english": "The food is delicious today.", "indonesian": "Makanannya enak hari ini.", "transliteration": "Makanannya enak hari ini."},
+        {"english": "Have a wonderful weekend.", "indonesian": "Selamat berakhir pekan yang indah.", "transliteration": "Selamat berakhir pekan yang indah."},
+        {"english": "Take care of yourself.", "indonesian": "Jaga dirimu baik-baik.", "transliteration": "Jaga dirimu baik-baik."},
+        {"english": "See you tomorrow my friend.", "indonesian": "Sampai jumpa besok temanku.", "transliteration": "Sampai jumpa besok temanku."},
+        {"english": "The weather is beautiful outside.", "indonesian": "Cuacanya indah di luar.", "transliteration": "Cuacanya indah di luar."},
+        {"english": "I am very happy today.", "indonesian": "Saya sangat senang hari ini.", "transliteration": "Saya sangat senang hari ini."},
+        {"english": "Learning a language opens new doors.", "indonesian": "Belajar bahasa membuka pintu baru.", "transliteration": "Belajar bahasa membuka pintu baru."},
+        {"english": "Keep practicing every single day.", "indonesian": "Terus berlatih setiap hari.", "transliteration": "Terus berlatih setiap hari."},
+        {"english": "You can achieve anything you want.", "indonesian": "Kamu bisa mencapai apa pun yang kamu inginkan.", "transliteration": "Kamu bisa mencapai apa pun yang kamu inginkan."},
+        {"english": "Rest when you are tired.", "indonesian": "Beristirahatlah saat kamu lelah.", "transliteration": "Beristirahatlah saat kamu lelah."},
+        {"english": "Focus on the positive things.", "indonesian": "Fokus pada hal-hal positif.", "transliteration": "Fokus pada hal-hal positif."},
+        {"english": "Learn from your mistakes.", "indonesian": "Belajarlah dari kesalahanmu.", "transliteration": "Belajarlah dari kesalahanmu."},
+        {"english": "Trust the process completely.", "indonesian": "Percayalah pada prosesnya sepenuhnya.", "transliteration": "Percayalah pada prosesnya sepenuhnya."},
+        {"english": "Breathe deeply and stay calm.", "indonesian": "Tarik napas dalam-dalam dan tetap tenang.", "transliteration": "Tarik napas dalam-dalam dan tetap tenang."},
+        {"english": "Enjoy the little moments in life.", "indonesian": "Nikmati momen-momen kecil dalam hidup.", "transliteration": "Nikmati momen-momen kecil dalam hidup."},
+        {"english": "Smile more, worry less.", "indonesian": "Lebih banyak tersenyum, lebih sedikit khawatir.", "transliteration": "Lebih banyak tersenyum, lebih sedikit khawatir."},
+        {"english": "Be kind to everyone you meet.", "indonesian": "Bersikap baiklah kepada setiap orang yang kamu temui.", "transliteration": "Bersikap baiklah kepada setiap orang yang kamu temui."},
+        {"english": "Help others without expecting anything back.", "indonesian": "Bantu orang lain tanpa mengharapkan imbalan.", "transliteration": "Bantu orang lain tanpa mengharapkan imbalan."},
+        {"english": "Forgive yourself and move forward.", "indonesian": "Maafkan dirimu sendiri dan terus maju.", "transliteration": "Maafkan dirimu sendiri dan terus maju."},
+        {"english": "Stay strong in difficult times.", "indonesian": "Tetap kuat di masa sulit.", "transliteration": "Tetap kuat di masa sulit."},
+        {"english": "Every moment is a new beginning.", "indonesian": "Setiap momen adalah awal yang baru.", "transliteration": "Setiap momen adalah awal yang baru."},
+        {"english": "Listen to your heart always.", "indonesian": "Dengarkan hatimu selalu.", "transliteration": "Dengarkan hatimu selalu."},
+        {"english": "Do what makes you happy.", "indonesian": "Lakukan apa yang membuatmu bahagia.", "transliteration": "Lakukan apa yang membuatmu bahagia."},
+        {"english": "Your potential is unlimited.", "indonesian": "Potensimu tidak terbatas.", "transliteration": "Potensimu tidak terbatas."},
+        {"english": "Be brave and take risks.", "indonesian": "Jadilah berani dan ambil risiko.", "transliteration": "Jadilah berani dan ambil risiko."},
+        {"english": "Celebrate your progress every day.", "indonesian": "Rayakan kemajuanmu setiap hari.", "transliteration": "Rayakan kemajuanmu setiap hari."},
+        {"english": "Surround yourself with good people.", "indonesian": "Kelilingi dirimu dengan orang-orang baik.", "transliteration": "Kelilingi dirimu dengan orang-orang baik."},
+        {"english": "Read books and grow your mind.", "indonesian": "Baca buku dan kembangkan pikiranmu.", "transliteration": "Baca buku dan kembangkan pikiranmu."},
+        {"english": "Travel and discover new places.", "indonesian": "Bepergian dan temukan tempat-tempat baru.", "transliteration": "Bepergian dan temukan tempat-tempat baru."},
+        {"english": "Appreciate what you already have.", "indonesian": "Hargai apa yang sudah kamu miliki.", "transliteration": "Hargai apa yang sudah kamu miliki."},
+        {"english": "Dance like nobody is watching.", "indonesian": "Menarilah seolah tidak ada yang melihat.", "transliteration": "Menarilah seolah tidak ada yang melihat."},
+        {"english": "Sing from your heart out loud.", "indonesian": "Bernyanyilah dari hatimu dengan lantang.", "transliteration": "Bernyanyilah dari hatimu dengan lantang."},
+        {"english": "Plant seeds of kindness everywhere.", "indonesian": "Tanamlah benih kebaikan di mana-mana.", "transliteration": "Tanamlah benih kebaikan di mana-mana."},
+        {"english": "Let go of what you cannot control.", "indonesian": "Lepaskan apa yang tidak bisa kamu kendalikan.", "transliteration": "Lepaskan apa yang tidak bisa kamu kendalikan."},
+        {"english": "Be present in the here and now.", "indonesian": "Hadirilah di sini dan saat ini.", "transliteration": "Hadirilah di sini dan saat ini."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "indonesian"
-    for p in fresh:
-        p[lang_key] = p.pop("indonesian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
