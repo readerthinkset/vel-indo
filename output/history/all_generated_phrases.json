@@ -1644,7 +1644,42 @@
       "transliteration": "ja-di-lah ka-wan, se-la-lu a-da.",
       "category": "Kindness",
       "generated_at": "2026-06-27T03:32:32.775463"
+    },
+    {
+      "english": "A cat naps, on a warm mat.",
+      "indonesian": "Kucing tidur, di atas tikar hangat.",
+      "transliteration": "Koo-ching tee-door, dee ah-tahs tee-kar hahng-gaht.",
+      "category": "Animals",
+      "generated_at": "2026-06-27T13:22:31.770403"
+    },
+    {
+      "english": "The dog barks, at the passing car.",
+      "indonesian": "Anjing menggonggong, pada mobil lewat.",
+      "transliteration": "Ahn-jing mehng-gohng-gohng, pah-dah moh-beel leh-waht.",
+      "category": "Animals",
+      "generated_at": "2026-06-27T13:22:31.770413"
+    },
+    {
+      "english": "Birds sing, in the morning light.",
+      "indonesian": "Burung bernyanyi, di cahaya pagi.",
+      "transliteration": "Boo-roong behr-nyah-nyee, dee chah-hah-yah pah-gee.",
+      "category": "Animals",
+      "generated_at": "2026-06-27T13:22:31.770414"
+    },
+    {
+      "english": "A fish swims, in the clear water.",
+      "indonesian": "Ikan berenang, di air jernih.",
+      "transliteration": "Ee-kahn behr-eh-nahng, dee ah-eer jehr-neeh.",
+      "category": "Animals",
+      "generated_at": "2026-06-27T13:22:31.770415"
+    },
+    {
+      "english": "Monkeys chatter, high in the trees.",
+      "indonesian": "Monyet berceloteh, tinggi di pohon.",
+      "transliteration": "Moh-nyet behr-cheh-loh-teh, teeng-gee dee poh-hohn.",
+      "category": "Animals",
+      "generated_at": "2026-06-27T13:22:31.770417"
     }
   ],
-  "last_updated": "2026-06-27T03:32:32.775465"
+  "last_updated": "2026-06-27T13:22:31.770418"
 }
