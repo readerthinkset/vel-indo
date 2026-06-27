@@ -1749,7 +1749,42 @@
       "transliteration": "Sawāh berkilāū, pemandangān indāh.",
       "category": "Culture",
       "generated_at": "2026-06-27T17:58:09.125996"
+    },
+    {
+      "english": "My passport, gone. Help.",
+      "indonesian": "Paspor saya, hilang. Tolong.",
+      "transliteration": "Pas-por sa-ya, hil-ang. To-long.",
+      "category": "Emergency",
+      "generated_at": "2026-06-27T20:54:50.902166"
+    },
+    {
+      "english": "I need water, urgently.",
+      "indonesian": "Saya perlu air, segera.",
+      "transliteration": "Sa-ya per-lu a-ir, se-ge-ra.",
+      "category": "Emergency",
+      "generated_at": "2026-06-27T20:54:50.902175"
+    },
+    {
+      "english": "This food, is bad. Stomach pain.",
+      "indonesian": "Makanan ini, tidak baik. Sakit perut.",
+      "transliteration": "Mak-an-an i-ni, ti-dak baik. Sak-it pe-rut.",
+      "category": "Emergency",
+      "generated_at": "2026-06-27T20:54:50.902176"
+    },
+    {
+      "english": "Where is the nearest, restroom?",
+      "indonesian": "Di mana toilet, terdekat?",
+      "transliteration": "Di ma-na to-i-let, ter-dek-at?",
+      "category": "Emergency",
+      "generated_at": "2026-06-27T20:54:50.902178"
+    },
+    {
+      "english": "My child, is missing. Please help.",
+      "indonesian": "Anak saya, hilang. Tolong bantu.",
+      "transliteration": "An-ak sa-ya, hil-ang. To-long ban-tu.",
+      "category": "Emergency",
+      "generated_at": "2026-06-27T20:54:50.902179"
     }
   ],
-  "last_updated": "2026-06-27T17:58:09.125997"
+  "last_updated": "2026-06-27T20:54:50.902180"
 }
