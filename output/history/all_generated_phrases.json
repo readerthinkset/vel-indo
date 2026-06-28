@@ -1889,7 +1889,42 @@
       "transliteration": "Hormat, fondasi utama, untuk semua.",
       "category": "Relationships",
       "generated_at": "2026-06-28T15:19:44.785162"
+    },
+    {
+      "english": "Eat well, feel great.",
+      "indonesian": "Makan sehat, tubuh bugar.",
+      "transliteration": "Makan sehat, tubuh bugar.",
+      "category": "Health",
+      "generated_at": "2026-06-28T18:02:03.148985"
+    },
+    {
+      "english": "Hydrate often, stay sharp.",
+      "indonesian": "Minum banyak, pikiran jernih.",
+      "transliteration": "Minum banyak, pikiran jernih.",
+      "category": "Health",
+      "generated_at": "2026-06-28T18:02:03.148999"
+    },
+    {
+      "english": "Sleep deeply, wake refreshed.",
+      "indonesian": "Tidur nyenyak, bangun segar.",
+      "transliteration": "Tidur nyenyak, bangun segar.",
+      "category": "Health",
+      "generated_at": "2026-06-28T18:02:03.149001"
+    },
+    {
+      "english": "Move your body, find joy.",
+      "indonesian": "Gerakkan badan, rasakan bahagia.",
+      "transliteration": "Gerakkan badan, rasakan bahagia.",
+      "category": "Health",
+      "generated_at": "2026-06-28T18:02:03.149003"
+    },
+    {
+      "english": "Breathe in calm, exhale stress.",
+      "indonesian": "Tarik tenang, hembus cemas.",
+      "transliteration": "Tarik tenang, hembus cemas.",
+      "category": "Health",
+      "generated_at": "2026-06-28T18:02:03.149004"
     }
   ],
-  "last_updated": "2026-06-28T15:19:44.785164"
+  "last_updated": "2026-06-28T18:02:03.149005"
 }
