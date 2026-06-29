@@ -1994,7 +1994,42 @@
       "transliteration": "Se-ke-ti-ka, ber-la-lu ce-pat.",
       "category": "Time",
       "generated_at": "2026-06-29T04:01:06.063471"
+    },
+    {
+      "english": "The sky, is clear today.",
+      "indonesian": "Langit, cerah hari ini.",
+      "transliteration": "lah-ngeet, cheh-rah hah-reeh een-eeh.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:38:35.777349"
+    },
+    {
+      "english": "It's raining, very heavily.",
+      "indonesian": "Hujan, sangat deras.",
+      "transliteration": "hoo-jahn, sah-gah-t deh-rahs.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:38:35.777356"
+    },
+    {
+      "english": "A gentle breeze, is blowing.",
+      "indonesian": "Angin sepoi, berhembus.",
+      "transliteration": "ahn-geen seh-poy, behr-hem-boos.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:38:35.777357"
+    },
+    {
+      "english": "The sun, is shining brightly.",
+      "indonesian": "Matahari, bersinar terang.",
+      "transliteration": "mah-tah-hah-reeh, behr-see-nahr teh-rahng.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:38:35.777359"
+    },
+    {
+      "english": "Clouds gather, for rain.",
+      "indonesian": "Awan berkumpul, mau hujan.",
+      "transliteration": "ah-wahn behr-koom-pool, mah-oo hoo-jahn.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:38:35.777360"
     }
   ],
-  "last_updated": "2026-06-29T04:01:06.063473"
+  "last_updated": "2026-06-29T15:38:35.777365"
 }
