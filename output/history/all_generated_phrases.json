@@ -1959,7 +1959,42 @@
       "transliteration": "Bah-gi-kan cha-ha-ya-moo, beh-ree se-mang-at.",
       "category": "Strength",
       "generated_at": "2026-06-28T20:55:31.341525"
+    },
+    {
+      "english": "This moment, remember it.",
+      "indonesian": "Momen ini, ingatlah.",
+      "transliteration": "Mo-men i-ni, i-ngat-lah.",
+      "category": "Time",
+      "generated_at": "2026-06-29T04:01:06.063455"
+    },
+    {
+      "english": "Soon, something good.",
+      "indonesian": "Segera, hal baik.",
+      "transliteration": "Se-ge-ra, ha-l bai-k.",
+      "category": "Time",
+      "generated_at": "2026-06-29T04:01:06.063466"
+    },
+    {
+      "english": "Long ago, stories told.",
+      "indonesian": "Dahulu kala, cerita terucap.",
+      "transliteration": "Da-hu-lu ka-la, ce-ri-ta ter-u-cap.",
+      "category": "Time",
+      "generated_at": "2026-06-29T04:01:06.063468"
+    },
+    {
+      "english": "When, we will see.",
+      "indonesian": "Nanti, kita lihat.",
+      "transliteration": "Nan-ti, ki-ta li-hat.",
+      "category": "Time",
+      "generated_at": "2026-06-29T04:01:06.063470"
+    },
+    {
+      "english": "An instant, gone so fast.",
+      "indonesian": "Seketika, berlalu cepat.",
+      "transliteration": "Se-ke-ti-ka, ber-la-lu ce-pat.",
+      "category": "Time",
+      "generated_at": "2026-06-29T04:01:06.063471"
     }
   ],
-  "last_updated": "2026-06-28T20:55:31.341527"
+  "last_updated": "2026-06-29T04:01:06.063473"
 }
