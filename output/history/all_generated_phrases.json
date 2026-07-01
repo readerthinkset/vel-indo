@@ -2449,7 +2449,42 @@
       "transliteration": "U-sa-ha-mu, sung-guh, di-ka-gu-mi.",
       "category": "Gratitude",
       "generated_at": "2026-07-01T18:57:46.164217"
+    },
+    {
+      "english": "The sun, warms the earth.",
+      "indonesian": "Matahari, menghangatkan bumi.",
+      "transliteration": "Mata-hari, meng-hangat-kan bu-mi.",
+      "category": "Nature",
+      "generated_at": "2026-07-01T21:22:18.036040"
+    },
+    {
+      "english": "Listen, to the river flow.",
+      "indonesian": "Dengarkan, aliran sungai.",
+      "transliteration": "Deng-ar-kan, a-lir-an sung-ai.",
+      "category": "Nature",
+      "generated_at": "2026-07-01T21:22:18.036048"
+    },
+    {
+      "english": "Green leaves, dance in wind.",
+      "indonesian": "Daun hijau, menari di angin.",
+      "transliteration": "Da-un hi-jau, me-na-ri di a-ngin.",
+      "category": "Nature",
+      "generated_at": "2026-07-01T21:22:18.036049"
+    },
+    {
+      "english": "Mountain peaks, touch the sky.",
+      "indonesian": "Puncak gunung, sentuh langit.",
+      "transliteration": "Pun-chak gun-ung, sen-tuh la-ngit.",
+      "category": "Nature",
+      "generated_at": "2026-07-01T21:22:18.036051"
+    },
+    {
+      "english": "Birds sing, a sweet song.",
+      "indonesian": "Burung berkicau, lagu merdu.",
+      "transliteration": "Bu-rung ber-ki-cau, la-gu mer-du.",
+      "category": "Nature",
+      "generated_at": "2026-07-01T21:22:18.036052"
     }
   ],
-  "last_updated": "2026-07-01T18:57:46.164219"
+  "last_updated": "2026-07-01T21:22:18.036054"
 }
