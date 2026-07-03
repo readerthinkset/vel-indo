@@ -2764,7 +2764,42 @@
       "transliteration": "Pinguin berjalan, dengan lucu sekali.",
       "category": "Animals",
       "generated_at": "2026-07-03T15:53:36.631430"
+    },
+    {
+      "english": "Gentle breath, calm mind.",
+      "indonesian": "Napas lembut, pikiran tenang.",
+      "transliteration": "Na-pas lem-but, pi-kir-an te-nang.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-03T20:58:06.735780"
+    },
+    {
+      "english": "Anchor yourself, here.",
+      "indonesian": "Sandarkan diri, di sini.",
+      "transliteration": "San-dar-kan di-ri, di si-ni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-03T20:58:06.735790"
+    },
+    {
+      "english": "Flow like water, free.",
+      "indonesian": "Mengalir bagai air, bebas.",
+      "transliteration": "Me-nga-lir ba-gai a-ir, be-bas.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-03T20:58:06.735791"
+    },
+    {
+      "english": "Open your senses, fully.",
+      "indonesian": "Buka indra, sepenuhnya.",
+      "transliteration": "Bu-ka in-dra, se-pe-nuh-nya.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-03T20:58:06.735792"
+    },
+    {
+      "english": "Ground your feet, firm.",
+      "indonesian": "Jejakkan kaki, kokoh.",
+      "transliteration": "Je-jak-kan ka-ki, ko-koh.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-03T20:58:06.735793"
     }
   ],
-  "last_updated": "2026-07-03T15:53:36.631431"
+  "last_updated": "2026-07-03T20:58:06.735795"
 }
