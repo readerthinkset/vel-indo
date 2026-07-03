@@ -2729,7 +2729,42 @@
       "transliteration": "Dom-pet sa-ya, hi-lang. Ba-gai-ma-na?",
       "category": "Emergency",
       "generated_at": "2026-07-03T13:52:27.123949"
+    },
+    {
+      "english": "The lion roars, a mighty sound.",
+      "indonesian": "Singa mengaum, suaranya perkasa.",
+      "transliteration": "Singa mengaum, suaranya perkasa.",
+      "category": "Animals",
+      "generated_at": "2026-07-03T15:53:36.631415"
+    },
+    {
+      "english": "An elephant walks, slowly, deliberately.",
+      "indonesian": "Gajah berjalan, perlahan, penuh arti.",
+      "transliteration": "Gajah berjalan, perlahan, penuh arti.",
+      "category": "Animals",
+      "generated_at": "2026-07-03T15:53:36.631425"
+    },
+    {
+      "english": "Zebras graze, on the savanna.",
+      "indonesian": "Zebra merumput, di sabana luas.",
+      "transliteration": "Zebra merumput, di sabana luas.",
+      "category": "Animals",
+      "generated_at": "2026-07-03T15:53:36.631427"
+    },
+    {
+      "english": "A giraffe stretches, to reach leaves.",
+      "indonesian": "Jerapah menjulur, meraih daun.",
+      "transliteration": "Jerapah menjulur, meraih daun.",
+      "category": "Animals",
+      "generated_at": "2026-07-03T15:53:36.631428"
+    },
+    {
+      "english": "Penguins waddle, in a funny way.",
+      "indonesian": "Pinguin berjalan, dengan lucu sekali.",
+      "transliteration": "Pinguin berjalan, dengan lucu sekali.",
+      "category": "Animals",
+      "generated_at": "2026-07-03T15:53:36.631430"
     }
   ],
-  "last_updated": "2026-07-03T13:52:27.123951"
+  "last_updated": "2026-07-03T15:53:36.631431"
 }
