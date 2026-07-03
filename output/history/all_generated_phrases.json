@@ -2694,7 +2694,42 @@
       "transliteration": "Ini, makanan khas daerah?",
       "category": "Travel",
       "generated_at": "2026-07-03T03:20:22.001812"
+    },
+    {
+      "english": "My phone, it's dead. Can you help?",
+      "indonesian": "Ponsel saya, mati. Bisa bantu?",
+      "transliteration": "Pon-sel sa-ya, ma-ti. Bi-sa ban-tu?",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T13:52:27.123935"
+    },
+    {
+      "english": "I'm feeling dizzy, very weak.",
+      "indonesian": "Saya pusing, badan lemah.",
+      "transliteration": "Sa-ya pu-sing, ba-dan le-mah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T13:52:27.123945"
+    },
+    {
+      "english": "Is this medication, safe to take?",
+      "indonesian": "Obat ini, aman diminum?",
+      "transliteration": "O-bat i-ni, a-man di-mi-num?",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T13:52:27.123947"
+    },
+    {
+      "english": "I think I swallowed, something wrong.",
+      "indonesian": "Saya rasa, telan sesuatu.",
+      "transliteration": "Sa-ya ra-sa, te-lan se-su-a-tu.",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T13:52:27.123948"
+    },
+    {
+      "english": "My wallet, vanished. What to do?",
+      "indonesian": "Dompet saya, hilang. Bagaimana?",
+      "transliteration": "Dom-pet sa-ya, hi-lang. Ba-gai-ma-na?",
+      "category": "Emergency",
+      "generated_at": "2026-07-03T13:52:27.123949"
     }
   ],
-  "last_updated": "2026-07-03T03:20:22.001814"
+  "last_updated": "2026-07-03T13:52:27.123951"
 }
