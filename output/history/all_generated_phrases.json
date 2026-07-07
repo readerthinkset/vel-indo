@@ -3324,7 +3324,42 @@
       "transliteration": "Topi ini, pas sekali.",
       "category": "Clothes",
       "generated_at": "2026-07-07T03:28:31.638046"
+    },
+    {
+      "english": "Morning mist, is very thick.",
+      "indonesian": "Kabut pagi, sangat tebal.",
+      "transliteration": "Kah-boot pah-gee, sah-ngat teh-bal.",
+      "category": "Weather",
+      "generated_at": "2026-07-07T14:19:13.355528"
+    },
+    {
+      "english": "The air, feels humid.",
+      "indonesian": "Udara, terasa lembap.",
+      "transliteration": "Oo-dah-rah, teh-rah-sah lem-bahp.",
+      "category": "Weather",
+      "generated_at": "2026-07-07T14:19:13.355538"
+    },
+    {
+      "english": "Thunder rumbled, far away.",
+      "indonesian": "Guntur bergemuruh, di kejauhan.",
+      "transliteration": "Goon-toor ber-ge-moo-roo, dee keh-jah-hoo-an.",
+      "category": "Weather",
+      "generated_at": "2026-07-07T14:19:13.355540"
+    },
+    {
+      "english": "A sudden downpour, surprised us.",
+      "indonesian": "Hujan deras tiba-tiba, membuat kami kaget.",
+      "transliteration": "Hoo-jan deh-rahs tee-bah tee-bah, mem-boo-at kah-mee kah-get.",
+      "category": "Weather",
+      "generated_at": "2026-07-07T14:19:13.355541"
+    },
+    {
+      "english": "The wind, is quite strong.",
+      "indonesian": "Anginnya, lumayan kencang.",
+      "transliteration": "Ang-in-nyah, loo-mah-yan ken-chang.",
+      "category": "Weather",
+      "generated_at": "2026-07-07T14:19:13.355543"
     }
   ],
-  "last_updated": "2026-07-07T03:28:31.638047"
+  "last_updated": "2026-07-07T14:19:13.355545"
 }
