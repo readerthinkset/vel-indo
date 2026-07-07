@@ -3289,7 +3289,42 @@
       "transliteration": "teh-ree-mah kah-see, too-loos-ku pah-dah-moo",
       "category": "Gratitude",
       "generated_at": "2026-07-06T21:24:24.570958"
+    },
+    {
+      "english": "This shirt, is it clean?",
+      "indonesian": "Baju ini, apa sudah bersih?",
+      "transliteration": "Baju ini, apa sudah bersih?",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T03:28:31.638033"
+    },
+    {
+      "english": "My pants, are too tight.",
+      "indonesian": "Celana saya, terlalu sempit.",
+      "transliteration": "Celana saya, terlalu sempit.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T03:28:31.638042"
+    },
+    {
+      "english": "I need a new dress.",
+      "indonesian": "Saya butuh gaun baru.",
+      "transliteration": "Saya butuh gaun baru.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T03:28:31.638044"
+    },
+    {
+      "english": "Where's my jacket?",
+      "indonesian": "Di mana jaket saya?",
+      "transliteration": "Di mana jaket saya?",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T03:28:31.638045"
+    },
+    {
+      "english": "This hat, fits perfectly.",
+      "indonesian": "Topi ini, pas sekali.",
+      "transliteration": "Topi ini, pas sekali.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T03:28:31.638046"
     }
   ],
-  "last_updated": "2026-07-06T21:24:24.570959"
+  "last_updated": "2026-07-07T03:28:31.638047"
 }
