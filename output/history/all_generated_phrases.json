@@ -3359,7 +3359,42 @@
       "transliteration": "Ang-in-nyah, loo-mah-yan ken-chang.",
       "category": "Weather",
       "generated_at": "2026-07-07T14:19:13.355543"
+    },
+    {
+      "english": "A table for three, soon.",
+      "indonesian": "Meja untuk tiga, segera.",
+      "transliteration": "Me-ja un-tuk ti-ga, se-ge-ra.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-07T21:18:29.930410"
+    },
+    {
+      "english": "What's today's special, chef?",
+      "indonesian": "Apa menu spesial hari ini, koki?",
+      "transliteration": "A-pa me-nu spe-si-al ha-ri i-ni, ko-ki?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-07T21:18:29.930419"
+    },
+    {
+      "english": "This looks good, I'll try.",
+      "indonesian": "Ini terlihat enak, saya coba.",
+      "transliteration": "I-ni ter-li-hat e-nak, sa-ya co-ba.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-07T21:18:29.930421"
+    },
+    {
+      "english": "A little bit of spice, please.",
+      "indonesian": "Sedikit pedas, ya.",
+      "transliteration": "Se-di-kit pe-das, ya.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-07T21:18:29.930422"
+    },
+    {
+      "english": "Any meat-free options, friend?",
+      "indonesian": "Ada pilihan tanpa daging?",
+      "transliteration": "A-da pi-li-han tan-pa da-ging?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-07T21:18:29.930423"
     }
   ],
-  "last_updated": "2026-07-07T14:19:13.355545"
+  "last_updated": "2026-07-07T21:18:29.930425"
 }
