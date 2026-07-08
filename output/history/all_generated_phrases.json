@@ -3534,7 +3534,42 @@
       "transliteration": "Hari ini indah sekali.",
       "category": "Common Expressions",
       "generated_at": "2026-07-08T18:16:02.241723"
+    },
+    {
+      "english": "The sky, a deep blue.",
+      "indonesian": "Langit, biru tua sekali.",
+      "transliteration": "La-ngit, bi-ru tu-a se-ka-li.",
+      "category": "Colors",
+      "generated_at": "2026-07-08T21:00:17.901269"
+    },
+    {
+      "english": "Her dress, bright yellow.",
+      "indonesian": "Bajunya, kuning cerah.",
+      "transliteration": "Ba-ju-nya, ku-ning ce-rah.",
+      "category": "Colors",
+      "generated_at": "2026-07-08T21:00:17.901280"
+    },
+    {
+      "english": "Grass, fresh green.",
+      "indonesian": "Rumput, hijau segar.",
+      "transliteration": "Rum-put, hi-jau se-gar.",
+      "category": "Colors",
+      "generated_at": "2026-07-08T21:00:17.901282"
+    },
+    {
+      "english": "An apple, shiny red.",
+      "indonesian": "Apel, merah berkilau.",
+      "transliteration": "A-pel, me-rah ber-ki-lau.",
+      "category": "Colors",
+      "generated_at": "2026-07-08T21:00:17.901283"
+    },
+    {
+      "english": "A quiet, soft gray.",
+      "indonesian": "Abu-abu tenang, lembut.",
+      "transliteration": "A-bu-a-bu te-nang, lem-but.",
+      "category": "Colors",
+      "generated_at": "2026-07-08T21:00:17.901284"
     }
   ],
-  "last_updated": "2026-07-08T18:16:02.241725"
+  "last_updated": "2026-07-08T21:00:17.901286"
 }
