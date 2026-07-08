@@ -3464,7 +3464,42 @@
       "transliteration": "Mu-sik ter-de-ngar, se-ma-ngat bang-kit.",
       "category": "Happiness",
       "generated_at": "2026-07-08T13:52:13.882086"
+    },
+    {
+      "english": "This item, looks lovely. May I ask, its price?",
+      "indonesian": "Barang ini, terlihat bagus. Boleh tanya, harganya berapa?",
+      "transliteration": "Barang ini, terlihat bagus. Boleh tanya, harganya berapa?",
+      "category": "Shopping",
+      "generated_at": "2026-07-08T16:03:29.207851"
+    },
+    {
+      "english": "I'm looking for, something special. Do you have, any recommendations?",
+      "indonesian": "Saya cari, sesuatu yang istimewa. Ada rekomendasi, Pak/Bu?",
+      "transliteration": "Saya cari, sesuatu yang istimewa. Ada rekomendasi, Pak/Bu?",
+      "category": "Shopping",
+      "generated_at": "2026-07-08T16:03:29.207862"
+    },
+    {
+      "english": "This pattern, is very unique. Is it, locally made?",
+      "indonesian": "Corak ini, sangat unik. Ini buatan, lokal ya?",
+      "transliteration": "Corak ini, sangat unik. Ini buatan, lokal ya?",
+      "category": "Shopping",
+      "generated_at": "2026-07-08T16:03:29.207864"
+    },
+    {
+      "english": "Could you show me, more options please?",
+      "indonesian": "Bisa tunjukkan, pilihan lain?",
+      "transliteration": "Bisa tunjukkan, pilihan lain?",
+      "category": "Shopping",
+      "generated_at": "2026-07-08T16:03:29.207865"
+    },
+    {
+      "english": "What's the best seller, here?",
+      "indonesian": "Barang terlaris, di sini apa?",
+      "transliteration": "Barang terlaris, di sini apa?",
+      "category": "Shopping",
+      "generated_at": "2026-07-08T16:03:29.207866"
     }
   ],
-  "last_updated": "2026-07-08T13:52:13.882088"
+  "last_updated": "2026-07-08T16:03:29.207868"
 }
