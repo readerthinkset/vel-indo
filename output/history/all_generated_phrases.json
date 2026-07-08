@@ -3499,7 +3499,42 @@
       "transliteration": "Barang terlaris, di sini apa?",
       "category": "Shopping",
       "generated_at": "2026-07-08T16:03:29.207866"
+    },
+    {
+      "english": "What's the plan, today?",
+      "indonesian": "Apa rencananya, hari ini?",
+      "transliteration": "Apa rencananya, hari ini?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T18:16:02.241711"
+    },
+    {
+      "english": "Let's grab some food.",
+      "indonesian": "Mari kita cari makan.",
+      "transliteration": "Mari kita cari makan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T18:16:02.241719"
+    },
+    {
+      "english": "This is so delicious.",
+      "indonesian": "Ini sungguh lezat.",
+      "transliteration": "Ini sungguh lezat.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T18:16:02.241721"
+    },
+    {
+      "english": "Can I help you?",
+      "indonesian": "Ada yang bisa dibantu?",
+      "transliteration": "Ada yang bisa dibantu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T18:16:02.241722"
+    },
+    {
+      "english": "It's a beautiful day.",
+      "indonesian": "Hari ini indah sekali.",
+      "transliteration": "Hari ini indah sekali.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-08T18:16:02.241723"
     }
   ],
-  "last_updated": "2026-07-08T16:03:29.207868"
+  "last_updated": "2026-07-08T18:16:02.241725"
 }
