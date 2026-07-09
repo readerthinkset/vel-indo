@@ -3709,7 +3709,42 @@
       "transliteration": "Lima, warna cerah, lukis langit.",
       "category": "Numbers",
       "generated_at": "2026-07-09T18:47:38.082594"
+    },
+    {
+      "english": "My ear, hears a whisper.",
+      "indonesian": "Telingaku, mendengar bisikan.",
+      "transliteration": "Te-ling-a-ku, men-de-ngar bis-i-kan.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:17:33.908990"
+    },
+    {
+      "english": "Her nose, smells the rain.",
+      "indonesian": "Hidungnya, mencium bau hujan.",
+      "transliteration": "Hi-dung-nya, men-ci-um bau hu-jan.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:17:33.908998"
+    },
+    {
+      "english": "His shoulder, carries a burden.",
+      "indonesian": "Bahunya, memikul beban.",
+      "transliteration": "Ba-hu-nya, me-mi-kul be-ban.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:17:33.908999"
+    },
+    {
+      "english": "Your arm, reaches out kindly.",
+      "indonesian": "Lenganmu, terulur ramah.",
+      "transliteration": "Le-ngan-mu, te-ru-lur ra-mah.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:17:33.909001"
+    },
+    {
+      "english": "The stomach, rumbles softly.",
+      "indonesian": "Perutku, berkeroncongan pelan.",
+      "transliteration": "Pe-rut-ku, ber-ke-ron-cong-an pe-lan.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:17:33.909002"
     }
   ],
-  "last_updated": "2026-07-09T18:47:38.082596"
+  "last_updated": "2026-07-09T21:17:33.909003"
 }
