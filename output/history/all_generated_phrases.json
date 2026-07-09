@@ -3639,7 +3639,42 @@
       "transliteration": "Meem-pee se-dee-keet, bah-ngoon bah-nyak.",
       "category": "Creativity",
       "generated_at": "2026-07-09T14:46:06.045912"
+    },
+    {
+      "english": "Listen closely, then speak.",
+      "indonesian": "Dengarkan baik-baik, lalu bicara.",
+      "transliteration": "Den-gar-kan baik baiik, la-lu bi-cha-ra.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T16:29:36.791970"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "indonesian": "Coba lagi, jangan menyerah.",
+      "transliteration": "Cho-ba la-gi, ja-ngan me-nye-rah.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T16:29:36.791977"
+    },
+    {
+      "english": "Ask questions, learn more.",
+      "indonesian": "Bertanya banyak, belajar lebih.",
+      "transliteration": "Ber-ta-nya ba-nyak, be-la-jar le-bih.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T16:29:36.791979"
+    },
+    {
+      "english": "Read slowly, understand fully.",
+      "indonesian": "Baca pelan, pahami benar.",
+      "transliteration": "Ba-cha pe-lan, pa-ha-mi be-nar.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T16:29:36.791980"
+    },
+    {
+      "english": "Write it down, remember it.",
+      "indonesian": "Tulis saja, ingat itu.",
+      "transliteration": "Tu-lis sa-ja, i-ngat i-tu.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T16:29:36.791981"
     }
   ],
-  "last_updated": "2026-07-09T14:46:06.045914"
+  "last_updated": "2026-07-09T16:29:36.791983"
 }
