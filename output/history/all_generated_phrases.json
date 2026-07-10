@@ -3744,7 +3744,42 @@
       "transliteration": "Pe-rut-ku, ber-ke-ron-cong-an pe-lan.",
       "category": "Body Parts",
       "generated_at": "2026-07-09T21:17:33.909002"
+    },
+    {
+      "english": "Float, then anchor.",
+      "indonesian": "Melayang, lalu berlabuh.",
+      "transliteration": "Me-la-yang, la-lu ber-la-buh.",
+      "category": "Balance",
+      "generated_at": "2026-07-10T03:24:06.203097"
+    },
+    {
+      "english": "Whisper of wind, hold.",
+      "indonesian": "Bisik angin, bertahan.",
+      "transliteration": "Bi-sik a-ngin, ber-ta-han.",
+      "category": "Balance",
+      "generated_at": "2026-07-10T03:24:06.203106"
+    },
+    {
+      "english": "A ripple, a stillness.",
+      "indonesian": "Riak kecil, hening.",
+      "transliteration": "Ri-ak ke-cil, he-ning.",
+      "category": "Balance",
+      "generated_at": "2026-07-10T03:24:06.203108"
+    },
+    {
+      "english": "Skyward glance, feet firm.",
+      "indonesian": "Pandang langit, kaki kokoh.",
+      "transliteration": "Pan-dang la-ngit, ka-ki ko-koh.",
+      "category": "Balance",
+      "generated_at": "2026-07-10T03:24:06.203124"
+    },
+    {
+      "english": "Unfold slowly, rise.",
+      "indonesian": "Buka perlahan, bangkit.",
+      "transliteration": "Bu-ka per-la-han, bang-kit.",
+      "category": "Balance",
+      "generated_at": "2026-07-10T03:24:06.203125"
     }
   ],
-  "last_updated": "2026-07-09T21:17:33.909003"
+  "last_updated": "2026-07-10T03:24:06.203127"
 }
