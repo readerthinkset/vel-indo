@@ -3779,7 +3779,42 @@
       "transliteration": "Bu-ka per-la-han, bang-kit.",
       "category": "Balance",
       "generated_at": "2026-07-10T03:24:06.203125"
+    },
+    {
+      "english": "A tiny mouse, scurries quickly, home.",
+      "indonesian": "Tikus kecil, berlari cepat, pulang.",
+      "transliteration": "Tee-koos kel-cheel, ber-lah-ree cha-paht, poo-lahng.",
+      "category": "Animals",
+      "generated_at": "2026-07-10T14:11:53.148737"
+    },
+    {
+      "english": "The owl watches, with big eyes, at night.",
+      "indonesian": "Burung hantu mengawasi, mata besar, malam.",
+      "transliteration": "Boo-roong hahn-too meng-ah-wah-see, mah-tah beh-sar, mah-lahm.",
+      "category": "Animals",
+      "generated_at": "2026-07-10T14:11:53.148747"
+    },
+    {
+      "english": "A rabbit hops, through the green grass.",
+      "indonesian": "Kelinci melompat, di rumput hijau.",
+      "transliteration": "Keh-lin-chee meh-lohm-paht, dee room-poot hee-jow.",
+      "category": "Animals",
+      "generated_at": "2026-07-10T14:11:53.148748"
+    },
+    {
+      "english": "The bee buzzes, collecting sweet nectar.",
+      "indonesian": "Lebah berdengung, mengumpulkan nektar manis.",
+      "transliteration": "Leh-bah ber-deh-noong, meng-koom-pool-kan nek-tahr mah-nees.",
+      "category": "Animals",
+      "generated_at": "2026-07-10T14:11:53.148750"
+    },
+    {
+      "english": "A snake slithers, silently, unseen.",
+      "indonesian": "Ular merayap, diam-diam, tak terlihat.",
+      "transliteration": "Oo-lahr meh-rah-yahp, dee-ahm dee-ahm, tahk ter-lee-haht.",
+      "category": "Animals",
+      "generated_at": "2026-07-10T14:11:53.148751"
     }
   ],
-  "last_updated": "2026-07-10T03:24:06.203127"
+  "last_updated": "2026-07-10T14:11:53.148752"
 }
