@@ -4059,7 +4059,42 @@
       "transliteration": "A-da yang me-nge-ku-ti, sa-ya.",
       "category": "Emergency",
       "generated_at": "2026-07-11T17:51:08.651481"
+    },
+    {
+      "english": "Wake up, greet the sun.",
+      "indonesian": "Bangun tidur, sambut mentari.",
+      "transliteration": "bah-goon tee-door, sahm-boot men-tah-ree",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-11T20:41:20.378487"
+    },
+    {
+      "english": "Stretch, feel alive.",
+      "indonesian": "Regangkan badan, rasakan hidup.",
+      "transliteration": "reg-ahng-kan bah-dahn, rah-sah-kan hee-doop",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-11T20:41:20.378494"
+    },
+    {
+      "english": "Drink water, hydrate.",
+      "indonesian": "Minum air, segarkan diri.",
+      "transliteration": "mee-noom ah-eer, seg-ahr-kan dee-ree",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-11T20:41:20.378496"
+    },
+    {
+      "english": "Brush teeth, smile bright.",
+      "indonesian": "Sikat gigi, senyum cerah.",
+      "transliteration": "see-kaht gee-gee, sen-yoom cheh-rah",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-11T20:41:20.378497"
+    },
+    {
+      "english": "Wash face, feel fresh.",
+      "indonesian": "Cuci muka, segar kembali.",
+      "transliteration": "choo-chee moo-kah, seg-ahr kem-bah-lee",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-11T20:41:20.378498"
     }
   ],
-  "last_updated": "2026-07-11T17:51:08.651483"
+  "last_updated": "2026-07-11T20:41:20.378500"
 }
