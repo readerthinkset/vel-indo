@@ -4024,7 +4024,42 @@
       "transliteration": "Ta-nam-kan keh-bah-ee-kan, leh-wat per-boo-a-tan-moo.",
       "category": "Kindness",
       "generated_at": "2026-07-11T14:56:00.548366"
+    },
+    {
+      "english": "My leg, it hurts badly.",
+      "indonesian": "Kakiku, sakit sekali.",
+      "transliteration": "Kaki-ku, sa-kit se-ka-li.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T17:51:08.651468"
+    },
+    {
+      "english": "I can't breathe, well.",
+      "indonesian": "Saya tidak bisa, bernapas.",
+      "transliteration": "Sa-ya ti-dak bi-sa, ber-na-pas.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T17:51:08.651477"
+    },
+    {
+      "english": "Emergency, please, help.",
+      "indonesian": "Darurat, tolong, bantu.",
+      "transliteration": "Da-ru-rat, to-long, ban-tu.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T17:51:08.651479"
+    },
+    {
+      "english": "I need shelter, fast.",
+      "indonesian": "Saya butuh tempat, cepat.",
+      "transliteration": "Sa-ya bu-tuh tem-pat, ce-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T17:51:08.651480"
+    },
+    {
+      "english": "Someone is following, me.",
+      "indonesian": "Ada yang mengikuti, saya.",
+      "transliteration": "A-da yang me-nge-ku-ti, sa-ya.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T17:51:08.651481"
     }
   ],
-  "last_updated": "2026-07-11T14:56:00.548368"
+  "last_updated": "2026-07-11T17:51:08.651483"
 }
