@@ -4549,7 +4549,42 @@
       "transliteration": "Kabut pagi, perlahan naik.",
       "category": "Nature",
       "generated_at": "2026-07-14T15:25:06.118436"
+    },
+    {
+      "english": "Greetings, new acquaintance.",
+      "indonesian": "Salam kenal, sobat baru.",
+      "transliteration": "Salam kenal, sobat baru.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T18:00:11.800767"
+    },
+    {
+      "english": "A pleasure to meet you, truly.",
+      "indonesian": "Senang berjumpa, sungguh.",
+      "transliteration": "Senang ber-jumpa, sung-guh.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T18:00:11.800777"
+    },
+    {
+      "english": "Welcome, wanderer.",
+      "indonesian": "Selamat datang, pengembara.",
+      "transliteration": "Sel-a-mat da-tang, peng-em-ba-ra.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T18:00:11.800780"
+    },
+    {
+      "english": "Shalom, and happy learning.",
+      "indonesian": "Syalom, dan selamat belajar.",
+      "transliteration": "Sha-lom, dan sel-a-mat bel-a-jar.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T18:00:11.800782"
+    },
+    {
+      "english": "Hey there, fellow traveler.",
+      "indonesian": "Hai di sana, sesama musafir.",
+      "transliteration": "Hai di sa-na, se-sa-ma mu-saf-ir.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T18:00:11.800785"
     }
   ],
-  "last_updated": "2026-07-14T15:25:06.118438"
+  "last_updated": "2026-07-14T18:00:11.800788"
 }
