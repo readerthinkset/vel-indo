@@ -4829,7 +4829,42 @@
       "transliteration": "nyalakan api, di dalammu",
       "category": "Courage",
       "generated_at": "2026-07-16T02:39:01.883034"
+    },
+    {
+      "english": "Sky is a lovely blue.",
+      "indonesian": "Langitnya biru cerah.",
+      "transliteration": "Laang-geet-nyaa bee-roo che-raah.",
+      "category": "Weather",
+      "generated_at": "2026-07-16T13:39:19.972192"
+    },
+    {
+      "english": "A light shower, just passed.",
+      "indonesian": "Gerimis tadi, baru saja lewat.",
+      "transliteration": "Ge-ree-mees taa-dee, baa-roo sa-ja leh-waat.",
+      "category": "Weather",
+      "generated_at": "2026-07-16T13:39:19.972203"
+    },
+    {
+      "english": "Feeling that tropical warmth.",
+      "indonesian": "Terasa hangat tropis.",
+      "transliteration": "Ter-raa-saa haa-ngaat tro-pees.",
+      "category": "Weather",
+      "generated_at": "2026-07-16T13:39:19.972205"
+    },
+    {
+      "english": "Wind whispers, through the trees.",
+      "indonesian": "Angin berbisik, di antara pohon.",
+      "transliteration": "Aa-ngeen ber-bee-seek, dee an-taa-raa po-hon.",
+      "category": "Weather",
+      "generated_at": "2026-07-16T13:39:19.972206"
+    },
+    {
+      "english": "Sun peeks, through the clouds.",
+      "indonesian": "Matahari mengintip, dari balik awan.",
+      "transliteration": "Ma-taa-haa-ree meng-een-teep, daa-ree baa-leek aa-wan.",
+      "category": "Weather",
+      "generated_at": "2026-07-16T13:39:19.972207"
     }
   ],
-  "last_updated": "2026-07-16T02:39:01.883035"
+  "last_updated": "2026-07-16T13:39:19.972209"
 }
