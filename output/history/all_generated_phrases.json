@@ -5214,7 +5214,42 @@
       "transliteration": "Jangan khawatir, santai saja.",
       "category": "Common Expressions",
       "generated_at": "2026-07-18T14:55:19.138550"
+    },
+    {
+      "english": "Right now, focus here.",
+      "indonesian": "Saat ini, fokus di sini.",
+      "transliteration": "Sa-at ee-nee, fo-kus dee see-nee.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:53:00.739890"
+    },
+    {
+      "english": "A moment later, maybe later.",
+      "indonesian": "Sebentar lagi, mungkin nanti.",
+      "transliteration": "Seh-ben-tar la-gee, mu-ngkeen nan-tee.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:53:00.739900"
+    },
+    {
+      "english": "This hour, seize it.",
+      "indonesian": "Jam ini, raihlah.",
+      "transliteration": "Jam ee-nee, ra-ee-lah.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:53:00.739901"
+    },
+    {
+      "english": "Weekend is coming, yay!",
+      "indonesian": "Akhir pekan tiba, hore!",
+      "transliteration": "Ah-keer pek-an tee-ba, ho-reh!",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:53:00.739902"
+    },
+    {
+      "english": "A while back, remember that.",
+      "indonesian": "Tadi itu, ingat itu.",
+      "transliteration": "Ta-dee ee-tu, ee-ngat ee-tu.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:53:00.739903"
     }
   ],
-  "last_updated": "2026-07-18T14:55:19.138553"
+  "last_updated": "2026-07-18T17:53:00.739904"
 }
