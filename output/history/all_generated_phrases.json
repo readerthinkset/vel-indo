@@ -5424,7 +5424,42 @@
       "transliteration": "jah-lan bah-roo, mah-sah dep-an cher-ah",
       "category": "Holidays",
       "generated_at": "2026-07-19T17:54:10.859704"
+    },
+    {
+      "english": "Hello, good morning.",
+      "indonesian": "Halo, selamat pagi.",
+      "transliteration": "Halo, sla-mat pa-gi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-19T20:39:56.544979"
+    },
+    {
+      "english": "You're welcome.",
+      "indonesian": "Sama-sama.",
+      "transliteration": "Sa-ma-sa-ma.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-19T20:39:56.544989"
+    },
+    {
+      "english": "Good afternoon.",
+      "indonesian": "Selamat sore.",
+      "transliteration": "Sla-mat so-re.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-19T20:39:56.544991"
+    },
+    {
+      "english": "Good evening.",
+      "indonesian": "Selamat malam.",
+      "transliteration": "Sla-mat ma-lam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-19T20:39:56.544992"
+    },
+    {
+      "english": "My name is John.",
+      "indonesian": "Nama saya John.",
+      "transliteration": "Na-ma sa-ya John.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-19T20:39:56.544993"
     }
   ],
-  "last_updated": "2026-07-19T17:54:10.859706"
+  "last_updated": "2026-07-19T20:39:56.544995"
 }
