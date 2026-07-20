@@ -5599,7 +5599,42 @@
       "transliteration": "Sa-too fra-sa ba-roo, pan-da-ngan leh-bee loo-as.",
       "category": "Wisdom",
       "generated_at": "2026-07-20T18:50:58.558467"
+    },
+    {
+      "english": "Hear the sound, then repeat.",
+      "indonesian": "Dengar bunyinya, lalu ulangi.",
+      "transliteration": "De-ngar bu-nyee-nya, la-loo oo-la-ngi.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:05:53.138575"
+    },
+    {
+      "english": "Follow my voice, match the tone.",
+      "indonesian": "Ikuti suara saya, samakan nadanya.",
+      "transliteration": "Ee-koo-tee soo-ah-ra sa-ya, sa-mah-kan nah-dah-nyah.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:05:53.138585"
+    },
+    {
+      "english": "Picture the word, say it aloud.",
+      "indonesian": "Bayangkan kata itu, ucapkan keras.",
+      "transliteration": "Bah-yang-kan kah-tah ee-too, oo-chap-kan kah-ras.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:05:53.138587"
+    },
+    {
+      "english": "Feel the rhythm, speak the phrase.",
+      "indonesian": "Rasakan iramanya, ucapkan frasa ini.",
+      "transliteration": "Rah-sah-kan ee-rah-mah-nyah, oo-chap-kan frah-sah ee-nee.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:05:53.138588"
+    },
+    {
+      "english": "Watch my lips, mimic the shape.",
+      "indonesian": "Perhatikan bibir saya, tiru bentuknya.",
+      "transliteration": "Per-hah-tee-kan bee-beer sa-ya, tee-roo bung-took-nyah.",
+      "category": "Directions",
+      "generated_at": "2026-07-20T21:05:53.138589"
     }
   ],
-  "last_updated": "2026-07-20T18:50:58.558468"
+  "last_updated": "2026-07-20T21:05:53.138590"
 }
