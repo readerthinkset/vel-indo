@@ -5494,7 +5494,42 @@
       "transliteration": "Bel-ah-jar In-do-neh-sia, seh-roo!",
       "category": "Greetings",
       "generated_at": "2026-07-20T03:15:45.471880"
+    },
+    {
+      "english": "A playful otter, dives for fish.",
+      "indonesian": "Berang-berang lucu, menyelam cari ikan.",
+      "transliteration": "Be-rang-be-rang lu-chu, me-nye-lam cha-ri i-kan.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T13:55:29.517151"
+    },
+    {
+      "english": "The wise owl, blinks slowly.",
+      "indonesian": "Burung hantu bijak, mengedip perlahan.",
+      "transliteration": "Bu-rung han-tu bi-jak, me-ngedip per-la-han.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T13:55:29.517160"
+    },
+    {
+      "english": "A proud peacock, fans its tail.",
+      "indonesian": "Merak bangga, kibaskan ekornya.",
+      "transliteration": "Me-rak bang-ga, ki-bas-kan e-kor-nya.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T13:55:29.517162"
+    },
+    {
+      "english": "Busy ants, march in a line.",
+      "indonesian": "Semut sibuk, berbaris beriringan.",
+      "transliteration": "Se-mut si-buk, ber-ba-ris be-ri-ring-an.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T13:55:29.517163"
+    },
+    {
+      "english": "A sleepy sloth, hangs upside down.",
+      "indonesian": "Kungkang mengantuk, tergantung terbalik.",
+      "transliteration": "Kungk-kang me-ngan-tuk, ter-gan-tung ter-ba-lik.",
+      "category": "Animals",
+      "generated_at": "2026-07-20T13:55:29.517164"
     }
   ],
-  "last_updated": "2026-07-20T03:15:45.471882"
+  "last_updated": "2026-07-20T13:55:29.517166"
 }
