@@ -5809,7 +5809,42 @@
       "transliteration": "Topi ini, lumayan gaya.",
       "category": "Clothes",
       "generated_at": "2026-07-21T21:00:47.566397"
+    },
+    {
+      "english": "Settle down, quiet mind.",
+      "indonesian": "Tenanglah, pikiran hening.",
+      "transliteration": "te-nang-lah, pi-ki-ran he-ning.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-22T02:41:55.680269"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "indonesian": "Amati, tanpa cela.",
+      "transliteration": "a-ma-ti, tan-pa ce-la.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-22T02:41:55.680278"
+    },
+    {
+      "english": "Feel the earth, beneath you.",
+      "indonesian": "Rasakan bumi, di bawahmu.",
+      "transliteration": "ra-sa-kan bu-mi, di ba-wah-mu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-22T02:41:55.680280"
+    },
+    {
+      "english": "Let go, of worries.",
+      "indonesian": "Lepaskan, segala resah.",
+      "transliteration": "le-pas-kan, se-ga-la re-sah.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-22T02:41:55.680281"
+    },
+    {
+      "english": "Just be, here now.",
+      "indonesian": "Cukup ada, di sini.",
+      "transliteration": "cu-kup a-da, di si-ni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-22T02:41:55.680282"
     }
   ],
-  "last_updated": "2026-07-21T21:00:47.566399"
+  "last_updated": "2026-07-22T02:41:55.680284"
 }
