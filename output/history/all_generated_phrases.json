@@ -5879,7 +5879,42 @@
       "transliteration": "Lee-bah-tkan diri, dengan war-ga.",
       "category": "Purpose",
       "generated_at": "2026-07-22T13:39:08.383842"
+    },
+    {
+      "english": "Sky's a bit hazy, today.",
+      "indonesian": "Langit agak berkabut, hari ini.",
+      "transliteration": "lah-ngit ah-gah ber-kah-boot, ha-ri ee-nee",
+      "category": "Weather",
+      "generated_at": "2026-07-22T15:44:37.226194"
+    },
+    {
+      "english": "Sun's hot, really hot.",
+      "indonesian": "Matahari terik, sungguh terik.",
+      "transliteration": "mah-tah-ha-ree teh-rik, soong-gooh teh-rik",
+      "category": "Weather",
+      "generated_at": "2026-07-22T15:44:37.226205"
+    },
+    {
+      "english": "Drops fall, lightly now.",
+      "indonesian": "Rintik jatuh, perlahan kini.",
+      "transliteration": "rin-tik jah-tooh, per-lah-han kee-nee",
+      "category": "Weather",
+      "generated_at": "2026-07-22T15:44:37.226206"
+    },
+    {
+      "english": "Air feels cooler, a bit.",
+      "indonesian": "Udara terasa sejuk, sedikit.",
+      "transliteration": "oo-dah-rah teh-rah-sah seh-jook, seh-dee-kit",
+      "category": "Weather",
+      "generated_at": "2026-07-22T15:44:37.226207"
+    },
+    {
+      "english": "Wind is calm, very calm.",
+      "indonesian": "Angin tenang, amat tenang.",
+      "transliteration": "ah-ngin teh-nahng, ah-maht teh-nahng",
+      "category": "Weather",
+      "generated_at": "2026-07-22T15:44:37.226208"
     }
   ],
-  "last_updated": "2026-07-22T13:39:08.383844"
+  "last_updated": "2026-07-22T15:44:37.226210"
 }
