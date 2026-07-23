@@ -6194,7 +6194,42 @@
       "transliteration": "Sah-too ee-day, per-chee-kan jen-ee-oos.",
       "category": "Numbers",
       "generated_at": "2026-07-23T18:09:36.841544"
+    },
+    {
+      "english": "Danger here, move away.",
+      "indonesian": "Bahaya di sini, menjauhlah.",
+      "transliteration": "Ba-ha-ya di si-ni, men-ja-uh-lah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-23T20:55:33.119732"
+    },
+    {
+      "english": "I need to be sober, fast.",
+      "indonesian": "Saya perlu sadar, cepat.",
+      "transliteration": "Sa-ya per-lu sa-dar, ce-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-07-23T20:55:33.119743"
+    },
+    {
+      "english": "Something feels wrong, now.",
+      "indonesian": "Ada yang salah, sekarang.",
+      "transliteration": "A-da yang sa-lah, se-ka-rang.",
+      "category": "Emergency",
+      "generated_at": "2026-07-23T20:55:33.119745"
+    },
+    {
+      "english": "Is anyone here, listening?",
+      "indonesian": "Ada orang di sini, dengar?",
+      "transliteration": "A-da o-rang di si-ni, de-ngar?",
+      "category": "Emergency",
+      "generated_at": "2026-07-23T20:55:33.119746"
+    },
+    {
+      "english": "My vision, it's blurry.",
+      "indonesian": "Pandangan saya, kabur.",
+      "transliteration": "Pan-da-ngan sa-ya, ka-bur.",
+      "category": "Emergency",
+      "generated_at": "2026-07-23T20:55:33.119747"
     }
   ],
-  "last_updated": "2026-07-23T18:09:36.841546"
+  "last_updated": "2026-07-23T20:55:33.119749"
 }
