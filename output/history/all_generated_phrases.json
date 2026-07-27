@@ -6719,7 +6719,42 @@
       "transliteration": "A-koo per-loo ees-ti-ra-hat, seh-ben-tar.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-26T20:50:05.771721"
+    },
+    {
+      "english": "Speak this way, please.",
+      "indonesian": "Ucapkan seperti ini, ya.",
+      "transliteration": "oo-tchap-kan sir-peh-tee ee-nee, yah.",
+      "category": "Directions",
+      "generated_at": "2026-07-27T02:58:02.474156"
+    },
+    {
+      "english": "Let's try a new word.",
+      "indonesian": "Mari coba kata baru.",
+      "transliteration": "mah-ree choh-bah kah-tah bah-roo.",
+      "category": "Directions",
+      "generated_at": "2026-07-27T02:58:02.474166"
+    },
+    {
+      "english": "Say it now, with feeling.",
+      "indonesian": "Ucapkan sekarang, penuh jiwa.",
+      "transliteration": "oo-tchap-kan seh-kah-rang, peh-noo jjee-wah.",
+      "category": "Directions",
+      "generated_at": "2026-07-27T02:58:02.474168"
+    },
+    {
+      "english": "Listen to the sound.",
+      "indonesian": "Dengarkan bunyinya.",
+      "transliteration": "dehng-ar-kan boo-nyee-nyah.",
+      "category": "Directions",
+      "generated_at": "2026-07-27T02:58:02.474169"
+    },
+    {
+      "english": "Try saying that sentence.",
+      "indonesian": "Coba ucapkan kalimat itu.",
+      "transliteration": "choh-bah oo-tchap-kan kah-lee-maht ee-too.",
+      "category": "Directions",
+      "generated_at": "2026-07-27T02:58:02.474170"
     }
   ],
-  "last_updated": "2026-07-26T20:50:05.771722"
+  "last_updated": "2026-07-27T02:58:02.474180"
 }
