@@ -6824,7 +6824,42 @@
       "transliteration": "Se-nyum ma-lu, ma-war lem-but.",
       "category": "Colors",
       "generated_at": "2026-07-28T21:03:18.276681"
+    },
+    {
+      "english": "Earth breathes, after the rain.",
+      "indonesian": "Bumi bernapas, setelah hujan.",
+      "transliteration": "Boo-mee nair-nah-pas, seh-tuh-lah hoo-jan.",
+      "category": "Nature",
+      "generated_at": "2026-07-29T02:40:53.610160"
+    },
+    {
+      "english": "Sky weeps, soft tears fall.",
+      "indonesian": "Langit menangis, tetesan lembut jatuh.",
+      "transliteration": "Lahng-eet meh-nahng-ees, teh-teh-san lem-boot jah-too.",
+      "category": "Nature",
+      "generated_at": "2026-07-29T02:40:53.610169"
+    },
+    {
+      "english": "Wind whispers, through the grass.",
+      "indonesian": "Angin berbisik, menerobos rumput.",
+      "transliteration": "Ahng-in nair-beeh-seek, meh-neh-roh-boh-s roo-mpoot.",
+      "category": "Nature",
+      "generated_at": "2026-07-29T02:40:53.610171"
+    },
+    {
+      "english": "Roots anchor, deep below.",
+      "indonesian": "Akar menahan, jauh di bawah.",
+      "transliteration": "Ah-kar meh-nah-han, jah-ooh dee bah-wah.",
+      "category": "Nature",
+      "generated_at": "2026-07-29T02:40:53.610172"
+    },
+    {
+      "english": "Light filters, through the canopy.",
+      "indonesian": "Cahaya menyaring, melalui kanopi.",
+      "transliteration": "Chah-hah-yah meh-nyah-ring, mah-lah-loo-ee kah-noh-pee.",
+      "category": "Nature",
+      "generated_at": "2026-07-29T02:40:53.610173"
     }
   ],
-  "last_updated": "2026-07-28T21:03:18.276682"
+  "last_updated": "2026-07-29T02:40:53.610175"
 }
