@@ -6859,7 +6859,42 @@
       "transliteration": "Chah-hah-yah meh-nyah-ring, mah-lah-loo-ee kah-noh-pee.",
       "category": "Nature",
       "generated_at": "2026-07-29T02:40:53.610173"
+    },
+    {
+      "english": "My throat, it's closing. Help.",
+      "indonesian": "Tenggorokan saya, menyempit. Tolong.",
+      "transliteration": "Teng-go-ro-kan sa-ya, me-nyem-pit. To-long.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T13:56:56.597467"
+    },
+    {
+      "english": "I can't see you, clearly.",
+      "indonesian": "Saya tidak melihatmu, jelas.",
+      "transliteration": "Sa-ya ti-dak me-li-hat-mu, je-las.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T13:56:56.597478"
+    },
+    {
+      "english": "Something is wrong, with my ears.",
+      "indonesian": "Ada yang salah, di telinga saya.",
+      "transliteration": "A-da yang sa-lah, di te-lin-ga sa-ya.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T13:56:56.597480"
+    },
+    {
+      "english": "I need to contact, the embassy. Now.",
+      "indonesian": "Saya perlu kontak, kedutaan. Sekarang.",
+      "transliteration": "Sa-ya per-lu kon-tak, ke-du-ta-an. Se-ka-rang.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T13:56:56.597481"
+    },
+    {
+      "english": "This place, it feels dangerous.",
+      "indonesian": "Tempat ini, terasa berbahaya.",
+      "transliteration": "Tem-pat i-ni, te-ra-sa ber-ba-ha-ya.",
+      "category": "Emergency",
+      "generated_at": "2026-07-29T13:56:56.597482"
     }
   ],
-  "last_updated": "2026-07-29T02:40:53.610175"
+  "last_updated": "2026-07-29T13:56:56.597484"
 }
