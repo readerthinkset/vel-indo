@@ -7034,7 +7034,42 @@
       "transliteration": "ee-rah-mah teh-nahng, lahng-kah ree-ahng",
       "category": "Health",
       "generated_at": "2026-07-30T02:27:05.231449"
+    },
+    {
+      "english": "Still early, don't rush.",
+      "indonesian": "Masih pagi, jangan buru-buru.",
+      "transliteration": "Masih pah-gee, jangan boo-roo-boo-roo.",
+      "category": "Time",
+      "generated_at": "2026-07-30T15:53:21.977990"
+    },
+    {
+      "english": "Afternoon shade, rest a bit.",
+      "indonesian": "Sore teduh, istirahat sebentar.",
+      "transliteration": "So-ray teh-doo, ee-stee-rah-hat seb-en-tar.",
+      "category": "Time",
+      "generated_at": "2026-07-30T15:53:21.978003"
+    },
+    {
+      "english": "Midnight stars, so bright.",
+      "indonesian": "Tengah malam bintangnya, terang sekali.",
+      "transliteration": "Tengah mah-lam bing-tang-nya, teh-rang seh-kah-lee.",
+      "category": "Time",
+      "generated_at": "2026-07-30T15:53:21.978005"
+    },
+    {
+      "english": "Another minute, let's wait.",
+      "indonesian": "Satu menit lagi, kita tunggu.",
+      "transliteration": "Sah-too meh-nit lah-gee, kee-tah toong-goo.",
+      "category": "Time",
+      "generated_at": "2026-07-30T15:53:21.978006"
+    },
+    {
+      "english": "Daylight fades, colors change.",
+      "indonesian": "Siang menghilang, warna berganti.",
+      "transliteration": "See-ang meh-nghee-lang, warna berg-an-tee.",
+      "category": "Time",
+      "generated_at": "2026-07-30T15:53:21.978007"
     }
   ],
-  "last_updated": "2026-07-30T02:27:05.231451"
+  "last_updated": "2026-07-30T15:53:21.978008"
 }
