@@ -7629,7 +7629,42 @@
       "transliteration": "A-yo ki-ta, je-la-ja-hi se-ka-rang.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-02T17:57:07.257811"
+    },
+    {
+      "english": "Just a moment, please.",
+      "indonesian": "Sebentar, ya.",
+      "transliteration": "Sebentar, ya.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-02T20:46:54.246520"
+    },
+    {
+      "english": "That sounds good, actually.",
+      "indonesian": "Kedengarannya bagus, sih.",
+      "transliteration": "Kedengarannya bagus, sih.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-02T20:46:54.246535"
+    },
+    {
+      "english": "I understand, completely.",
+      "indonesian": "Saya paham, kok.",
+      "transliteration": "Saya paham, kok.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-02T20:46:54.246537"
+    },
+    {
+      "english": "What's happening, now?",
+      "indonesian": "Ada apa, sekarang?",
+      "transliteration": "Ada apa, sekarang?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-02T20:46:54.246538"
+    },
+    {
+      "english": "Let's try something else.",
+      "indonesian": "Mari coba yang lain.",
+      "transliteration": "Mari coba yang lain.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-02T20:46:54.246539"
     }
   ],
-  "last_updated": "2026-08-02T17:57:07.257812"
+  "last_updated": "2026-08-02T20:46:54.246541"
 }
