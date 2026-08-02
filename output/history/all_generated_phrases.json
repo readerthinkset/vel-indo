@@ -7559,7 +7559,42 @@
       "transliteration": "Behr-bah-gee tah-wah, behr-sah-mah teh-mahn.",
       "category": "Happiness",
       "generated_at": "2026-08-02T13:08:31.626734"
+    },
+    {
+      "english": "A frog croaks, by the pond.",
+      "indonesian": "Katak berkaok, di dekat kolam.",
+      "transliteration": "Ka-tak ber-ka-ok, di dekat ko-lam.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T15:04:35.926869"
+    },
+    {
+      "english": "A busy bee, flies to a flower.",
+      "indonesian": "Lebah sibuk, terbang ke bunga.",
+      "transliteration": "Le-bah si-buk, ter-bang ke bun-ga.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T15:04:35.926878"
+    },
+    {
+      "english": "A gentle deer, eats green grass.",
+      "indonesian": "Rusa lembut, makan rumput hijau.",
+      "transliteration": "Ru-sa lem-but, ma-kan rum-put hi-jau.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T15:04:35.926880"
+    },
+    {
+      "english": "The proud rooster, crows loudly.",
+      "indonesian": "Ayam jantan bangga, berkokok keras.",
+      "transliteration": "A-yam jan-tan bang-ga, ber-ko-kok ke-ras.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T15:04:35.926881"
+    },
+    {
+      "english": "A fluffy sheep, bleats softly.",
+      "indonesian": "Domba berbulu, mengembik pelan.",
+      "transliteration": "Dom-ba ber-bu-lu, meng-em-bik pe-lan.",
+      "category": "Animals",
+      "generated_at": "2026-08-02T15:04:35.926882"
     }
   ],
-  "last_updated": "2026-08-02T13:08:31.626736"
+  "last_updated": "2026-08-02T15:04:35.926883"
 }
