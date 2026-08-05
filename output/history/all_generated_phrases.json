@@ -8084,7 +8084,42 @@
       "transliteration": "Jah-lan teh-nang, pee-kee-ran jer-neee.",
       "category": "Health",
       "generated_at": "2026-08-05T16:02:58.584259"
+    },
+    {
+      "english": "Just a second, wait for me.",
+      "indonesian": "Sebentar saja, tunggu aku.",
+      "transliteration": "Sebentar saja, tunggu aku.",
+      "category": "Time",
+      "generated_at": "2026-08-05T18:16:48.473256"
+    },
+    {
+      "english": "Later, maybe we can go.",
+      "indonesian": "Nanti, mungkin kita bisa pergi.",
+      "transliteration": "Nanti, mungkin kita bisa pergi.",
+      "category": "Time",
+      "generated_at": "2026-08-05T18:16:48.473267"
+    },
+    {
+      "english": "Early morning, quiet street.",
+      "indonesian": "Pagi sekali, jalan sepi.",
+      "transliteration": "Pagi sekali, jalan sepi.",
+      "category": "Time",
+      "generated_at": "2026-08-05T18:16:48.473269"
+    },
+    {
+      "english": "Already late, let's hurry.",
+      "indonesian": "Sudah terlambat, ayo cepat.",
+      "transliteration": "Sudah terlambat, ayo cepat.",
+      "category": "Time",
+      "generated_at": "2026-08-05T18:16:48.473270"
+    },
+    {
+      "english": "A moment ago, I saw it.",
+      "indonesian": "Baru saja, aku melihatnya.",
+      "transliteration": "Baru saja, aku melihatnya.",
+      "category": "Time",
+      "generated_at": "2026-08-05T18:16:48.473271"
     }
   ],
-  "last_updated": "2026-08-05T16:02:58.584261"
+  "last_updated": "2026-08-05T18:16:48.473273"
 }
