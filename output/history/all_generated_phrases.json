@@ -8259,7 +8259,42 @@
       "transliteration": "senang kamu, ada di hidupku",
       "category": "Friendship",
       "generated_at": "2026-08-06T22:39:32.971027"
+    },
+    {
+      "english": "I need, a small bag, please.",
+      "indonesian": "Saya perlu, tas kecil, ya.",
+      "transliteration": "Saya perlu, tas kecil, ya.",
+      "category": "Shopping",
+      "generated_at": "2026-08-07T00:51:43.856618"
+    },
+    {
+      "english": "This is, really beautiful, isn't it?",
+      "indonesian": "Ini, sungguh cantik, ya?",
+      "transliteration": "Ini, sungguh cantik, ya?",
+      "category": "Shopping",
+      "generated_at": "2026-08-07T00:51:43.856627"
+    },
+    {
+      "english": "Do you have, anything, cheaper?",
+      "indonesian": "Ada, yang lebih murah?",
+      "transliteration": "Ada, yang lebih murah?",
+      "category": "Shopping",
+      "generated_at": "2026-08-07T00:51:43.856629"
+    },
+    {
+      "english": "Just looking, thank you.",
+      "indonesian": "Hanya lihat-lihat, terima kasih.",
+      "transliteration": "Hanya lihat-lihat, terima kasih.",
+      "category": "Shopping",
+      "generated_at": "2026-08-07T00:51:43.856630"
+    },
+    {
+      "english": "I'll take, this one, then.",
+      "indonesian": "Saya ambil, yang ini, saja.",
+      "transliteration": "Saya ambil, yang ini, saja.",
+      "category": "Shopping",
+      "generated_at": "2026-08-07T00:51:43.856632"
     }
   ],
-  "last_updated": "2026-08-06T22:39:32.971028"
+  "last_updated": "2026-08-07T00:51:43.856633"
 }
