@@ -8294,7 +8294,42 @@
       "transliteration": "Saya ambil, yang ini, saja.",
       "category": "Shopping",
       "generated_at": "2026-08-07T00:51:43.856632"
+    },
+    {
+      "english": "The alarm sings, time to stir.",
+      "indonesian": "Alarm berbunyi, saatnya bergerak.",
+      "transliteration": "alarm ber-boo-nee, saat-nya ber-gerak.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-07T02:41:46.702995"
+    },
+    {
+      "english": "My eyes flutter open, slowly.",
+      "indonesian": "Mataku berkedip terbuka, perlahan.",
+      "transliteration": "mah-tah-koo ber-kedip ter-boo-kah, per-lah-han.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-07T02:41:46.703004"
+    },
+    {
+      "english": "A yawn escapes, morning is here.",
+      "indonesian": "Satu nguapan lepas, pagi telah tiba.",
+      "transliteration": "sah-too ngoo-ah-pan le-pas, pah-gee tah-lah tee-bah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-07T02:41:46.703005"
+    },
+    {
+      "english": "Rubbing sleepy eyes, still groggy.",
+      "indonesian": "Mengucek mata ngantuk, masih linglung.",
+      "transliteration": "meng-koo-chek mah-tah ngant-ook, mah-see ling-loong.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-07T02:41:46.703006"
+    },
+    {
+      "english": "Getting dressed, for the day's start.",
+      "indonesian": "Memakai baju, untuk memulai hari.",
+      "transliteration": "me-mah-kai bah-joo, oont-ook me-mah-moo-lai ha-ree.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-07T02:41:46.703007"
     }
   ],
-  "last_updated": "2026-08-07T00:51:43.856633"
+  "last_updated": "2026-08-07T02:41:46.703008"
 }
