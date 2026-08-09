@@ -8714,7 +8714,42 @@
       "transliteration": "Hoob-oon-gaàn pe-raàn-gaht, seeng-kron da-ta.",
       "category": "Technology",
       "generated_at": "2026-08-09T12:38:52.166520"
+    },
+    {
+      "english": "Focus now, let's begin.",
+      "indonesian": "Fokus sekarang, mari mulai.",
+      "transliteration": "Fokus sa-karang, ma-ri mu-lai.",
+      "category": "Directions",
+      "generated_at": "2026-08-09T14:36:22.467063"
+    },
+    {
+      "english": "Listen carefully, then respond.",
+      "indonesian": "Dengar baik-baik, lalu jawab.",
+      "transliteration": "De-ngar bai-k bai-k, la-lu ja-wab.",
+      "category": "Directions",
+      "generated_at": "2026-08-09T14:36:22.467072"
+    },
+    {
+      "english": "Sound it out, slowly.",
+      "indonesian": "Ucapkan bunyinya, perlahan.",
+      "transliteration": "U-cap-kan bun-yi-nya, per-la-han.",
+      "category": "Directions",
+      "generated_at": "2026-08-09T14:36:22.467074"
+    },
+    {
+      "english": "Repeat after me, exactly.",
+      "indonesian": "Ulangi setelah saya, tepat.",
+      "transliteration": "U-la-ngi se-te-lah sa-ya, te-pat.",
+      "category": "Directions",
+      "generated_at": "2026-08-09T14:36:22.467075"
+    },
+    {
+      "english": "Tell me this, please.",
+      "indonesian": "Katakan ini, silakan.",
+      "transliteration": "Ka-ta-kan i-ni, si-la-kan.",
+      "category": "Directions",
+      "generated_at": "2026-08-09T14:36:22.467076"
     }
   ],
-  "last_updated": "2026-08-09T12:38:52.166522"
+  "last_updated": "2026-08-09T14:36:22.467078"
 }
