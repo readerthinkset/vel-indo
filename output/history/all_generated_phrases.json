@@ -8819,7 +8819,42 @@
       "transliteration": "Lee-mah om-bak bee-roo, meh-ngan-tam.",
       "category": "Numbers",
       "generated_at": "2026-08-09T20:24:17.615197"
+    },
+    {
+      "english": "Such a vibrant market, isn't it?",
+      "indonesian": "Pasar ini ramai sekali, ya?",
+      "transliteration": "Pasar ini ramai sekali, ya?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-10T01:49:52.371164"
+    },
+    {
+      "english": "That song, it's catchy.",
+      "indonesian": "Lagu itu, enak didengar.",
+      "transliteration": "Lagu itu, enak didengar.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-10T01:49:52.371176"
+    },
+    {
+      "english": "Mind if I sit, here?",
+      "indonesian": "Boleh saya duduk, di sini?",
+      "transliteration": "Boleh saya duduk, di sini?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-10T01:49:52.371178"
+    },
+    {
+      "english": "What's your favorite, hobby?",
+      "indonesian": "Apa hobi favoritmu?",
+      "transliteration": "Apa hobi favoritmu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-10T01:49:52.371179"
+    },
+    {
+      "english": "This traffic, it's crazy.",
+      "indonesian": "Macet ini, parah sekali.",
+      "transliteration": "Macet ini, parah sekali.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-10T01:49:52.371180"
     }
   ],
-  "last_updated": "2026-08-09T20:24:17.615199"
+  "last_updated": "2026-08-10T01:49:52.371182"
 }
