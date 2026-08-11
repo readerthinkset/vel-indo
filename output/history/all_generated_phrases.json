@@ -9134,7 +9134,42 @@
       "transliteration": "Ja-di-kan ke-bai-kan, kom-pas-mu.",
       "category": "Positive Life",
       "generated_at": "2026-08-11T17:54:01.925748"
+    },
+    {
+      "english": "I've lost, my way. Need guidance.",
+      "indonesian": "Saya tersesat, butuh petunjuk.",
+      "transliteration": "Saya ter-se-sat, butuh pe-tun-juk.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T20:36:48.968983"
+    },
+    {
+      "english": "Sudden illness, help needed, please.",
+      "indonesian": "Sakit mendadak, perlu bantuan, tolong.",
+      "transliteration": "Sa-kit men-da-dak, per-lu ban-tu-an, to-long.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T20:36:48.968992"
+    },
+    {
+      "english": "There's a strange noise, outside.",
+      "indonesian": "Ada suara aneh, di luar.",
+      "transliteration": "A-da su-a-ra a-neh, di lu-ar.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T20:36:48.968994"
+    },
+    {
+      "english": "I can't remember, where I am.",
+      "indonesian": "Saya lupa, ada di mana.",
+      "transliteration": "Sa-ya lu-pa, a-da di ma-na.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T20:36:48.968996"
+    },
+    {
+      "english": "My belongings, are missing. All of them.",
+      "indonesian": "Barang-barang saya, hilang. Semuanya.",
+      "transliteration": "Ba-rang-ba-rang sa-ya, hi-lang. Se-mu-a-nya.",
+      "category": "Emergency",
+      "generated_at": "2026-08-11T20:36:48.968997"
     }
   ],
-  "last_updated": "2026-08-11T17:54:01.925749"
+  "last_updated": "2026-08-11T20:36:48.968999"
 }
