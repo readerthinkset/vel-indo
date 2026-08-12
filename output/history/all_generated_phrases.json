@@ -9239,7 +9239,42 @@
       "transliteration": "Baret ini, cocok cuacanya.",
       "category": "Clothes",
       "generated_at": "2026-08-12T12:56:53.233272"
+    },
+    {
+      "english": "A little weary, but smiling.",
+      "indonesian": "Agak lelah, tapi tersenyum.",
+      "transliteration": "Agak lelah, tapi tersenyum.",
+      "category": "Feelings",
+      "generated_at": "2026-08-12T17:54:52.796071"
+    },
+    {
+      "english": "Feeling quite proud, you know.",
+      "indonesian": "Merasa bangga sekali, tahu.",
+      "transliteration": "Merasa bangga sekali, tahu.",
+      "category": "Feelings",
+      "generated_at": "2026-08-12T17:54:52.796083"
+    },
+    {
+      "english": "A touch of mischief, perhaps.",
+      "indonesian": "Sedikit nakal, mungkin.",
+      "transliteration": "Sedikit nakal, mungkin.",
+      "category": "Feelings",
+      "generated_at": "2026-08-12T17:54:52.796085"
+    },
+    {
+      "english": "Deeply touched, truly.",
+      "indonesian": "Sangat tersentuh, sungguh.",
+      "transliteration": "Sangat tersentuh, sungguh.",
+      "category": "Feelings",
+      "generated_at": "2026-08-12T17:54:52.796086"
+    },
+    {
+      "english": "A bit apprehensive, honestly.",
+      "indonesian": "Sedikit cemas, jujur.",
+      "transliteration": "Sedikit cemas, jujur.",
+      "category": "Feelings",
+      "generated_at": "2026-08-12T17:54:52.796087"
     }
   ],
-  "last_updated": "2026-08-12T12:56:53.233274"
+  "last_updated": "2026-08-12T17:54:52.796089"
 }
