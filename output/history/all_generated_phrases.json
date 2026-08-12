@@ -9169,7 +9169,42 @@
       "transliteration": "Ba-rang-ba-rang sa-ya, hi-lang. Se-mu-a-nya.",
       "category": "Emergency",
       "generated_at": "2026-08-11T20:36:48.968997"
+    },
+    {
+      "english": "Sky's painted, with sunset hues.",
+      "indonesian": "Langit, diwarnai senja.",
+      "transliteration": "lah-ngit, dee-wah-rnah-ee sen-jah.",
+      "category": "Weather",
+      "generated_at": "2026-08-12T01:58:44.147673"
+    },
+    {
+      "english": "Dew drops, sparkle on leaves.",
+      "indonesian": "Tetes embun, berkilau di daun.",
+      "transliteration": "teh-tes em-boon, ber-kee-laow dee da-oon.",
+      "category": "Weather",
+      "generated_at": "2026-08-12T01:58:44.147682"
+    },
+    {
+      "english": "Air feels, crisp and clean.",
+      "indonesian": "Udara terasa, segar sekali.",
+      "transliteration": "oo-dah-rah teh-rah-sah, seh-gar seh-kah-lee.",
+      "category": "Weather",
+      "generated_at": "2026-08-12T01:58:44.147684"
+    },
+    {
+      "english": "Storm's coming, I think.",
+      "indonesian": "Badai datang, sepertinya.",
+      "transliteration": "bah-dai dah-tahng, seh-per-tee-nyah.",
+      "category": "Weather",
+      "generated_at": "2026-08-12T01:58:44.147685"
+    },
+    {
+      "english": "Sun warms, my skin gently.",
+      "indonesian": "Matahari menghangatkan, kulitku pelan.",
+      "transliteration": "mah-tah-hah-ree mehng-hahng-at-kan, koo-leet-koo peh-lahn.",
+      "category": "Weather",
+      "generated_at": "2026-08-12T01:58:44.147686"
     }
   ],
-  "last_updated": "2026-08-11T20:36:48.968999"
+  "last_updated": "2026-08-12T01:58:44.147688"
 }
