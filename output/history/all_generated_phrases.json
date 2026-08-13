@@ -9309,7 +9309,42 @@
       "transliteration": "Set-iap kah-li-mat, lahng-kah mah-ju.",
       "category": "Confidence",
       "generated_at": "2026-08-12T20:36:46.372713"
+    },
+    {
+      "english": "Juicy rambutan, a sweet surprise.",
+      "indonesian": "Rambutan berair, kejutan manis.",
+      "transliteration": "rambutan berair, kejutan manis",
+      "category": "Food",
+      "generated_at": "2026-08-13T02:00:55.411239"
+    },
+    {
+      "english": "This rendang, rich with spices.",
+      "indonesian": "Rendang ini, kaya rempah.",
+      "transliteration": "rendang ini, kaya rempah",
+      "category": "Food",
+      "generated_at": "2026-08-13T02:00:55.411250"
+    },
+    {
+      "english": "Grilled corn, smoky delight.",
+      "indonesian": "Jagung bakar, nikmat asap.",
+      "transliteration": "jagung bakar, nikmat asap",
+      "category": "Food",
+      "generated_at": "2026-08-13T02:00:55.411252"
+    },
+    {
+      "english": "Sticky rice, a delightful treat.",
+      "indonesian": "Nasi ketan, suguhan lezat.",
+      "transliteration": "nasi ketan, suguhan lezat",
+      "category": "Food",
+      "generated_at": "2026-08-13T02:00:55.411254"
+    },
+    {
+      "english": "Sour papaya salad, so tangy.",
+      "indonesian": "Asinan pepaya, sungguh asam.",
+      "transliteration": "asinan pepaya, sungguh asam",
+      "category": "Food",
+      "generated_at": "2026-08-13T02:00:55.411255"
     }
   ],
-  "last_updated": "2026-08-12T20:36:46.372715"
+  "last_updated": "2026-08-13T02:00:55.411257"
 }
