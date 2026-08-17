@@ -9939,7 +9939,42 @@
       "transliteration": "A-ngin se-poi, mem-ba-wa per-u-bah-an.",
       "category": "Hope",
       "generated_at": "2026-08-17T01:17:04.779043"
+    },
+    {
+      "english": "Fire, please help. Quickly.",
+      "indonesian": "Api, tolong segera. Cepat.",
+      "transliteration": "Ah-pee, toh-long soh-geh-rah. Cheh-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T12:33:02.998670"
+    },
+    {
+      "english": "I need doctor. Very urgent.",
+      "indonesian": "Saya perlu dokter. Sangat mendesak.",
+      "transliteration": "Sah-yah per-loo dok-ter. Sah-ngat men-deh-sak.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T12:33:02.998681"
+    },
+    {
+      "english": "Help me. I've fallen.",
+      "indonesian": "Tolong saya. Saya jatuh.",
+      "transliteration": "Toh-long sah-yah. Sah-yah jah-tooh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T12:33:02.998682"
+    },
+    {
+      "english": "Accident happened. Need assistance.",
+      "indonesian": "Kecelakaan terjadi. Perlu bantuan.",
+      "transliteration": "Keh-cheh-lah-kah-an ter-jah-dee. Per-loo bahn-too-ahn.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T12:33:02.998683"
+    },
+    {
+      "english": "Medical emergency. Right now.",
+      "indonesian": "Darurat medis. Sekarang juga.",
+      "transliteration": "Dah-roo-rat meh-dees. Seh-kah-rang joo-gah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-17T12:33:02.998685"
     }
   ],
-  "last_updated": "2026-08-17T01:17:04.779045"
+  "last_updated": "2026-08-17T12:33:02.998686"
 }
