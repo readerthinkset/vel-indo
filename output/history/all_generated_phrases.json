@@ -10394,7 +10394,42 @@
       "transliteration": "pi-kir le-bih ja-uh, be-la-jar la-gi",
       "category": "Education",
       "generated_at": "2026-08-19T20:21:47.548711"
+    },
+    {
+      "english": "Try this, slowly. Understand?",
+      "indonesian": "Coba ini, pelan-pelan. Mengerti?",
+      "transliteration": "Co-ba i-ni, pe-lan-pe-lan. Me-ngert-ee?",
+      "category": "Directions",
+      "generated_at": "2026-08-20T12:37:17.637703"
+    },
+    {
+      "english": "Hear the word, then say it.",
+      "indonesian": "Dengar kata ini, lalu ucapkan.",
+      "transliteration": "De-ngar ka-ta i-ni, la-lu u-chap-kan.",
+      "category": "Directions",
+      "generated_at": "2026-08-20T12:37:17.637713"
+    },
+    {
+      "english": "Now, your turn. Speak up.",
+      "indonesian": "Sekarang, giliranmu. Bicara.",
+      "transliteration": "Se-ka-rang, gi-lir-an-mu. Bi-cha-ra.",
+      "category": "Directions",
+      "generated_at": "2026-08-20T12:37:17.637714"
+    },
+    {
+      "english": "Listen to me, please.",
+      "indonesian": "Dengarkan saya, ya.",
+      "transliteration": "De-ngar-kan sa-ya, ya.",
+      "category": "Directions",
+      "generated_at": "2026-08-20T12:37:17.637715"
+    },
+    {
+      "english": "Let's say it, together.",
+      "indonesian": "Ayo ucapkan, bersama.",
+      "transliteration": "A-yo u-chap-kan, ber-sa-ma.",
+      "category": "Directions",
+      "generated_at": "2026-08-20T12:37:17.637716"
     }
   ],
-  "last_updated": "2026-08-19T20:21:47.548713"
+  "last_updated": "2026-08-20T12:37:17.637718"
 }
