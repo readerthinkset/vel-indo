@@ -10779,7 +10779,42 @@
       "transliteration": "Ki-ta bang-un, ma-sa de-pan ki-ta.",
       "category": "Relationships",
       "generated_at": "2026-08-22T12:27:25.867766"
+    },
+    {
+      "english": "This design, is truly striking.",
+      "indonesian": "Desain ini, sungguh menarik.",
+      "transliteration": "Desain ini, sungguh menarik.",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T14:22:51.704467"
+    },
+    {
+      "english": "A little, something for myself.",
+      "indonesian": "Sedikit, oleh-oleh untuk diri sendiri.",
+      "transliteration": "Sedikit, oleh-oleh untuk diri sendiri.",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T14:22:51.704479"
+    },
+    {
+      "english": "Can you tell me, more about it?",
+      "indonesian": "Bisa ceritakan, lebih lanjut?",
+      "transliteration": "Bisa ceritakan, lebih lanjut?",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T14:22:51.704481"
+    },
+    {
+      "english": "I'm drawn, to this style.",
+      "indonesian": "Saya suka, model yang ini.",
+      "transliteration": "Saya suka, model yang ini.",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T14:22:51.704482"
+    },
+    {
+      "english": "Is there, a slightly larger size?",
+      "indonesian": "Ada ukuran, sedikit lebih besar?",
+      "transliteration": "Ada ukuran, sedikit lebih besar?",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T14:22:51.704483"
     }
   ],
-  "last_updated": "2026-08-22T12:27:25.867768"
+  "last_updated": "2026-08-22T14:22:51.704485"
 }
