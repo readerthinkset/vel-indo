@@ -10884,7 +10884,42 @@
       "transliteration": "Boleh saya, ambil foto?",
       "category": "Travel",
       "generated_at": "2026-08-22T20:15:29.892097"
+    },
+    {
+      "english": "The cat purrs, a soft rumble.",
+      "indonesian": "Kucing mendengkur, suara lembut.",
+      "transliteration": "Koo-ching men-dehng-koor, soo-ah-rah lem-boot.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T01:21:02.936150"
+    },
+    {
+      "english": "A bird sings, sweetly, in the tree.",
+      "indonesian": "Burung bernyanyi, merdu, di pohon.",
+      "transliteration": "Boo-roong ber-nyan-yee, mer-doo, dee poh-hon.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T01:21:02.936159"
+    },
+    {
+      "english": "Dogs bark, excitedly, at the door.",
+      "indonesian": "Anjing menggonggong, bersemangat, di pintu.",
+      "transliteration": "An-jing meng-gong-gong, ber-seh-man-gat, dee peen-too.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T01:21:02.936160"
+    },
+    {
+      "english": "The fish swim, in the clear water.",
+      "indonesian": "Ikan berenang, di air jernih.",
+      "transliteration": "Ee-kan ber-eh-nahng, dee ah-eer jer-nih.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T01:21:02.936161"
+    },
+    {
+      "english": "A horse gallops, across the field.",
+      "indonesian": "Kuda berlari, melintasi padang.",
+      "transliteration": "Koo-dah ber-lah-ree, meh-lin-tah-see pah-dahng.",
+      "category": "Animals",
+      "generated_at": "2026-08-23T01:21:02.936162"
     }
   ],
-  "last_updated": "2026-08-22T20:15:29.892098"
+  "last_updated": "2026-08-23T01:21:02.936163"
 }
