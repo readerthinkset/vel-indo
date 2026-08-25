@@ -11374,7 +11374,42 @@
       "transliteration": "Je-la-ja-hi pu-lau, bi-cha-ra-lah ca-ra.",
       "category": "Purpose",
       "generated_at": "2026-08-25T17:31:45.779344"
+    },
+    {
+      "english": "Catch the flow, then reply.",
+      "indonesian": "Tangkap alurnya, lalu balas.",
+      "transliteration": "tang-kap alur-nya, la-lu ba-las.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T20:26:06.530868"
+    },
+    {
+      "english": "Let's embrace this sound.",
+      "indonesian": "Ayo kita rangkul suara ini.",
+      "transliteration": "a-yo ki-ta rang-kul su-a-ra i-ni.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T20:26:06.530878"
+    },
+    {
+      "english": "Whisper this, softly.",
+      "indonesian": "Bisikkan ini, pelan-pelan.",
+      "transliteration": "bi-sik-kan i-ni, pe-lan-pe-lan.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T20:26:06.530880"
+    },
+    {
+      "english": "Mimic my accent, try.",
+      "indonesian": "Tirukan aksen saya, coba.",
+      "transliteration": "ti-ru-kan ak-sen sa-ya, co-ba.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T20:26:06.530881"
+    },
+    {
+      "english": "Absorb the meaning, speak.",
+      "indonesian": "Serap maknanya, bicaralah.",
+      "transliteration": "se-rap mak-na-nya, bi-ca-ra-lah.",
+      "category": "Directions",
+      "generated_at": "2026-08-25T20:26:06.530882"
     }
   ],
-  "last_updated": "2026-08-25T17:31:45.779345"
+  "last_updated": "2026-08-25T20:26:06.530884"
 }
