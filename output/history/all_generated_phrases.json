@@ -11269,7 +11269,42 @@
       "transliteration": "Ingat kemarin, belajar baik.",
       "category": "Time",
       "generated_at": "2026-08-25T01:16:41.813220"
+    },
+    {
+      "english": "My foot, steps softly, on the sand.",
+      "indonesian": "Kakiku, melangkah pelan, di pasir.",
+      "transliteration": "Kaki-ku, melangkah pelan, di pa-sir.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-25T12:36:59.496918"
+    },
+    {
+      "english": "Her elbow, nudged me, gently.",
+      "indonesian": "Sikutnya, menyikutku, pelan.",
+      "transliteration": "Si-kut-nya, menyi-kut-ku, pelan.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-25T12:36:59.496929"
+    },
+    {
+      "english": "His shoulder, supports the weight.",
+      "indonesian": "Bahunya, menopang beban.",
+      "transliteration": "Ba-hu-nya, me-no-pang be-ban.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-25T12:36:59.496930"
+    },
+    {
+      "english": "Your tongue, tastes spicy food.",
+      "indonesian": "Lidahmu, mengecap pedas.",
+      "transliteration": "Li-dah-mu, menge-cap pe-das.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-25T12:36:59.496932"
+    },
+    {
+      "english": "The knee, bends for prayer.",
+      "indonesian": "Lutut, menekuk untuk sembahyang.",
+      "transliteration": "Lu-lut, me-ne-kuk un-tuk sem-bah-yang.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-25T12:36:59.496934"
     }
   ],
-  "last_updated": "2026-08-25T01:16:41.813222"
+  "last_updated": "2026-08-25T12:36:59.496936"
 }
