@@ -12039,7 +12039,42 @@
       "transliteration": "Doo-ree-an ma-nees, a-ro-ma ra-ja.",
       "category": "Food",
       "generated_at": "2026-08-29T22:11:06.223220"
+    },
+    {
+      "english": "Tiny ant, climbs the twig.",
+      "indonesian": "Semut kecil, memanjat ranting.",
+      "transliteration": "Seh-moot ke-chil, meh-man-jat ran-ting.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T04:01:49.127127"
+    },
+    {
+      "english": "Smooth stone, in the creek bed.",
+      "indonesian": "Batu halus, di dasar sungai.",
+      "transliteration": "Bah-too ha-loos, di da-sar soo-ngai.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T04:01:49.127138"
+    },
+    {
+      "english": "Bright butterfly, flutters past.",
+      "indonesian": "Kupu-kupu cerah, terbang lewat.",
+      "transliteration": "Koo-poo-koo che-rah, ter-bang leh-wat.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T04:01:49.127140"
+    },
+    {
+      "english": "Distant thunder, rumbles softly.",
+      "indonesian": "Guntur jauh, bergemuruh pelan.",
+      "transliteration": "Goon-toor jah-oo, ber-ge-moo-roo peh-lan.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T04:01:49.127141"
+    },
+    {
+      "english": "Lone wolf, howls at moon.",
+      "indonesian": "Serigala tunggal, melolong ke bulan.",
+      "transliteration": "Seh-ree-gah-lah toong-gal, meh-lo-long keh boo-lan.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T04:01:49.127142"
     }
   ],
-  "last_updated": "2026-08-29T22:11:06.223222"
+  "last_updated": "2026-08-30T04:01:49.127144"
 }
