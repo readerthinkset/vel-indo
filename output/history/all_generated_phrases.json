@@ -12214,7 +12214,42 @@
       "transliteration": "Aku menghargai, ini, sangatlah.",
       "category": "Gratitude",
       "generated_at": "2026-08-30T22:18:07.078020"
+    },
+    {
+      "english": "Catch the rhythm, then speak.",
+      "indonesian": "Tangkap iramanya, lalu bicara.",
+      "transliteration": "tang-kap ee-ra-ma-nya, la-loo bee-cha-ra",
+      "category": "Directions",
+      "generated_at": "2026-08-31T04:06:58.512128"
+    },
+    {
+      "english": "Feel the melody, then sing.",
+      "indonesian": "Rasakan nadanya, lalu nyanyikan.",
+      "transliteration": "ra-sa-kan na-da-nya, la-loo nya-nyee-kan",
+      "category": "Directions",
+      "generated_at": "2026-08-31T04:06:58.512140"
+    },
+    {
+      "english": "Notice the tone, then echo.",
+      "indonesian": "Perhatikan nada, lalu tirukan.",
+      "transliteration": "per-ha-tee-kan na-da, la-loo tee-ru-kan",
+      "category": "Directions",
+      "generated_at": "2026-08-31T04:06:58.512142"
+    },
+    {
+      "english": "Let the sound flow, freely.",
+      "indonesian": "Biarkan suaranya mengalir, bebas.",
+      "transliteration": "bee-ar-kan soo-a-ra-nya meng-a-leer, be-bas",
+      "category": "Directions",
+      "generated_at": "2026-08-31T04:06:58.512143"
+    },
+    {
+      "english": "Embrace this utterance, gently.",
+      "indonesian": "Terima ucapan ini, dengan lembut.",
+      "transliteration": "te-ree-ma oo-cha-pan ee-nee, dengan lem-boot",
+      "category": "Directions",
+      "generated_at": "2026-08-31T04:06:58.512144"
     }
   ],
-  "last_updated": "2026-08-30T22:18:07.078022"
+  "last_updated": "2026-08-31T04:06:58.512146"
 }
