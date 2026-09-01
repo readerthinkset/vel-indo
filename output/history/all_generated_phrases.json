@@ -12494,7 +12494,42 @@
       "transliteration": "blus ee-nee, keh-rah-h bah-goos",
       "category": "Clothes",
       "generated_at": "2026-09-01T17:40:45.926793"
+    },
+    {
+      "english": "Cloud wisps, pale sky blue.",
+      "indonesian": "Gumpalan awan, biru langit pucat.",
+      "transliteration": "Gumpalan awan, biru langit pucat.",
+      "category": "Colors",
+      "generated_at": "2026-09-01T19:44:34.111596"
+    },
+    {
+      "english": "Fresh mint leaf, bright green.",
+      "indonesian": "Daun mint segar, hijau cerah.",
+      "transliteration": "Daun mint segar, hijau cerah.",
+      "category": "Colors",
+      "generated_at": "2026-09-01T19:44:34.111604"
+    },
+    {
+      "english": "Ripe mango flesh, sunny yellow.",
+      "indonesian": "Daging mangga matang, kuning ceria.",
+      "transliteration": "Daging mangga matang, kuning ceria.",
+      "category": "Colors",
+      "generated_at": "2026-09-01T19:44:34.111606"
+    },
+    {
+      "english": "Volcanic ash, soft grey.",
+      "indonesian": "Abu vulkanik, abu-abu lembut.",
+      "transliteration": "Abu vulkanik, abu-abu lembut.",
+      "category": "Colors",
+      "generated_at": "2026-09-01T19:44:34.111607"
+    },
+    {
+      "english": "Wild berries, deep crimson.",
+      "indonesian": "Buah beri liar, merah tua pekat.",
+      "transliteration": "Buah beri liar, merah tua pekat.",
+      "category": "Colors",
+      "generated_at": "2026-09-01T19:44:34.111609"
     }
   ],
-  "last_updated": "2026-09-01T17:40:45.926795"
+  "last_updated": "2026-09-01T19:44:34.111610"
 }
