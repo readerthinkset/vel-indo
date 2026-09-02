@@ -12564,7 +12564,42 @@
       "transliteration": "per-ja-la-nan te-rung-kap, su-ka-ci-ta mo-u-lai",
       "category": "Holidays",
       "generated_at": "2026-09-01T22:21:36.739413"
+    },
+    {
+      "english": "Morning whispers, new day begins.",
+      "indonesian": "Pagi berbisik, hari baru mulai.",
+      "transliteration": "Pagi ber-bisik, ha-ri ba-ru mu-lai.",
+      "category": "Time",
+      "generated_at": "2026-09-02T03:15:25.588384"
+    },
+    {
+      "english": "Sun climbs high, afternoon heat.",
+      "indonesian": "Matahari naik tinggi, panas siang.",
+      "transliteration": "Ma-ta-ha-ri nai-ik ting-gi, pa-nas siang.",
+      "category": "Time",
+      "generated_at": "2026-09-02T03:15:25.588393"
+    },
+    {
+      "english": "Evening glow, lights twinkle.",
+      "indonesian": "Senja bersinar, lampu berkelip.",
+      "transliteration": "Sen-ja ber-si-nar, lam-pu ber-ke-lip.",
+      "category": "Time",
+      "generated_at": "2026-09-02T03:15:25.588395"
+    },
+    {
+      "english": "Deep night comes, stars appear.",
+      "indonesian": "Malam larut tiba, bintang muncul.",
+      "transliteration": "Ma-lam la-rut ti-ba, bin-tang mun-cul.",
+      "category": "Time",
+      "generated_at": "2026-09-02T03:15:25.588396"
+    },
+    {
+      "english": "Just a moment, let's chat.",
+      "indonesian": "Sebentar saja, mari bicara.",
+      "transliteration": "Se-ben-tar sa-ja, ma-ri bi-cha-ra.",
+      "category": "Time",
+      "generated_at": "2026-09-02T03:15:25.588398"
     }
   ],
-  "last_updated": "2026-09-01T22:21:36.739415"
+  "last_updated": "2026-09-02T03:15:25.588400"
 }
