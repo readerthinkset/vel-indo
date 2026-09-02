@@ -12599,7 +12599,42 @@
       "transliteration": "Se-ben-tar sa-ja, ma-ri bi-cha-ra.",
       "category": "Time",
       "generated_at": "2026-09-02T03:15:25.588398"
+    },
+    {
+      "english": "Bright morning, ready to speak?",
+      "indonesian": "Pagi cerah, siap bicara?",
+      "transliteration": "Pa-gi che-rah, si-ap bi-cha-ra?",
+      "category": "Greetings",
+      "generated_at": "2026-09-02T15:53:05.084252"
+    },
+    {
+      "english": "New lesson, let's start.",
+      "indonesian": "Pelajaran baru, mari mulai.",
+      "transliteration": "Pel-a-ja-ran ba-ru, ma-ri mu-lai.",
+      "category": "Greetings",
+      "generated_at": "2026-09-02T15:53:05.084263"
+    },
+    {
+      "english": "Hello, fellow learner.",
+      "indonesian": "Halo, sesama pembelajar.",
+      "transliteration": "Ha-lo, se-sa-ma pem-be-la-jar.",
+      "category": "Greetings",
+      "generated_at": "2026-09-02T15:53:05.084264"
+    },
+    {
+      "english": "Ready for Indonesian words?",
+      "indonesian": "Siap untuk kata-kata Indonesia?",
+      "transliteration": "Si-ap un-tuk ka-ta-ka-ta In-do-ne-sia?",
+      "category": "Greetings",
+      "generated_at": "2026-09-02T15:53:05.084266"
+    },
+    {
+      "english": "What's new today?",
+      "indonesian": "Ada apa hari ini?",
+      "transliteration": "A-da a-pa ha-ri i-ni?",
+      "category": "Greetings",
+      "generated_at": "2026-09-02T15:53:05.084267"
     }
   ],
-  "last_updated": "2026-09-02T03:15:25.588400"
+  "last_updated": "2026-09-02T15:53:05.084269"
 }
