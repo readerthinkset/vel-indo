@@ -12914,7 +12914,42 @@
       "transliteration": "Ja-ring-an ber-de-ngung, ko-nek-si hi-dup.",
       "category": "Technology",
       "generated_at": "2026-09-04T15:37:45.349967"
+    },
+    {
+      "english": "Sudden pain, inside me. Help.",
+      "indonesian": "Sakit mendadak, di dalam. Tolong.",
+      "transliteration": "Sa-kit men-da-dak, di da-lam. To-long.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T22:00:13.575346"
+    },
+    {
+      "english": "I feel very sick, suddenly.",
+      "indonesian": "Badan saya, sakit sekali. Tiba-tiba.",
+      "transliteration": "Ba-dan sa-ya, sa-kit se-ka-li. Ti-ba-ti-ba.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T22:00:13.575353"
+    },
+    {
+      "english": "Something is stuck, in my throat.",
+      "indonesian": "Ada yang tersangkut, di tenggorokan.",
+      "transliteration": "A-da yang ter-sang-kut, di teng-go-rok-an.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T22:00:13.575355"
+    },
+    {
+      "english": "I've lost my breath, please.",
+      "indonesian": "Napas saya, hilang. Tolong.",
+      "transliteration": "Na-pas sa-ya, hi-lang. To-long.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T22:00:13.575356"
+    },
+    {
+      "english": "I need medical help, fast.",
+      "indonesian": "Perlu bantuan medis, segera.",
+      "transliteration": "Per-lu ban-tu-an me-dis, se-ge-ra.",
+      "category": "Emergency",
+      "generated_at": "2026-09-04T22:00:13.575357"
     }
   ],
-  "last_updated": "2026-09-04T15:37:45.349969"
+  "last_updated": "2026-09-04T22:00:13.575359"
 }
