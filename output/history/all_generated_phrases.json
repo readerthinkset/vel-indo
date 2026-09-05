@@ -13019,7 +13019,42 @@
       "transliteration": "Gu-nung ber-di-ri, ko-koh he-ning.",
       "category": "Nature",
       "generated_at": "2026-09-05T14:25:26.091237"
+    },
+    {
+      "english": "Hear this, then echo it.",
+      "indonesian": "Dengar ini, lalu ulangi.",
+      "transliteration": "Deh-ngahr ee-nee, lah-loo oo-lah-ngee.",
+      "category": "Directions",
+      "generated_at": "2026-09-05T16:36:14.077505"
+    },
+    {
+      "english": "Try this sound, carefully.",
+      "indonesian": "Coba bunyi ini, hati-hati.",
+      "transliteration": "Choh-bah boon-yee ee-nee, hah-tee-hah-tee.",
+      "category": "Directions",
+      "generated_at": "2026-09-05T16:36:14.077514"
+    },
+    {
+      "english": "Let's try this word, slowly.",
+      "indonesian": "Mari coba kata ini, pelan.",
+      "transliteration": "Mah-ree choh-bah kah-tah ee-nee, peh-lahn.",
+      "category": "Directions",
+      "generated_at": "2026-09-05T16:36:14.077516"
+    },
+    {
+      "english": "Repeat after me, softly.",
+      "indonesian": "Ulangi setelahku, pelan.",
+      "transliteration": "Oo-lah-ngee seh-teh-lah-koo, peh-lahn.",
+      "category": "Directions",
+      "generated_at": "2026-09-05T16:36:14.077517"
+    },
+    {
+      "english": "Listen to the syllable, then speak.",
+      "indonesian": "Dengarkan suku kata, lalu ucapkan.",
+      "transliteration": "Deh-ngahr-kahn soo-koo kah-tah, lah-loo oo-chap-kahn.",
+      "category": "Directions",
+      "generated_at": "2026-09-05T16:36:14.077518"
     }
   ],
-  "last_updated": "2026-09-05T14:25:26.091239"
+  "last_updated": "2026-09-05T16:36:14.077520"
 }
