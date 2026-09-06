@@ -13159,7 +13159,42 @@
       "transliteration": "Ah-wahn meh-lah-yahng, bah-gai kah-pahs.",
       "category": "Weather",
       "generated_at": "2026-09-06T03:18:58.556305"
+    },
+    {
+      "english": "This is, really pretty. What about, the price?",
+      "indonesian": "Ini, cantik sekali. Berapa harganya?",
+      "transliteration": "Ee-nee, chan-tik seh-kah-lee. Beh-rah-pah har-gah-nyah?",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T14:47:31.058877"
+    },
+    {
+      "english": "I like, this style. Is it, expensive?",
+      "indonesian": "Saya suka, model ini. Mahal ya?",
+      "transliteration": "Sah-yah soo-kah, moh-del ee-nee. Mah-hal yah?",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T14:47:31.058890"
+    },
+    {
+      "english": "Do you have, something, like this?",
+      "indonesian": "Ada yang, seperti ini?",
+      "transliteration": "Ah-dah yang, seh-per-tee ee-nee?",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T14:47:31.058892"
+    },
+    {
+      "english": "I need, a smaller one, please.",
+      "indonesian": "Perlu yang, lebih kecil.",
+      "transliteration": "Per-loo yang, leh-bee keh-chil.",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T14:47:31.058894"
+    },
+    {
+      "english": "This material, is good. How much?",
+      "indonesian": "Bahannya, bagus. Berapa?",
+      "transliteration": "Bah-ahn-yah, bah-goos. Beh-rah-pah?",
+      "category": "Shopping",
+      "generated_at": "2026-09-06T14:47:31.058895"
     }
   ],
-  "last_updated": "2026-09-06T03:18:58.556306"
+  "last_updated": "2026-09-06T14:47:31.058897"
 }
