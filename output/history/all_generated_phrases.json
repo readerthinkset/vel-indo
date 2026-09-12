@@ -14069,7 +14069,42 @@
       "transliteration": "Tanya arah, jelajahi lebih jauh.",
       "category": "Purpose",
       "generated_at": "2026-09-12T03:28:23.496926"
+    },
+    {
+      "english": "A quick monkey, swings through trees.",
+      "indonesian": "Monyet lincah, melompat di dahan.",
+      "transliteration": "MON-yet LIN-chah, me-LOM-pat di DA-han.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T14:51:55.182623"
+    },
+    {
+      "english": "The sly fox, watches from afar.",
+      "indonesian": "Rubah licik, mengintai dari jauh.",
+      "transliteration": "RU-bah LI-chik, me-NGIN-tai DA-ri JAUH.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T14:51:55.182636"
+    },
+    {
+      "english": "A tiny mouse, nibbles cheese.",
+      "indonesian": "Tikus kecil, menggerogoti keju.",
+      "transliteration": "TI-kus KE-chil, me-NGE-ro-GO-ti KE-ju.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T14:51:55.182638"
+    },
+    {
+      "english": "The striped zebra, grazes peacefully.",
+      "indonesian": "Zebra belang, merumput tenang.",
+      "transliteration": "ZE-bra be-LANG, me-RUM-put TE-nang.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T14:51:55.182639"
+    },
+    {
+      "english": "A graceful swan, glides on water.",
+      "indonesian": "Angsa anggun, meluncur di air.",
+      "transliteration": "ANG-sa ANG-gun, me-LUN-cur di AI-r.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T14:51:55.182640"
     }
   ],
-  "last_updated": "2026-09-12T03:28:23.496928"
+  "last_updated": "2026-09-12T14:51:55.182642"
 }
