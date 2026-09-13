@@ -14349,7 +14349,42 @@
       "transliteration": "Lee-mah, ba-lon war-na-war-ni, ter-bang ting-gi.",
       "category": "Numbers",
       "generated_at": "2026-09-13T19:10:43.821689"
+    },
+    {
+      "english": "Sunrise sky, soft orange glow.",
+      "indonesian": "Langit fajar, jingga lembut.",
+      "transliteration": "Lah-ngeet fah-jar, een-gah lem-boot.",
+      "category": "Colors",
+      "generated_at": "2026-09-13T22:00:40.859472"
+    },
+    {
+      "english": "Old oak bark, deep brown.",
+      "indonesian": "Kulit kayu ek tua, cokelat pekat.",
+      "transliteration": "Koo-leet kah-yoo ek too-ah, choh-klat peh-kat.",
+      "category": "Colors",
+      "generated_at": "2026-09-13T22:00:40.859481"
+    },
+    {
+      "english": "Arctic snow, pure white.",
+      "indonesian": "Salju kutub, putih murni.",
+      "transliteration": "Sal-joo koot-oob, poo-teeh moor-nee.",
+      "category": "Colors",
+      "generated_at": "2026-09-13T22:00:40.859482"
+    },
+    {
+      "english": "Newborn lamb, soft woolly white.",
+      "indonesian": "Anak domba baru, putih wol lembut.",
+      "transliteration": "Ah-nak doh-mba bah-roo, poo-teeh wool lem-boot.",
+      "category": "Colors",
+      "generated_at": "2026-09-13T22:00:40.859484"
+    },
+    {
+      "english": "Twilight mist, hazy grey.",
+      "indonesian": "Kabut senja, abu-abu samar.",
+      "transliteration": "Kah-boot sen-jah, ah-boo-ah-boo sah-mar.",
+      "category": "Colors",
+      "generated_at": "2026-09-13T22:00:40.859485"
     }
   ],
-  "last_updated": "2026-09-13T19:10:43.821692"
+  "last_updated": "2026-09-13T22:00:40.859486"
 }
