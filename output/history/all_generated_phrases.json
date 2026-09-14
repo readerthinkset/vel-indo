@@ -14454,7 +14454,42 @@
       "transliteration": "Ber-mai-in joo-joor, ber-mai-in ke-ras, ber-mai-in pin-tar.",
       "category": "Sports",
       "generated_at": "2026-09-14T17:28:15.658942"
+    },
+    {
+      "english": "Something's gone wrong, suddenly.",
+      "indonesian": "Ada yang salah, tiba-tiba.",
+      "transliteration": "Ada yang salah, tiba-tiba.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T19:05:26.032905"
+    },
+    {
+      "english": "I feel dizzy, very dizzy.",
+      "indonesian": "Kepalaku pusing, sekali pusing.",
+      "transliteration": "Kepalaku pusing, sekali pusing.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T19:05:26.032914"
+    },
+    {
+      "english": "I need a doctor, immediately.",
+      "indonesian": "Saya perlu dokter, segera.",
+      "transliteration": "Saya perlu dokter, segera.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T19:05:26.032916"
+    },
+    {
+      "english": "I'm having trouble, breathing.",
+      "indonesian": "Saya kesulitan, bernapas.",
+      "transliteration": "Saya kesulitan, bernapas.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T19:05:26.032917"
+    },
+    {
+      "english": "My body, it feels weak.",
+      "indonesian": "Badan saya, terasa lemas.",
+      "transliteration": "Badan saya, terasa lemas.",
+      "category": "Emergency",
+      "generated_at": "2026-09-14T19:05:26.032918"
     }
   ],
-  "last_updated": "2026-09-14T17:28:15.658944"
+  "last_updated": "2026-09-14T19:05:26.032920"
 }
