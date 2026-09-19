@@ -15329,7 +15329,42 @@
       "transliteration": "See-nar men-tah-ree, tem-boos deh-daow-nahn.",
       "category": "Weather",
       "generated_at": "2026-09-19T17:02:50.477129"
+    },
+    {
+      "english": "Quickly, need help, now.",
+      "indonesian": "Cepat, butuh bantuan, sekarang.",
+      "transliteration": "Cheh-pat, boo-tuh bahn-too-ahn, seh-kah-rahng.",
+      "category": "Emergency",
+      "generated_at": "2026-09-19T19:08:06.031691"
+    },
+    {
+      "english": "I'm in trouble, serious trouble.",
+      "indonesian": "Saya dalam masalah, masalah serius.",
+      "transliteration": "Sah-yah dah-lahm mah-sah-lahh, mah-sah-lahh seh-ree-oos.",
+      "category": "Emergency",
+      "generated_at": "2026-09-19T19:08:06.031700"
+    },
+    {
+      "english": "Is anyone nearby, please?",
+      "indonesian": "Ada orang di dekat sini, tolong?",
+      "transliteration": "Ah-dah oh-rahng dee deh-kaht see-nee, toh-long?",
+      "category": "Emergency",
+      "generated_at": "2026-09-19T19:08:06.031702"
+    },
+    {
+      "english": "I've been hurt, badly.",
+      "indonesian": "Saya terluka, parah.",
+      "transliteration": "Sah-yah ter-loo-kah, pah-rahh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-19T19:08:06.031703"
+    },
+    {
+      "english": "Need medical attention, fast.",
+      "indonesian": "Perlu perhatian medis, cepat.",
+      "transliteration": "Per-loo per-hah-tee-ahn meh-dees, cheh-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-09-19T19:08:06.031704"
     }
   ],
-  "last_updated": "2026-09-19T17:02:50.477131"
+  "last_updated": "2026-09-19T19:08:06.031706"
 }
