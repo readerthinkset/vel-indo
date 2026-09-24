@@ -16099,7 +16099,42 @@
       "transliteration": "Ko-pi se-gar, pa-gi te-nang.",
       "category": "Happiness",
       "generated_at": "2026-09-24T03:30:56.190487"
+    },
+    {
+      "english": "Soon, the rain will fall.",
+      "indonesian": "Segera, hujan akan turun.",
+      "transliteration": "Se-ge-ra, hu-jan a-kan tu-run.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:22:43.554977"
+    },
+    {
+      "english": "This instant, let's decide.",
+      "indonesian": "Detik ini, mari putuskan.",
+      "transliteration": "De-tik i-ni, ma-ri pu-tus-kan.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:22:43.554989"
+    },
+    {
+      "english": "Yesterday's memory, still clear.",
+      "indonesian": "Kenangan kemarin, masih jelas.",
+      "transliteration": "Ke-ne-ngan ke-ma-rin, ma-sih je-las.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:22:43.554992"
+    },
+    {
+      "english": "In a while, I'll be back.",
+      "indonesian": "Sebentar lagi, saya kembali.",
+      "transliteration": "Se-ben-tar la-gi, sa-ya kem-ba-li.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:22:43.554993"
+    },
+    {
+      "english": "Each second, a new chance.",
+      "indonesian": "Tiap detik, peluang baru.",
+      "transliteration": "Ti-ap de-tik, pe-lu-ang ba-ru.",
+      "category": "Time",
+      "generated_at": "2026-09-24T16:22:43.554995"
     }
   ],
-  "last_updated": "2026-09-24T03:30:56.190489"
+  "last_updated": "2026-09-24T16:22:43.554997"
 }
