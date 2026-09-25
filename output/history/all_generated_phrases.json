@@ -16309,7 +16309,42 @@
       "transliteration": "Se-di-kit de-mi se-di-kit, An-da tu-m-buh.",
       "category": "Confidence",
       "generated_at": "2026-09-25T16:21:55.570339"
+    },
+    {
+      "english": "My heart, it's racing. Fast.",
+      "indonesian": "Jantungku, berdebar kencang. Cepat.",
+      "transliteration": "Jantung-ku, ber-debar ken-chang. Che-pat.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:19:31.631176"
+    },
+    {
+      "english": "I need to stop, bleeding. Now.",
+      "indonesian": "Saya perlu hentikan, pendarahan. Sekarang.",
+      "transliteration": "Saya per-lu hen-ti-kan, pen-da-ra-han. Se-ka-rang.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:19:31.631185"
+    },
+    {
+      "english": "Can't feel, my legs. Help.",
+      "indonesian": "Tidak bisa rasa, kaki saya. Tolong.",
+      "transliteration": "Ti-dak bi-sa ra-sa, ka-ki sa-ya. To-long.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:19:31.631186"
+    },
+    {
+      "english": "Sudden numbness, everywhere. Please.",
+      "indonesian": "Mati rasa mendadak, seluruh tubuh. Tolong.",
+      "transliteration": "Ma-ti ra-sa men-da-dak, su-lu-ruh tu-buh. To-long.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:19:31.631188"
+    },
+    {
+      "english": "I might faint. Support me.",
+      "indonesian": "Saya mungkin pingsan. Bantu saya.",
+      "transliteration": "Sa-ya mung-kin ping-san. Ban-tu sa-ya.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:19:31.631189"
     }
   ],
-  "last_updated": "2026-09-25T16:21:55.570340"
+  "last_updated": "2026-09-25T18:19:31.631191"
 }
