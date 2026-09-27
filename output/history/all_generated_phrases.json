@@ -16624,7 +16624,42 @@
       "transliteration": "De-tak jan-tung, i-ra-ma man-tap.",
       "category": "Courage",
       "generated_at": "2026-09-27T16:14:57.593557"
+    },
+    {
+      "english": "Sky's clearing, finally.",
+      "indonesian": "Langit cerah, akhirnya.",
+      "transliteration": "Lah-ngit che-rah, ah-kheer-nya.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:05:53.495504"
+    },
+    {
+      "english": "Feels like a downpour.",
+      "indonesian": "Terasa seperti hujan deras.",
+      "transliteration": "Ter-rah-sah se-per-tee hoo-jan de-rahs.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:05:53.495514"
+    },
+    {
+      "english": "A bit chilly, now.",
+      "indonesian": "Agak dingin, sekarang.",
+      "transliteration": "Ah-gah ding-in, se-kah-rang.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:05:53.495516"
+    },
+    {
+      "english": "Humidity is high, today.",
+      "indonesian": "Kelembaban tinggi, hari ini.",
+      "transliteration": "Ke-lem-bah-ban ting-gee, ha-ree ee-nee.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:05:53.495517"
+    },
+    {
+      "english": "Ground's getting wet.",
+      "indonesian": "Tanah mulai basah.",
+      "transliteration": "Tah-nah moo-lai bah-sah.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T18:05:53.495518"
     }
   ],
-  "last_updated": "2026-09-27T16:14:57.593558"
+  "last_updated": "2026-09-27T18:05:53.495520"
 }
