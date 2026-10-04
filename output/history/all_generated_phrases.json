@@ -17744,7 +17744,42 @@
       "transliteration": "Keh-sa-ba-ran-mu, pe-noo-toon yang lem-booot.",
       "category": "Relationships",
       "generated_at": "2026-10-03T22:36:14.026010"
+    },
+    {
+      "english": "Hello, eager minds, let's go!",
+      "indonesian": "Halo, pikiran yang haus, ayo!",
+      "transliteration": "Halo, pikiran yang haus, ayo!",
+      "category": "Greetings",
+      "generated_at": "2026-10-04T04:40:35.940366"
+    },
+    {
+      "english": "New sounds, today, yes?",
+      "indonesian": "Suara baru, hari ini, ya?",
+      "transliteration": "Suara baru, hari ini, ya?",
+      "category": "Greetings",
+      "generated_at": "2026-10-04T04:40:35.940380"
+    },
+    {
+      "english": "Let's unlock, Indonesian stories.",
+      "indonesian": "Mari buka, cerita Indonesia.",
+      "transliteration": "Mari buka, cerita Indonesia.",
+      "category": "Greetings",
+      "generated_at": "2026-10-04T04:40:35.940381"
+    },
+    {
+      "english": "Your voice, Indonesia waits.",
+      "indonesian": "Suaramu, Indonesia menunggu.",
+      "transliteration": "Suaramu, Indonesia menunggu.",
+      "category": "Greetings",
+      "generated_at": "2026-10-04T04:40:35.940382"
+    },
+    {
+      "english": "Time for words, Indonesian style.",
+      "indonesian": "Waktunya kata, gaya Indonesia.",
+      "transliteration": "Waktunya kata, gaya Indonesia.",
+      "category": "Greetings",
+      "generated_at": "2026-10-04T04:40:35.940383"
     }
   ],
-  "last_updated": "2026-10-03T22:36:14.026013"
+  "last_updated": "2026-10-04T04:40:35.940384"
 }
