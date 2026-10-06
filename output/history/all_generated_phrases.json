@@ -18199,7 +18199,42 @@
       "transliteration": "De-ru la-ut, me-ning-gi.",
       "category": "Music",
       "generated_at": "2026-10-06T21:25:56.171512"
+    },
+    {
+      "english": "Someone's following me. Quickly.",
+      "indonesian": "Ada yang mengikuti. Cepat.",
+      "transliteration": "Ada yang mengikuti. Chépat.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:30:32.535624"
+    },
+    {
+      "english": "I think, I'm being watched.",
+      "indonesian": "Saya merasa, diawasi.",
+      "transliteration": "Saya merasa, diawasi.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:30:32.535632"
+    },
+    {
+      "english": "My phone battery, is dead. No signal.",
+      "indonesian": "Baterai ponsel saya, habis. Tidak ada sinyal.",
+      "transliteration": "Baterai ponsel saya, habis. Tidak ada sinyal.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:30:32.535633"
+    },
+    {
+      "english": "This area, feels unsafe. I need to go.",
+      "indonesian": "Daerah ini, terasa tidak aman. Saya harus pergi.",
+      "transliteration": "Daerah ini, terasa tidak aman. Saya harus pergi.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:30:32.535635"
+    },
+    {
+      "english": "I need to find, a police station. Now.",
+      "indonesian": "Saya perlu cari, kantor polisi. Sekarang.",
+      "transliteration": "Saya perlu cari, kantor polisi. Sekarang.",
+      "category": "Emergency",
+      "generated_at": "2026-10-06T23:30:32.535636"
     }
   ],
-  "last_updated": "2026-10-06T21:25:56.171514"
+  "last_updated": "2026-10-06T23:30:32.535638"
 }
