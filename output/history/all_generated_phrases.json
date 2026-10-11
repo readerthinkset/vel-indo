@@ -19039,7 +19039,42 @@
       "transliteration": "Saya perlu, sesuatu yang praktis. Hmm?",
       "category": "Shopping",
       "generated_at": "2026-10-11T20:44:52.669703"
+    },
+    {
+      "english": "Listen keenly, then speak.",
+      "indonesian": "Dengarkan baik-baik, lalu bicara.",
+      "transliteration": "Deng-ar-kan baik baiik, la-lu bi-cha-ra.",
+      "category": "Confidence",
+      "generated_at": "2026-10-11T23:21:53.438067"
+    },
+    {
+      "english": "Try a sentence, today.",
+      "indonesian": "Coba satu kalimat, hari ini.",
+      "transliteration": "Cho-ba sa-tu ka-li-mat, ha-ri i-ni.",
+      "category": "Confidence",
+      "generated_at": "2026-10-11T23:21:53.438078"
+    },
+    {
+      "english": "Your effort, is seen.",
+      "indonesian": "Usahamu, terlihat.",
+      "transliteration": "U-sa-ha-mu, ter-li-hat.",
+      "category": "Confidence",
+      "generated_at": "2026-10-11T23:21:53.438079"
+    },
+    {
+      "english": "One word, then another.",
+      "indonesian": "Satu kata, lalu yang lain.",
+      "transliteration": "Sa-tu ka-ta, la-lu yang laiin.",
+      "category": "Confidence",
+      "generated_at": "2026-10-11T23:21:53.438081"
+    },
+    {
+      "english": "Breathe, and say it.",
+      "indonesian": "Tarik napas, dan ucapkan.",
+      "transliteration": "Ta-rik na-pas, dan u-chap-kan.",
+      "category": "Confidence",
+      "generated_at": "2026-10-11T23:21:53.438082"
     }
   ],
-  "last_updated": "2026-10-11T20:44:52.669704"
+  "last_updated": "2026-10-11T23:21:53.438087"
 }
