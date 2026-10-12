@@ -19144,7 +19144,42 @@
       "transliteration": "Me-kar di tem-pat-mu, de-ngan in-dah.",
       "category": "Happiness",
       "generated_at": "2026-10-12T20:47:19.047822"
+    },
+    {
+      "english": "My arm feels numb, suddenly.",
+      "indonesian": "Lengan saya, mati rasa tiba-tiba.",
+      "transliteration": "LAHN-ahn SAH-yah, MAH-tee RAH-sah tih-BAH-tih-BAH.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T23:25:49.278213"
+    },
+    {
+      "english": "I think, I broke something.",
+      "indonesian": "Sepertinya, saya patah sesuatu.",
+      "transliteration": "Seh-PUR-tee-nya, SAH-yah PAH-tah seh-soo-AH-too.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T23:25:49.278221"
+    },
+    {
+      "english": "Can't see clearly, anymore.",
+      "indonesian": "Tidak bisa lihat jelas, lagi.",
+      "transliteration": "Tih-DAHK BIH-sah LIH-haht JEL-ahs, LAH-gee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T23:25:49.278223"
+    },
+    {
+      "english": "I'm feeling weak, all over.",
+      "indonesian": "Saya lemas, seluruh badan.",
+      "transliteration": "SAH-yah LEH-mahs, SEH-loo-roo BAH-dahn.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T23:25:49.278225"
+    },
+    {
+      "english": "Something's wrong, with my head.",
+      "indonesian": "Ada yang salah, di kepala saya.",
+      "transliteration": "AH-dah YAHNG SAH-lah, dih keh-PAH-lah SAH-yah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T23:25:49.278226"
     }
   ],
-  "last_updated": "2026-10-12T20:47:19.047824"
+  "last_updated": "2026-10-12T23:25:49.278228"
 }

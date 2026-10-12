@@ -1,6 +1,5 @@
 {
   "recent_categories": [
-    "Food",
     "Technology",
     "Education",
     "Restaurant",
@@ -24,7 +23,8 @@
     "Confidence",
     "Love",
     "Happiness",
-    "Work"
+    "Work",
+    "Emergency"
   ],
-  "last_updated": "2026-10-12T22:01:15.871210"
+  "last_updated": "2026-10-12T23:25:40.797776"
 }
