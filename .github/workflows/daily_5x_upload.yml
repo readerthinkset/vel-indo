@@ -2,11 +2,11 @@ name: VELOCITY INDONESIAN - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '22 12 * * *'
+    - cron: '22 14 * * *'
+    - cron: '22 17 * * *'
+    - cron: '22 20 * * *'
+    - cron: '22 0 * * *'
 
   workflow_dispatch:
 
