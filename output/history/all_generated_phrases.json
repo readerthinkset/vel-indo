@@ -20929,7 +20929,42 @@
       "transliteration": "Teh-moo-kan ee-rah-mah-moo, dah-lam kah-tah bah-roo.",
       "category": "Motivation",
       "generated_at": "2026-10-23T01:23:56.401896"
+    },
+    {
+      "english": "Listen to this, Indonesian.",
+      "indonesian": "Dengarkan ini, Bahasa Indonesia.",
+      "transliteration": "Dang-gar-kan ee-nee, Ba-ha-sa In-do-ne-sia.",
+      "category": "Directions",
+      "generated_at": "2026-10-23T04:59:05.745251"
+    },
+    {
+      "english": "Try saying, this word.",
+      "indonesian": "Coba ucapkan, kata ini.",
+      "transliteration": "Cho-ba oo-chap-kan, ka-ta ee-nee.",
+      "category": "Directions",
+      "generated_at": "2026-10-23T04:59:05.745261"
+    },
+    {
+      "english": "Feel the sound, then repeat.",
+      "indonesian": "Rasakan bunyinya, lalu ulang.",
+      "transliteration": "Ras-sa-kan boo-nyee-nya, la-loo oo-lang.",
+      "category": "Directions",
+      "generated_at": "2026-10-23T04:59:05.745263"
+    },
+    {
+      "english": "Let's explore, Indonesian.",
+      "indonesian": "Mari jelajahi, Bahasa Indonesia.",
+      "transliteration": "Ma-ree je-la-ja-hee, Ba-ha-sa In-do-ne-sia.",
+      "category": "Directions",
+      "generated_at": "2026-10-23T04:59:05.745264"
+    },
+    {
+      "english": "Now, pronounce, this.",
+      "indonesian": "Sekarang, lafalkan, ini.",
+      "transliteration": "Se-ka-rang, laf-fal-kan, ee-nee.",
+      "category": "Directions",
+      "generated_at": "2026-10-23T04:59:05.745266"
     }
   ],
-  "last_updated": "2026-10-23T01:23:56.401897"
+  "last_updated": "2026-10-23T04:59:05.745267"
 }
