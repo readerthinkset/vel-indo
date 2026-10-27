@@ -21559,7 +21559,42 @@
       "transliteration": "Ma-kan-an pe-das, sam-but hang-at.",
       "category": "Holidays",
       "generated_at": "2026-10-27T01:42:55.207816"
+    },
+    {
+      "english": "My chest, feels tight. Help.",
+      "indonesian": "Dada saya, terasa sesak. Tolong.",
+      "transliteration": "Dah-dah sah-ya, teh-rah-sah seh-sahk. Toh-long.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T05:13:12.016205"
+    },
+    {
+      "english": "I need, an ambulance. Quickly.",
+      "indonesian": "Saya perlu, ambulans. Cepat.",
+      "transliteration": "Sah-ya per-loo, ahm-boo-lahns. Cheh-paht.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T05:13:12.016217"
+    },
+    {
+      "english": "Something's burning. Here. Fire!",
+      "indonesian": "Ada yang terbakar. Di sini. Api!",
+      "transliteration": "Ah-dah yang ter-bah-kar. Dee see-nee. Ah-pee!",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T05:13:12.016219"
+    },
+    {
+      "english": "I'm losing, my vision. Fast.",
+      "indonesian": "Penglihatan saya, hilang. Cepat.",
+      "transliteration": "Peng-lee-hah-tan sah-ya, hee-lahng. Cheh-paht.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T05:13:12.016221"
+    },
+    {
+      "english": "A serious injury. Need help.",
+      "indonesian": "Luka serius. Butuh bantuan.",
+      "transliteration": "Loo-kah seh-ree-oos. Boo-tooh bahn-too-ahn.",
+      "category": "Emergency",
+      "generated_at": "2026-10-27T05:13:12.016222"
     }
   ],
-  "last_updated": "2026-10-27T01:42:55.207818"
+  "last_updated": "2026-10-27T05:13:12.016224"
 }
