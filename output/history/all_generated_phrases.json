@@ -22259,7 +22259,42 @@
       "transliteration": "Da-nau he-ning, cer-min la-ngit.",
       "category": "Nature",
       "generated_at": "2026-10-31T05:51:52.919138"
+    },
+    {
+      "english": "Sunrise paints, the world wakes.",
+      "indonesian": "Mentari terbit, dunia terjaga.",
+      "transliteration": "Men-ta-ri ter-bit, du-ni-a ter-ja-ga.",
+      "category": "Time",
+      "generated_at": "2026-10-31T17:16:47.907668"
+    },
+    {
+      "english": "Shadows stretch, day is done.",
+      "indonesian": "Bayangan memanjang, hari usai.",
+      "transliteration": "Ba-yang-an me-man-jang, ha-ri u-sai.",
+      "category": "Time",
+      "generated_at": "2026-10-31T17:16:47.907679"
+    },
+    {
+      "english": "Tick-tock, moments pass.",
+      "indonesian": "Detik berdetak, waktu berlalu.",
+      "transliteration": "De-tik ber-de-tak, wak-tu ber-la-lu.",
+      "category": "Time",
+      "generated_at": "2026-10-31T17:16:47.907681"
+    },
+    {
+      "english": "Moon rises, night descends.",
+      "indonesian": "Bulan naik, malam turun.",
+      "transliteration": "Bu-lan naik, ma-lam tu-run.",
+      "category": "Time",
+      "generated_at": "2026-10-31T17:16:47.907682"
+    },
+    {
+      "english": "Quickly now, no delay.",
+      "indonesian": "Cepat sekarang, tanpa tunda.",
+      "transliteration": "Ce-pat se-ka-rang, tan-pa tun-da.",
+      "category": "Time",
+      "generated_at": "2026-10-31T17:16:47.907683"
     }
   ],
-  "last_updated": "2026-10-31T05:51:52.919140"
+  "last_updated": "2026-10-31T17:16:47.907685"
 }
