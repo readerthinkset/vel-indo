@@ -22469,7 +22469,42 @@
       "transliteration": "Ci-ci-pi ke-se-ha-ri-an, lan-car.",
       "category": "Purpose",
       "generated_at": "2026-11-01T19:06:19.938724"
+    },
+    {
+      "english": "Bright sun, high up.",
+      "indonesian": "Matahari terang, tinggi.",
+      "transliteration": "Ma-ta-ha-ri te-rang, ting-gi.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T21:16:23.605315"
+    },
+    {
+      "english": "Wind whispers, through trees.",
+      "indonesian": "Angin berbisik, di pohon.",
+      "transliteration": "Ang-in ber-bi-sik, di po-hon.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T21:16:23.605325"
+    },
+    {
+      "english": "Rain falling, soft rhythm.",
+      "indonesian": "Hujan turun, irama pelan.",
+      "transliteration": "Hu-jan tu-run, i-ra-ma pe-lan.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T21:16:23.605326"
+    },
+    {
+      "english": "Clouds gather, look heavy.",
+      "indonesian": "Awan berkumpul, tampak berat.",
+      "transliteration": "A-wan ber-kum-pul, tam-pak be-rat.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T21:16:23.605327"
+    },
+    {
+      "english": "Sky turns, pale blue.",
+      "indonesian": "Langit jadi, biru pucat.",
+      "transliteration": "La-ngit ja-di, bi-ru pu-cat.",
+      "category": "Weather",
+      "generated_at": "2026-11-01T21:16:23.605328"
     }
   ],
-  "last_updated": "2026-11-01T19:06:19.938726"
+  "last_updated": "2026-11-01T21:16:23.605330"
 }
