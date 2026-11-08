@@ -23554,7 +23554,42 @@
       "transliteration": "Regangkan leher, turunkan bahu, tarik napas lega.",
       "category": "Health",
       "generated_at": "2026-11-07T23:39:52.074520"
+    },
+    {
+      "english": "Hi, how are you, today?",
+      "indonesian": "Hai, apa kabar, hari ini?",
+      "transliteration": "Hai, apa kabar, hari ini?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-08T06:10:52.669292"
+    },
+    {
+      "english": "Excuse me, where is this street?",
+      "indonesian": "Permisi, ini jalan ke mana?",
+      "transliteration": "Permisi, ini jalan ke mana?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-08T06:10:52.669305"
+    },
+    {
+      "english": "Sorry, I don't understand, yet.",
+      "indonesian": "Maaf, saya belum paham, ya.",
+      "transliteration": "Maaf, saya belum paham, ya.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-08T06:10:52.669307"
+    },
+    {
+      "english": "Please, write it down for me.",
+      "indonesian": "Tolong, tuliskan itu untuk saya.",
+      "transliteration": "Tolong, tuliskan itu untuk saya.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-08T06:10:52.669309"
+    },
+    {
+      "english": "Could you help me, quickly?",
+      "indonesian": "Bisa bantu saya, cepat ya?",
+      "transliteration": "Bisa bantu saya, cepat ya?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-08T06:10:52.669310"
     }
   ],
-  "last_updated": "2026-11-07T23:39:52.074521"
+  "last_updated": "2026-11-08T06:10:52.669311"
 }
