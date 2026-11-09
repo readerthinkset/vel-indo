@@ -23764,7 +23764,42 @@
       "transliteration": "Tekuk sedikit, tetap waspada, keseimbangan datang",
       "category": "Balance",
       "generated_at": "2026-11-09T06:45:20.999506"
+    },
+    {
+      "english": "Stop, traffic, I need help!",
+      "indonesian": "Berhenti, tolong, aku butuh bantuan!",
+      "transliteration": "Berhenti, tolong, aku butuh bantuan!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T22:26:41.544504"
+    },
+    {
+      "english": "Please call 112, something is happening!",
+      "indonesian": "Tolong telepon 112, ada kejadian!",
+      "transliteration": "Tolong telepon 112, ada kejadian!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T22:26:41.544516"
+    },
+    {
+      "english": "Fire alarm, please evacuate right now!",
+      "indonesian": "Alarm kebakaran, segera evakuasi sekarang!",
+      "transliteration": "Alarm kebakaran, segera evakuasi sekarang!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T22:26:41.544517"
+    },
+    {
+      "english": "I smell gas, step back, now!",
+      "indonesian": "Aku mencium gas, mundur dulu, sekarang!",
+      "transliteration": "Aku mencium gas, mundur dulu, sekarang!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T22:26:41.544518"
+    },
+    {
+      "english": "My tongue is swelling, please help!",
+      "indonesian": "Lidahku membengkak, tolong aku!",
+      "transliteration": "Lidahku membengkak, tolong aku!",
+      "category": "Emergency",
+      "generated_at": "2026-11-09T22:26:41.544519"
     }
   ],
-  "last_updated": "2026-11-09T06:45:20.999508"
+  "last_updated": "2026-11-09T22:26:41.544520"
 }
