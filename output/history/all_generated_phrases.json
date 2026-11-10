@@ -24009,7 +24009,42 @@
       "transliteration": "Pe-san den-gan te-nang, da-pat-kan ma-ka-nan yang te-pat.",
       "category": "Purpose",
       "generated_at": "2026-11-10T19:02:56.917612"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "indonesian": "Selamat pagi, apa kabar?",
+      "transliteration": "selamat pagi, apa kabar",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T20:49:13.840962"
+    },
+    {
+      "english": "I’m sorry, I didn’t understand you.",
+      "indonesian": "Maaf, saya tidak mengerti.",
+      "transliteration": "maaf, saya tidak mengerti",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T20:49:13.840974"
+    },
+    {
+      "english": "Please, help me with this.",
+      "indonesian": "Tolong bantu saya untuk ini.",
+      "transliteration": "tolong bantu saya untuk ini",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T20:49:13.840975"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "indonesian": "Di mana ATM terdekat?",
+      "transliteration": "di mana ATM terdekat",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T20:49:13.840976"
+    },
+    {
+      "english": "I would like a glass of water.",
+      "indonesian": "Saya mau segelas air putih.",
+      "transliteration": "saya mau segelas air putih",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T20:49:13.840978"
     }
   ],
-  "last_updated": "2026-11-10T19:02:56.917613"
+  "last_updated": "2026-11-10T20:49:13.840979"
 }
