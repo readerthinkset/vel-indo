@@ -24289,7 +24289,42 @@
       "transliteration": "Fokus pada vokal, bukan konsonan",
       "category": "Directions",
       "generated_at": "2026-11-12T01:52:21.450098"
+    },
+    {
+      "english": "You’ve got this, start with one word.",
+      "indonesian": "Kamu bisa, mulai dengan satu kata.",
+      "transliteration": "kuh-MOO bih-sah, muh-LIE-deng-an SYAH-too KAH-tah",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T04:52:26.241474"
+    },
+    {
+      "english": "Slow down, then speak without fear.",
+      "indonesian": "Pelankan, lalu bicara tanpa takut.",
+      "transliteration": "puh-LAH-kun, la-luu bih-CAR-a tan-pah TAH-koot",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T04:52:26.241489"
+    },
+    {
+      "english": "I trust you, keep talking today.",
+      "indonesian": "Aku percaya, terus bicara hari ini.",
+      "transliteration": "a-koo purr-CAY-rah, trus bih-CAR-a HA-ri EE-nee",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T04:52:26.241491"
+    },
+    {
+      "english": "Say it once, then say it again.",
+      "indonesian": "Ucapkan sekali, lalu ucapkan lagi.",
+      "transliteration": "oo-CAP-kan SE-kah-lee, la-luu oo-CAP-kan lah-gee",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T04:52:26.241492"
+    },
+    {
+      "english": "Nod your head, you’re understanding.",
+      "indonesian": "Angguk, kamu sedang paham.",
+      "transliteration": "an-GOOK, kuh-MOO suh-dang pah-ham",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T04:52:26.241493"
     }
   ],
-  "last_updated": "2026-11-12T01:52:21.450100"
+  "last_updated": "2026-11-12T04:52:26.241494"
 }
