@@ -24324,7 +24324,42 @@
       "transliteration": "an-GOOK, kuh-MOO suh-dang pah-ham",
       "category": "Confidence",
       "generated_at": "2026-11-12T04:52:26.241493"
+    },
+    {
+      "english": "Hi, do you have a reservation?",
+      "indonesian": "Halo, apakah ada reservasi?",
+      "transliteration": "Hah-loh, apa-kah a-da re-ser-va-si?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-12T19:18:18.098440"
+    },
+    {
+      "english": "How long is the wait, please?",
+      "indonesian": "Biasanya menunggu berapa lama, ya?",
+      "transliteration": "Bi-a-sa-nya me-nung-gu ber-a-pa la-ma, ya?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-12T19:18:18.098453"
+    },
+    {
+      "english": "Could we get a window seat?",
+      "indonesian": "Bisa dapat kursi dekat jendela?",
+      "transliteration": "Bi-sa da-pat kur-si de-kat jen-de-la?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-12T19:18:18.098455"
+    },
+    {
+      "english": "We’d like to order now.",
+      "indonesian": "Kami ingin pesan sekarang.",
+      "transliteration": "Ka-mi i-ngin pe-san se-ka-rang.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-12T19:18:18.098457"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "indonesian": "Apakah menerima kartu kredit?",
+      "transliteration": "A-pa-kah me-nye-ra-mi kar-tu kre-dit?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-12T19:18:18.098458"
     }
   ],
-  "last_updated": "2026-11-12T04:52:26.241494"
+  "last_updated": "2026-11-12T19:18:18.098461"
 }
