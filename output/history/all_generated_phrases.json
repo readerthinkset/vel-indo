@@ -24569,7 +24569,42 @@
       "transliteration": "luang-kan wak-tu, la-ti-han mem-baik pe-lan-pe-lan",
       "category": "Patience",
       "generated_at": "2026-11-13T20:46:52.286788"
+    },
+    {
+      "english": "What time is it right now?",
+      "indonesian": "Jam berapa sekarang?",
+      "transliteration": "Jam berapa sekarang?",
+      "category": "Time",
+      "generated_at": "2026-11-13T22:19:48.668590"
+    },
+    {
+      "english": "Wait here, I'll check the time.",
+      "indonesian": "Tunggu di sini, aku cek jamnya.",
+      "transliteration": "Tunggu di sini, aku cek jamnya.",
+      "category": "Time",
+      "generated_at": "2026-11-13T22:19:48.668601"
+    },
+    {
+      "english": "Time for lunch, let's eat together.",
+      "indonesian": "Sudah waktunya makan siang, ayo makan.",
+      "transliteration": "Sudah waktunya makan siang, ayo makan.",
+      "category": "Time",
+      "generated_at": "2026-11-13T22:19:48.668603"
+    },
+    {
+      "english": "It's getting late, we should go.",
+      "indonesian": "Sudah mulai larut, kita pergi yuk.",
+      "transliteration": "Sudah mulai larut, kita pergi yuk.",
+      "category": "Time",
+      "generated_at": "2026-11-13T22:19:48.668605"
+    },
+    {
+      "english": "We still have some time, relax.",
+      "indonesian": "Kita masih punya waktu, santai ya.",
+      "transliteration": "Kita masih punya waktu, santai ya.",
+      "category": "Time",
+      "generated_at": "2026-11-13T22:19:48.668606"
     }
   ],
-  "last_updated": "2026-11-13T20:46:52.286790"
+  "last_updated": "2026-11-13T22:19:48.668608"
 }
