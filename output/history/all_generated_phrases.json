@@ -24429,7 +24429,42 @@
       "transliteration": "Se-la-mat da-tang kem-bli, yuk la-njut la-ti-han.",
       "category": "Greetings",
       "generated_at": "2026-11-12T22:31:21.546801"
+    },
+    {
+      "english": "My shoulder feels sore today.",
+      "indonesian": "Bahuku terasa sakit hari ini.",
+      "transliteration": "Bahu-ku terasa sakit hari ini.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-13T00:57:10.029987"
+    },
+    {
+      "english": "Her elbow bends so easily.",
+      "indonesian": "Sikunya mudah ditekuk.",
+      "transliteration": "Siku-nya mudah ditekuk.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-13T00:57:10.030001"
+    },
+    {
+      "english": "His back aches after work.",
+      "indonesian": "Punggungnya pegal setelah bekerja.",
+      "transliteration": "Pung-gung-nya pe-gal se-telah be-ker-ja.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-13T00:57:10.030002"
+    },
+    {
+      "english": "Your knee hurts when you run.",
+      "indonesian": "Lututmu sakit saat kamu lari.",
+      "transliteration": "Lu-tut-mu sa-kit saat ka-mu la-ri.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-13T00:57:10.030003"
+    },
+    {
+      "english": "My foot is cold right now.",
+      "indonesian": "Kakiku dingin sekarang.",
+      "transliteration": "Kaki-ku ding-in sekarang.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-13T00:57:10.030003"
     }
   ],
-  "last_updated": "2026-11-12T22:31:21.546803"
+  "last_updated": "2026-11-13T00:57:10.030005"
 }
