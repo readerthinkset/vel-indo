@@ -24849,7 +24849,42 @@
       "transliteration": "Tas saya dicuri, tolong!",
       "category": "Emergency",
       "generated_at": "2026-11-15T03:46:31.311618"
+    },
+    {
+      "english": "Drink water, not sugary drinks today.",
+      "indonesian": "Minum air, jangan minuman manis hari ini.",
+      "transliteration": "MIN-um AIr, JAN-gan MI-nu-man MAN-is ha-ri i-ni",
+      "category": "Health",
+      "generated_at": "2026-11-15T18:10:48.650675"
+    },
+    {
+      "english": "Wash your hands, before eating anything.",
+      "indonesian": "Cuci tangan, sebelum makan apa pun.",
+      "transliteration": "CU- ci TAN-gan, se-BE-lum MA-kan a-pa pun",
+      "category": "Health",
+      "generated_at": "2026-11-15T18:10:48.650686"
+    },
+    {
+      "english": "Eat slowly, let your stomach catch up.",
+      "indonesian": "Makan pelan, biar perut mengikuti.",
+      "transliteration": "MA-kan pe-LAN, bi-ar pe-RUT me-nga-IKU-ti",
+      "category": "Health",
+      "generated_at": "2026-11-15T18:10:48.650688"
+    },
+    {
+      "english": "Take deep breaths, then relax your face.",
+      "indonesian": "Tarik napas dalam, lalu rilekskan wajahmu.",
+      "transliteration": "TA-rik NA-pas DA-lam, la-lu ri-LEKS-kan WA-jah-mu",
+      "category": "Health",
+      "generated_at": "2026-11-15T18:10:48.650689"
+    },
+    {
+      "english": "Sit up straight, breathe in comfortably.",
+      "indonesian": "Duduk tegak, tarik napas dengan nyaman.",
+      "transliteration": "DU-duk te-GAK, ta-RIK NA-pas DEN-gan nya-MAN",
+      "category": "Health",
+      "generated_at": "2026-11-15T18:10:48.650691"
     }
   ],
-  "last_updated": "2026-11-15T03:46:31.311620"
+  "last_updated": "2026-11-15T18:10:48.650693"
 }
