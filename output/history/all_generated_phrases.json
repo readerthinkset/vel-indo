@@ -24814,7 +24814,42 @@
       "transliteration": "Hari ini, aku memilih bahagia dengan sadar.",
       "category": "Joy",
       "generated_at": "2026-11-14T23:43:56.756150"
+    },
+    {
+      "english": "Help me, I can't breathe.",
+      "indonesian": "Tolong saya, saya tidak bisa bernapas.",
+      "transliteration": "Tolong saya, saya tidak bisa bernafas.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:46:31.311602"
+    },
+    {
+      "english": "I need water, I feel dizzy.",
+      "indonesian": "Saya butuh air, saya pusing sekali.",
+      "transliteration": "Saya butuh air, saya pusing sekali.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:46:31.311613"
+    },
+    {
+      "english": "Call an ambulance, please, right away.",
+      "indonesian": "Tolong hubungi ambulans, segera.",
+      "transliteration": "Tolong hubungi ambulans, segera.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:46:31.311615"
+    },
+    {
+      "english": "My stomach hurts badly, please help.",
+      "indonesian": "Perut saya sakit sekali, tolong.",
+      "transliteration": "Perut saya sakit sekali, tolong.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:46:31.311617"
+    },
+    {
+      "english": "Someone stole my bag, help!",
+      "indonesian": "Tas saya dicuri, tolong!",
+      "transliteration": "Tas saya dicuri, tolong!",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:46:31.311618"
     }
   ],
-  "last_updated": "2026-11-14T23:43:56.756154"
+  "last_updated": "2026-11-15T03:46:31.311620"
 }
