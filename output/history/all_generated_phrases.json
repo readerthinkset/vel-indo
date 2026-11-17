@@ -25234,7 +25234,42 @@
       "transliteration": "Saya belajar bahasa Indonesia, mohon sabar.",
       "category": "Purpose",
       "generated_at": "2026-11-17T20:13:29.913784"
+    },
+    {
+      "english": "Track your expenses, every week, quickly.",
+      "indonesian": "Catat pengeluaranmu, tiap minggu, cepat.",
+      "transliteration": "catat pengeluaran-mu tiap minggu cepat",
+      "category": "Finance",
+      "generated_at": "2026-11-17T22:04:45.405113"
+    },
+    {
+      "english": "Save first, then spend what remains.",
+      "indonesian": "Simpan dulu, lalu belanjakan sisanya.",
+      "transliteration": "simpan dulu lalu belanjakan sisanya",
+      "category": "Finance",
+      "generated_at": "2026-11-17T22:04:45.405149"
+    },
+    {
+      "english": "Let your bills be paid on time.",
+      "indonesian": "Bayar tagihanmu tepat waktu, ya.",
+      "transliteration": "bayar tagihan-mu tepat waktu ya",
+      "category": "Finance",
+      "generated_at": "2026-11-17T22:04:45.405151"
+    },
+    {
+      "english": "Check your bank balance, before shopping.",
+      "indonesian": "Cek saldo bankmu, sebelum belanja.",
+      "transliteration": "cek saldo bank-mu sebelum belanja",
+      "category": "Finance",
+      "generated_at": "2026-11-17T22:04:45.405153"
+    },
+    {
+      "english": "Reduce debt gradually, keep going steadily.",
+      "indonesian": "Turunkan utangmu perlahan, teruskan saja.",
+      "transliteration": "turunkan utang-mu pelan-pelan teruskan saja",
+      "category": "Finance",
+      "generated_at": "2026-11-17T22:04:45.405154"
     }
   ],
-  "last_updated": "2026-11-17T20:13:29.913786"
+  "last_updated": "2026-11-17T22:04:45.405155"
 }
