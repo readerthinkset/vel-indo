@@ -25269,7 +25269,42 @@
       "transliteration": "turunkan utang-mu pelan-pelan teruskan saja",
       "category": "Finance",
       "generated_at": "2026-11-17T22:04:45.405154"
+    },
+    {
+      "english": "Hi, we’re ready to order now.",
+      "indonesian": "Halo, kami siap pesan sekarang.",
+      "transliteration": "Ha-lo, kami sa-pi pe-san se-ka-rang.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T23:42:49.244154"
+    },
+    {
+      "english": "Could we have a fork, please?",
+      "indonesian": "Bisa minta garpu, ya?",
+      "transliteration": "Bi-sa min-ta gar-pu, ya?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T23:42:49.244166"
+    },
+    {
+      "english": "Do you have iced tea, please?",
+      "indonesian": "Kamu punya teh es, ya?",
+      "transliteration": "Ka-mu pu-nya teh es, ya?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T23:42:49.244167"
+    },
+    {
+      "english": "Waiter, can we get two plates?",
+      "indonesian": "Tolong, bisa dapat dua piring?",
+      "transliteration": "To-long, bi-sa da-pat dua pi-ring?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T23:42:49.244168"
+    },
+    {
+      "english": "We’d like to share one dish.",
+      "indonesian": "Kami ingin berbagi satu makanan.",
+      "transliteration": "Ka-mi i-nin ber-ba-gi sa-tu ma-kan-an.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T23:42:49.244169"
     }
   ],
-  "last_updated": "2026-11-17T22:04:45.405155"
+  "last_updated": "2026-11-17T23:42:49.244171"
 }
