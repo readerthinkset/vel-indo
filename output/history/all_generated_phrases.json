@@ -25199,7 +25199,42 @@
       "transliteration": "Di mana aku menemukan pengaturan Bluetooth?",
       "category": "Technology",
       "generated_at": "2026-11-17T05:42:33.708094"
+    },
+    {
+      "english": "Help me, where do I buy this?",
+      "indonesian": "Tolong, di mana saya beli ini?",
+      "transliteration": "Tolong, di mana saya beli ini?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T20:13:29.913769"
+    },
+    {
+      "english": "I want to practice speaking today.",
+      "indonesian": "Saya ingin latihan berbicara hari ini.",
+      "transliteration": "Saya ingin latihan berbicara hari ini.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T20:13:29.913780"
+    },
+    {
+      "english": "Can you repeat that more slowly?",
+      "indonesian": "Bisa kamu ulangi, pelan-pelan?",
+      "transliteration": "Bisa kamu ulangi, pelan-pelan?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T20:13:29.913782"
+    },
+    {
+      "english": "What does this word mean?",
+      "indonesian": "Artinya kata ini apa?",
+      "transliteration": "Artinya kata ini apa?",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T20:13:29.913783"
+    },
+    {
+      "english": "I’m learning Indonesian, please be patient.",
+      "indonesian": "Saya belajar bahasa Indonesia, mohon sabar.",
+      "transliteration": "Saya belajar bahasa Indonesia, mohon sabar.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T20:13:29.913784"
     }
   ],
-  "last_updated": "2026-11-17T05:42:33.708096"
+  "last_updated": "2026-11-17T20:13:29.913786"
 }
