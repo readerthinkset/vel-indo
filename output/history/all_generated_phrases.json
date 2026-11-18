@@ -25304,7 +25304,42 @@
       "transliteration": "Ka-mi i-nin ber-ba-gi sa-tu ma-kan-an.",
       "category": "Restaurant",
       "generated_at": "2026-11-17T23:42:49.244169"
+    },
+    {
+      "english": "Hi, what’s your name, please?",
+      "indonesian": "Halo, siapa nama kamu?",
+      "transliteration": "ha-lo, si-a-pa na-ma ka-mu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T02:12:19.561331"
+    },
+    {
+      "english": "How much is this, exactly?",
+      "indonesian": "Ini harganya berapa, ya?",
+      "transliteration": "i-ni har-ga-nya ber-pa ya?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T02:12:19.561345"
+    },
+    {
+      "english": "I’m looking for a pharmacy nearby.",
+      "indonesian": "Saya cari apotek terdekat.",
+      "transliteration": "sa-ya ca-ri a-po-tek ter-de-kat.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T02:12:19.561347"
+    },
+    {
+      "english": "Do you have this in smaller size?",
+      "indonesian": "Ada yang ukurannya lebih kecil?",
+      "transliteration": "a-da yang u-ku-ran-ya le-bih ke-cil?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T02:12:19.561348"
+    },
+    {
+      "english": "I’ll take it, thank you.",
+      "indonesian": "Saya ambil, terima kasih.",
+      "transliteration": "sa-ya am-bil, te-ri-ma ka-sih.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-18T02:12:19.561348"
     }
   ],
-  "last_updated": "2026-11-17T23:42:49.244171"
+  "last_updated": "2026-11-18T02:12:19.561350"
 }
