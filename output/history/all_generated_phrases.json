@@ -25444,7 +25444,42 @@
       "transliteration": "bi-ar-kan pi-ki-ran kem-bali ke si-ni",
       "category": "Mindfulness",
       "generated_at": "2026-11-18T21:43:21.606077"
+    },
+    {
+      "english": "How much for this scarf, please?",
+      "indonesian": "Berapa untuk syal ini, ya?",
+      "transliteration": "buh-RAH-pa un-tuk syal i-ni, ya",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T23:14:52.873871"
+    },
+    {
+      "english": "Do you have it in medium size?",
+      "indonesian": "Ada yang ukuran medium, ya?",
+      "transliteration": "A-da yang u-kuu-ran ME-deem, ya",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T23:14:52.873884"
+    },
+    {
+      "english": "I want a pair of socks today.",
+      "indonesian": "Saya mau sepasang kaus kaki.",
+      "transliteration": "sa-ya mau se-pa-sang Kaus ka-ki",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T23:14:52.873886"
+    },
+    {
+      "english": "Is there a discount today, maybe?",
+      "indonesian": "Ada diskon hari ini, mungkin?",
+      "transliteration": "a-da DIS-kon ha-ri i-ni, mun-kee",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T23:14:52.873887"
+    },
+    {
+      "english": "What colors do you have available?",
+      "indonesian": "Warna apa saja yang tersedia?",
+      "transliteration": "WAR-na a-pa sa-ja yang te-SER-a",
+      "category": "Shopping",
+      "generated_at": "2026-11-18T23:14:52.873888"
     }
   ],
-  "last_updated": "2026-11-18T21:43:21.606079"
+  "last_updated": "2026-11-18T23:14:52.873889"
 }
