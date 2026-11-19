@@ -25584,7 +25584,42 @@
       "transliteration": "kaos kaki ini nyaman, tidak gatal",
       "category": "Clothes",
       "generated_at": "2026-11-19T19:44:44.105669"
+    },
+    {
+      "english": "You can do it, keep going.",
+      "indonesian": "Kamu bisa, teruskan.",
+      "transliteration": "Ka-mu bi-sa, te-rus-kan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T22:03:46.908398"
+    },
+    {
+      "english": "Say it again, you're improving.",
+      "indonesian": "Ucapkan lagi, kamu makin baik.",
+      "transliteration": "U-cap-kan la-gi, ka-mu ma-kin bai-k.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T22:03:46.908415"
+    },
+    {
+      "english": "Trust your ears, then respond.",
+      "indonesian": "Percaya pendengaranmu, lalu jawab.",
+      "transliteration": "Per-ca-ya pen-deng-a-ran-mu, la-lu ja-wab.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T22:03:46.908418"
+    },
+    {
+      "english": "It's okay to pause, then speak.",
+      "indonesian": "Tidak apa-apa jeda, lalu bicara.",
+      "transliteration": "Ti-dak apa-a-pa je-da, la-lu bi-ca-ra.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T22:03:46.908419"
+    },
+    {
+      "english": "Relax your voice, speak naturally.",
+      "indonesian": "Santai, bicara dengan nada wajar.",
+      "transliteration": "San-tai, bi-ca-ra de-ngan na-da wa-jar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T22:03:46.908421"
     }
   ],
-  "last_updated": "2026-11-19T19:44:44.105671"
+  "last_updated": "2026-11-19T22:03:46.908423"
 }
