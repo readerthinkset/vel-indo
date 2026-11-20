@@ -25759,7 +25759,42 @@
       "transliteration": "burung pipit hinggap pelan, di pagar",
       "category": "Nature",
       "generated_at": "2026-11-20T19:25:17.412086"
+    },
+    {
+      "english": "What time do we meet today?",
+      "indonesian": "Jam berapa kita bertemu hari ini?",
+      "transliteration": "Jam berapa kita bertemu hari ini?",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:44:57.077196"
+    },
+    {
+      "english": "Can we schedule it for tomorrow?",
+      "indonesian": "Bisa dijadwalkan besok?",
+      "transliteration": "Bisa dijadwalkan besok?",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:44:57.077213"
+    },
+    {
+      "english": "I need to leave at seven.",
+      "indonesian": "Aku harus berangkat jam tujuh.",
+      "transliteration": "Aku harus berangkat jam tujuh.",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:44:57.077214"
+    },
+    {
+      "english": "Let's start after the meeting ends.",
+      "indonesian": "Kita mulai setelah rapat selesai.",
+      "transliteration": "Kita mulai setelah rapat selesai.",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:44:57.077216"
+    },
+    {
+      "english": "It's almost time, keep going.",
+      "indonesian": "Hampir waktunya, lanjutkan saja.",
+      "transliteration": "Hampir waktunya, lanjutkan saja.",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:44:57.077217"
     }
   ],
-  "last_updated": "2026-11-20T19:25:17.412088"
+  "last_updated": "2026-11-20T21:44:57.077219"
 }
