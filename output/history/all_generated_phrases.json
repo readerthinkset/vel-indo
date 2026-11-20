@@ -25654,7 +25654,42 @@
       "transliteration": "Itu di depan, sebentar lagi.",
       "category": "Directions",
       "generated_at": "2026-11-19T23:22:36.417921"
+    },
+    {
+      "english": "Batik tells stories with every stroke.",
+      "indonesian": "Batik menceritakan kisah lewat tiap goresan.",
+      "transliteration": "ba-tik men-cer-i-ta-kan ki-sah le-wat ti-ap go-res-an",
+      "category": "Culture",
+      "generated_at": "2026-11-20T01:45:38.336282"
+    },
+    {
+      "english": "Let’s watch the dalang begin the show.",
+      "indonesian": "Yuk kita lihat dalang mulai pertunjukan.",
+      "transliteration": "yuk ki-ta li-hat da-lang mu-lai per-tun-juk-an",
+      "category": "Culture",
+      "generated_at": "2026-11-20T01:45:38.336296"
+    },
+    {
+      "english": "The market smells sweet, fresh, and spicy.",
+      "indonesian": "Pasar tercium wangi manis, segar, dan pedas.",
+      "transliteration": "pa-sar ter-ci-um wan-gi ma-nis, se-gar, dan pe-das",
+      "category": "Culture",
+      "generated_at": "2026-11-20T01:45:38.336298"
+    },
+    {
+      "english": "We eat gudeg on slow, happy days.",
+      "indonesian": "Kami makan gudeg di hari yang santai.",
+      "transliteration": "ka-mi ma-kan gu-deg di ha-ri yang san-tai",
+      "category": "Culture",
+      "generated_at": "2026-11-20T01:45:38.336299"
+    },
+    {
+      "english": "Tonight, we sing along after dinner.",
+      "indonesian": "Malam ini, kita nyanyi bareng setelah makan.",
+      "transliteration": "ma-lam i-ni, ki-ta nya-nyi ba-reng se-te-lah ma-kan",
+      "category": "Culture",
+      "generated_at": "2026-11-20T01:45:38.336300"
     }
   ],
-  "last_updated": "2026-11-19T23:22:36.417923"
+  "last_updated": "2026-11-20T01:45:38.336303"
 }
