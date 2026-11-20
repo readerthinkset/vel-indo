@@ -25794,7 +25794,42 @@
       "transliteration": "Hampir waktunya, lanjutkan saja.",
       "category": "Time",
       "generated_at": "2026-11-20T21:44:57.077217"
+    },
+    {
+      "english": "Hi there, ready to learn today?",
+      "indonesian": "Hai, siap belajar hari ini?",
+      "transliteration": "Hai, siap belaja hari ini?",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T22:53:32.946107"
+    },
+    {
+      "english": "Good morning, let's start with one word.",
+      "indonesian": "Selamat pagi, kita mulai dari satu kata.",
+      "transliteration": "Selamat pagi, kita mulai dari satu kata.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T22:53:32.946119"
+    },
+    {
+      "english": "Hi! Let's practice quick Indonesian greetings.",
+      "indonesian": "Halo! Mari latihan salam Bahasa Indonesia cepat.",
+      "transliteration": "Halo! Mari latihan salam Bahasa Indonesia cepat.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T22:53:32.946121"
+    },
+    {
+      "english": "Welcome, let's speak a little Bahasa.",
+      "indonesian": "Selamat datang, mari bicara sedikit Bahasa.",
+      "transliteration": "Selamat datang, mari bicara sedikit Bahasa.",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T22:53:32.946122"
+    },
+    {
+      "english": "Good afternoon, how do you say hello?",
+      "indonesian": "Selamat siang, bagaimana cara bilang halo?",
+      "transliteration": "Selamat siang, bagaimana cara bilang halo?",
+      "category": "Greetings",
+      "generated_at": "2026-11-20T22:53:32.946123"
     }
   ],
-  "last_updated": "2026-11-20T21:44:57.077219"
+  "last_updated": "2026-11-20T22:53:32.946143"
 }
