@@ -25689,7 +25689,42 @@
       "transliteration": "ma-lam i-ni, ki-ta nya-nyi ba-reng se-te-lah ma-kan",
       "category": "Culture",
       "generated_at": "2026-11-20T01:45:38.336300"
+    },
+    {
+      "english": "Hello, I’m looking for a pharmacy.",
+      "indonesian": "Halo, saya cari apotek.",
+      "transliteration": "Halo, saya cari apotek.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T04:50:42.724667"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "indonesian": "Di mana halte bus, tolong?",
+      "transliteration": "Di mana halte bus, tolong?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T04:50:42.724685"
+    },
+    {
+      "english": "I would like to order now.",
+      "indonesian": "Saya mau pesan sekarang.",
+      "transliteration": "Saya mau pesan sekarang.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T04:50:42.724687"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "indonesian": "Ada menu vegetarian?",
+      "transliteration": "Ada menu vegetarian?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T04:50:42.724689"
+    },
+    {
+      "english": "Is it spicy, or not?",
+      "indonesian": "Pedas atau tidak?",
+      "transliteration": "Pedas atau tidak?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-20T04:50:42.724690"
     }
   ],
-  "last_updated": "2026-11-20T01:45:38.336303"
+  "last_updated": "2026-11-20T04:50:42.724693"
 }
