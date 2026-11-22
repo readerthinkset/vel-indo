@@ -26144,7 +26144,42 @@
       "transliteration": "aku per-gi ke ka-mar man-di, se-ge-ra",
       "category": "Daily Routine",
       "generated_at": "2026-11-22T20:36:16.355725"
+    },
+    {
+      "english": "The weather is turning cloudy, today.",
+      "indonesian": "Cuacanya mulai mendung, hari ini.",
+      "transliteration": "uacha-nya mulai mendung, hari ini",
+      "category": "Weather",
+      "generated_at": "2026-11-22T22:16:22.510821"
+    },
+    {
+      "english": "It feels hot, even in the shade.",
+      "indonesian": "Rasanya panas, bahkan di tempat teduh.",
+      "transliteration": "rasanya panas, bahkan di tempat teduh",
+      "category": "Weather",
+      "generated_at": "2026-11-22T22:16:22.510834"
+    },
+    {
+      "english": "I hear thunder, but it’s far.",
+      "indonesian": "Aku dengar petir, tapi masih jauh.",
+      "transliteration": "aku dengar petir, tapi masih jauh",
+      "category": "Weather",
+      "generated_at": "2026-11-22T22:16:22.510836"
+    },
+    {
+      "english": "The sky is gray, all around.",
+      "indonesian": "Langitnya kelabu, di mana-mana.",
+      "transliteration": "langitnya kelabu, di mana-mana",
+      "category": "Weather",
+      "generated_at": "2026-11-22T22:16:22.510838"
+    },
+    {
+      "english": "My clothes dried fast this morning.",
+      "indonesian": "Pakailanku kering cepat pagi ini.",
+      "transliteration": "pakaian-ku kering cepat pagi ini",
+      "category": "Weather",
+      "generated_at": "2026-11-22T22:16:22.510840"
     }
   ],
-  "last_updated": "2026-11-22T20:36:16.355727"
+  "last_updated": "2026-11-22T22:16:22.510842"
 }
