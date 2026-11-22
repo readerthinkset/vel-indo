@@ -26109,7 +26109,42 @@
       "transliteration": "me-lang-kah de-ngan ha-ti-ha-ti, ja-ngan bu-ru-bu-ru",
       "category": "Balance",
       "generated_at": "2026-11-22T18:50:16.673870"
+    },
+    {
+      "english": "I wake up slowly, no rush.",
+      "indonesian": "Aku bangun pelan-pelan, tanpa terburu-buru.",
+      "transliteration": "aku bangun pelan-pelan, tan-pa ter-buru-buru",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T20:36:16.355710"
+    },
+    {
+      "english": "I check my phone, then breathe.",
+      "indonesian": "Aku cek ponsel, lalu tarik napas.",
+      "transliteration": "aku cek pon-sel, lalu ta-rik na-pas",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T20:36:16.355721"
+    },
+    {
+      "english": "I sit up, stretching my back.",
+      "indonesian": "Aku duduk, merentangkan punggungku.",
+      "transliteration": "aku du-duk, me-reng-tang-kan pung-gung-ku",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T20:36:16.355722"
+    },
+    {
+      "english": "I get out of bed, quietly.",
+      "indonesian": "Aku turun dari tempat tidur dengan tenang.",
+      "transliteration": "aku tu-run da-ri tem-pat ti-dur de-ngan te-nang",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T20:36:16.355724"
+    },
+    {
+      "english": "I go to the bathroom, right away.",
+      "indonesian": "Aku pergi ke kamar mandi, segera.",
+      "transliteration": "aku per-gi ke ka-mar man-di, se-ge-ra",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T20:36:16.355725"
     }
   ],
-  "last_updated": "2026-11-22T18:50:16.673871"
+  "last_updated": "2026-11-22T20:36:16.355727"
 }
