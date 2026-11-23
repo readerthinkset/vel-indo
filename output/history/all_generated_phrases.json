@@ -26214,7 +26214,42 @@
       "transliteration": "u-sa-ha-mu ber-arti, te-rus-kan",
       "category": "Kindness",
       "generated_at": "2026-11-23T00:38:48.370774"
+    },
+    {
+      "english": "Where should I buy bus tickets?",
+      "indonesian": "Di mana saya beli tiket bus?",
+      "transliteration": "Di mana saya beli tiket bus?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:42:54.754950"
+    },
+    {
+      "english": "Is there a train station nearby?",
+      "indonesian": "Ada stasiun kereta dekat sini?",
+      "transliteration": "Ada stasiun kereta dekat sini?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:42:54.754967"
+    },
+    {
+      "english": "How much does this ticket cost?",
+      "indonesian": "Tiket ini berapa harganya?",
+      "transliteration": "Tiket ini berapa harganya?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:42:54.754970"
+    },
+    {
+      "english": "What time does the museum open?",
+      "indonesian": "Jam berapa museum buka?",
+      "transliteration": "Jam berapa museum buka?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:42:54.754971"
+    },
+    {
+      "english": "Can I pay with card here?",
+      "indonesian": "Bisa bayar pakai kartu di sini?",
+      "transliteration": "Bisa bayar pakai kartu di sini?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:42:54.754972"
     }
   ],
-  "last_updated": "2026-11-23T00:38:48.370776"
+  "last_updated": "2026-11-23T04:42:54.754974"
 }
