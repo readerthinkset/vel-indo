@@ -26354,7 +26354,42 @@
       "transliteration": "Aku khawatir, ada yang tidak beres.",
       "category": "Feelings",
       "generated_at": "2026-11-24T03:37:15.949995"
+    },
+    {
+      "english": "A rooster crows early, waking everyone up.",
+      "indonesian": "Ayam jago berkokok pagi, membangunkan semua orang.",
+      "transliteration": "ayam jago berkokoq pagi, membangunkan semua orang",
+      "category": "Animals",
+      "generated_at": "2026-11-24T04:40:08.567692"
+    },
+    {
+      "english": "The calm cow chews grass slowly.",
+      "indonesian": "Sapi tenang mengunyah rumput pelan.",
+      "transliteration": "sapi tenang mengunyah rumput pelan",
+      "category": "Animals",
+      "generated_at": "2026-11-24T04:40:08.567704"
+    },
+    {
+      "english": "A pig rolls in mud, happily.",
+      "indonesian": "Babi berguling di lumpur, dengan senang.",
+      "transliteration": "babi berguling di lumpur, dengan senang",
+      "category": "Animals",
+      "generated_at": "2026-11-24T04:40:08.567706"
+    },
+    {
+      "english": "A dog trots beside you, tail up.",
+      "indonesian": "Anjing berlari kecil di sampingmu, ekor terangkat.",
+      "transliteration": "anjing berlari kecil di sampingmu, ekor terangkat",
+      "category": "Animals",
+      "generated_at": "2026-11-24T04:40:08.567708"
+    },
+    {
+      "english": "A cat purrs softly, warming your lap.",
+      "indonesian": "Kucing mendengkur pelan, menghangatkan pangkuanmu.",
+      "transliteration": "kucing mendengkur pelan, menghangatkan pangkuanmu",
+      "category": "Animals",
+      "generated_at": "2026-11-24T04:40:08.567709"
     }
   ],
-  "last_updated": "2026-11-24T03:37:15.949996"
+  "last_updated": "2026-11-24T04:40:08.567711"
 }
