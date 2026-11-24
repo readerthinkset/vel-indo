@@ -26319,7 +26319,42 @@
       "transliteration": "Buat rencana, lalu lakukan saja.",
       "category": "Strength",
       "generated_at": "2026-11-24T01:29:55.912982"
+    },
+    {
+      "english": "I feel happy, like everything's okay.",
+      "indonesian": "Aku merasa bahagia, semuanya baik saja.",
+      "transliteration": "Aku merasa bahagia, semuanya baik saja.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T03:37:15.949974"
+    },
+    {
+      "english": "I feel nervous, my hands are restless.",
+      "indonesian": "Aku gugup, tangan ku agak gelisah.",
+      "transliteration": "Aku gugup, tangan ku agak gelisah.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T03:37:15.949991"
+    },
+    {
+      "english": "I feel excited, I can't wait.",
+      "indonesian": "Aku bersemangat, aku tidak sabar.",
+      "transliteration": "Aku bersemangat, aku tidak sabar.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T03:37:15.949992"
+    },
+    {
+      "english": "I feel calm now, just breathing.",
+      "indonesian": "Aku tenang sekarang, cuma tarik napas.",
+      "transliteration": "Aku tenang sekarang, cuma tarik napas.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T03:37:15.949994"
+    },
+    {
+      "english": "I feel worried, something feels off.",
+      "indonesian": "Aku khawatir, ada yang tidak beres.",
+      "transliteration": "Aku khawatir, ada yang tidak beres.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T03:37:15.949995"
     }
   ],
-  "last_updated": "2026-11-24T01:29:55.912983"
+  "last_updated": "2026-11-24T03:37:15.949996"
 }
