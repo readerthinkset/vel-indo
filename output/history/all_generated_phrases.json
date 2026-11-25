@@ -26599,7 +26599,42 @@
       "transliteration": "itu cuma di tikungan depan",
       "category": "Directions",
       "generated_at": "2026-11-25T06:02:51.571445"
+    },
+    {
+      "english": "How much does this cost, please?",
+      "indonesian": "Berapa harga ini, ya?",
+      "transliteration": "Berapaa harga ini, ya?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T20:50:52.618802"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "indonesian": "Apakah ini ada stoknya?",
+      "transliteration": "Apakaah ini ada stoknya?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T20:50:52.618817"
+    },
+    {
+      "english": "I’d like to see more options.",
+      "indonesian": "Saya ingin lihat pilihan lainnya.",
+      "transliteration": "Saya ingin lihat pilihan lainnya.",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T20:50:52.618818"
+    },
+    {
+      "english": "Is there a sale on this?",
+      "indonesian": "Apakah ini sedang diskon?",
+      "transliteration": "Apakaah ini sedang diskon?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T20:50:52.618819"
+    },
+    {
+      "english": "Can I pay by card?",
+      "indonesian": "Bisa bayar pakai kartu?",
+      "transliteration": "Bisa bayar pakai kartu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T20:50:52.618820"
     }
   ],
-  "last_updated": "2026-11-25T06:02:51.571448"
+  "last_updated": "2026-11-25T20:50:52.618821"
 }
