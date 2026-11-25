@@ -26564,7 +26564,42 @@
       "transliteration": "Habis makan siang, kita jalan santai ya.",
       "category": "Holidays",
       "generated_at": "2026-11-25T03:25:44.836557"
+    },
+    {
+      "english": "Go this way, then turn left.",
+      "indonesian": "Pergi ke sini, lalu belok kiri.",
+      "transliteration": "pergi ke sini, lalu belok kiri",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:02:51.571423"
+    },
+    {
+      "english": "Walk straight ahead, please.",
+      "indonesian": "Jalan lurus dulu, ya.",
+      "transliteration": "jalan lurus dulu, ya",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:02:51.571441"
+    },
+    {
+      "english": "Turn right at the light.",
+      "indonesian": "Belok kanan di lampu lalu lintas.",
+      "transliteration": "belok kanan di lampu lalu lintas",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:02:51.571443"
+    },
+    {
+      "english": "Keep going until you reach it.",
+      "indonesian": "Terus jalan sampai ketemu.",
+      "transliteration": "terus jalan sampai ketemu",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:02:51.571444"
+    },
+    {
+      "english": "It’s just around the corner.",
+      "indonesian": "Itu cuma di tikungan depan.",
+      "transliteration": "itu cuma di tikungan depan",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:02:51.571445"
     }
   ],
-  "last_updated": "2026-11-25T03:25:44.836559"
+  "last_updated": "2026-11-25T06:02:51.571448"
 }
