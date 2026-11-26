@@ -26774,7 +26774,42 @@
       "transliteration": "Tetap percaya diri, bahasa kamu berkembang.",
       "category": "Success",
       "generated_at": "2026-11-26T05:55:36.850776"
+    },
+    {
+      "english": "This jacket keeps me warm.",
+      "indonesian": "Jaket ini bikin aku tetap hangat.",
+      "transliteration": "ja-ket i-ni bi-kin a-ku te-tap hangat",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T20:41:56.759204"
+    },
+    {
+      "english": "My shirt smells fresh today.",
+      "indonesian": "Kemeja ku baunya segar hari ini.",
+      "transliteration": "ke-me-ja ku bau-nya se-gar ha-ri i-ni",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T20:41:56.759219"
+    },
+    {
+      "english": "These jeans fit my legs well.",
+      "indonesian": "Celana jeans ini pas di kakiku.",
+      "transliteration": "ce-la-na je-ans i-ni pas di ka-ku-ku",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T20:41:56.759221"
+    },
+    {
+      "english": "That belt makes my waist tidy.",
+      "indonesian": "Ikat pinggang itu bikin pinggangku rapi.",
+      "transliteration": "i-kat ping-gang i-tu bi-kin ping-gang-ku ra-pi",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T20:41:56.759223"
+    },
+    {
+      "english": "This watch pairs nicely with sleeves.",
+      "indonesian": "Jam ini cocok dengan lengan bajuku.",
+      "transliteration": "jam i-ni co-cok de-ngan len-gan ba-ju-ku",
+      "category": "Clothes",
+      "generated_at": "2026-11-26T20:41:56.759224"
     }
   ],
-  "last_updated": "2026-11-26T05:55:36.850779"
+  "last_updated": "2026-11-26T20:41:56.759226"
 }
