@@ -26844,7 +26844,28 @@
       "transliteration": "Istirahat kan pikiranmu, tanpa rasa ber salah.",
       "category": "Positive Life",
       "generated_at": "2026-11-26T22:50:28.741401"
+    },
+    {
+      "english": "Help, I can't wake up, please.",
+      "indonesian": "Tolong, saya tidak bisa bangun, ya.",
+      "transliteration": "Tolong, saya tidak bisa bangun, ya.",
+      "category": "Emergency",
+      "generated_at": "2026-11-27T11:32:11.030886"
+    },
+    {
+      "english": "Please help, I'm choking right now.",
+      "indonesian": "Tolong, saya tersedak sekarang.",
+      "transliteration": "Tolong, saya tersedak sekarang.",
+      "category": "Emergency",
+      "generated_at": "2026-11-27T11:32:11.030898"
+    },
+    {
+      "english": "I think I'm having a seizure, help.",
+      "indonesian": "Sepertinya saya kejang, tolong.",
+      "transliteration": "Sepertinya saya kejang, tolong.",
+      "category": "Emergency",
+      "generated_at": "2026-11-27T11:32:11.030900"
     }
   ],
-  "last_updated": "2026-11-26T22:50:28.741403"
+  "last_updated": "2026-11-27T11:32:11.030902"
 }
