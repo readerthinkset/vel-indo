@@ -26865,7 +26865,28 @@
       "transliteration": "Sepertinya saya kejang, tolong.",
       "category": "Emergency",
       "generated_at": "2026-11-27T11:32:11.030900"
+    },
+    {
+      "english": "Keep practicing, even with messy words.",
+      "indonesian": "Terus latihan, meski kata masih berantakan.",
+      "transliteration": "Terus la-ti-han, mes-ki ka-ta ma-sih be-ran-ta-kan.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:20:36.111668"
+    },
+    {
+      "english": "Don’t quit, your progress is real.",
+      "indonesian": "Jangan menyerah, kemajuanmu nyata.",
+      "transliteration": "Jan-gan me-ny-erah, ke-ma-ju-an-mu nya-ta.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:20:36.111683"
+    },
+    {
+      "english": "Stuck? Take a breath, then try.",
+      "indonesian": "Macet? Tarik napas, lalu coba lagi.",
+      "transliteration": "Ma-cet? Ta-rik na-pas, la-lu co-ba la-gi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:20:36.111684"
     }
   ],
-  "last_updated": "2026-11-27T11:32:11.030902"
+  "last_updated": "2026-11-27T19:20:36.111686"
 }
