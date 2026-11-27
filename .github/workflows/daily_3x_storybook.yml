@@ -2,9 +2,9 @@ name: Velocity Indonesian - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:52 * * *'
-    - cron: '08:52 * * *'
-    - cron: '16:52 * * *'
+    - cron: '52 0 * * *'
+    - cron: '52 8 * * *'
+    - cron: '52 16 * * *'
   workflow_dispatch:
     inputs:
       category:
